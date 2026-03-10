@@ -5,14 +5,13 @@ df = pd.read_csv("../../Raw/2_E-commerce Customer Data For Behavior Analysis/eco
 print("Initial shape:", df.shape)
 
 #drops unwanted columns
-df = df.drop(columns=["Purchase Date", "Product Price", "Quantity", "Payment Method", "Customer Name", "Age", "Gender", "Churn"])
+df = df.drop(columns=["Purchase Date", "Product Price", "Quantity", "Payment Method", "Customer Name", "Age", "Gender", "Churn", "Product Category"])
 
 print("Shape after dropping columns:", df.shape)
 
 #renames columns
 df = df.rename(columns={
     "Customer ID": "Customer_ID",
-    "Product Category": "Product_Category",
     "Total Purchase Amount": "Amount_Spent",
     "Customer Age": "Customer_Age",
     "Returns": "Order_Returns"
