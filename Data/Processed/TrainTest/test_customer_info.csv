@@ -1,0 +1,1001 @@
+Customer_ID,Preferred_Login_Device,City_Tier,Preferred_Payment_Mode,Hours_Spend_On_Website,Total_Devices_Registered,Satisfaction_Score,Marital_Status,Complain_Count_In_Last_Month,Order_Amount_Hike_From_Last_Year,Discount_Coupon_Used_Count,Days_Since_Last_Order,Average_Cash_Back,Customer_Gender,Customer_Residence_Type,Customer_Qualification,Customer_Income,Loyalty_Engagement_Score,Total_Subscriptions,Membership_Type,Customer_Age,Total_Amount_Spent,Total_Returns,Preferred_Order_Category,Preferred_Order_Category_Name,Total_Orders_This_Month,Cultural_Eco_Alignment,Emotional_Guilt_Score,Emotional_Pride_Score,Social_Influence_Score,Green_Knowledge_Level,Time_Spent_on_Green_Products,Clicks_on_Green_Products,Previous_Green_Purchases,Referral_Source,Product_Category,Green_Product_Rating
+1919,Mobile Phone,1,Debit Card,2,4,3,Married,0,13,1,2,125,Male,Rural,Bachelor,5K-10K,2125,More than 1,Silver,19,11158,1,4,produce,2,,,,,,,,,,,
+2877,Mobile Phone,1,Credit Card,4,4,3,Divorced,1,14,1,2,156,Female,Urban,High School,5K-10K,2305,1,Gold,51,10284,2,4,produce,1,,,,,,,,,,,
+3847,Mobile Phone,3,Debit Card,2,4,5,Married,1,12,1,4,175,Female,Urban,Bachelor,5K-10K,0,More than 1,Gold,62,19172,1,7,beverages,2,,,,,,,,,,,
+950,Mobile Phone,1,Credit Card,2,1,1,Married,0,15,0,2,170,Male,Urban,Bachelor,2K-5K,6742,1,Platinum,64,12829,1,4,produce,2,2.0,1.0,7.0,5.0,8.0,8.0,2.0,1.0,Email,Non-Eco-Friendly,5.0
+274,Mobile Phone,1,Debit Card,3,3,3,Divorced,1,12,0,0,176,Female,Urban,High School,5K-10K,3751,1,Platinum,38,11170,2,4,produce,2,4.0,3.0,4.0,8.0,9.0,19.0,0.0,1.0,Email,Non-Eco-Friendly,5.0
+455,Computer,3,Debit Card,2,3,4,Divorced,0,14,2,3,165,Male,Urban,Bachelor,5K-10K,4913,More than 1,Platinum,20,5039,2,11,personal care,1,9.0,7.0,1.0,7.0,2.0,2.0,5.0,2.0,Social Media,Eco-Friendly,1.0
+4912,Computer,3,COD,3,2,5,Single,0,18,1,1,136,Male,Rural,Bachelor,5K-10K,0,1,Silver,50,7335,2,16,dairy eggs,4,,,,,,,,,,,
+1897,Mobile Phone,3,E wallet,2,3,3,Married,0,12,1,9,275,Male,Urban,Bachelor,More than 10K,5890,More than 1,Gold,45,8272,1,19,snacks,4,,,,,,,,,,,
+963,Mobile Phone,1,Credit Card,3,1,3,Married,0,16,0,4,144,Female,Urban,High School,5K-10K,5718,More than 1,Platinum,49,14590,3,4,produce,2,10.0,1.0,9.0,6.0,6.0,11.0,2.0,2.0,Social Media,Eco-Friendly,5.0
+485,Mobile Phone,1,UPI,3,4,5,Single,1,11,0,2,128,Male,Rural,High School,5K-10K,0,More than 1,Platinum,54,1192,1,4,produce,2,6.0,10.0,9.0,8.0,2.0,7.0,4.0,2.0,Ads,Non-Eco-Friendly,3.0
+266,Mobile Phone,1,Debit Card,2,3,3,Divorced,0,13,1,1,279,Male,Urban,High School,More than 10K,6350,More than 1,Gold,64,3902,0,4,produce,1,10.0,2.0,1.0,7.0,8.0,2.0,3.0,3.0,Ads,Non-Eco-Friendly,5.0
+3123,Computer,1,Credit Card,4,4,3,Divorced,0,13,3,3,151,Male,Rural,Bachelor,5K-10K,2924,More than 1,Silver,62,6538,3,16,dairy eggs,3,,,,,,,,,,,
+1114,Computer,1,Debit Card,2,5,5,Married,0,21,1,7,150,Female,Urban,Bachelor,5K-10K,4290,More than 1,Platinum,68,7935,2,4,produce,2,3.0,1.0,5.0,3.0,2.0,11.0,4.0,1.0,Email,Eco-Friendly,2.0
+218,Mobile Phone,1,Credit Card,2,3,4,Married,0,11,0,4,138,Female,Urban,High School,More than 10K,3771,More than 1,Platinum,25,5072,1,4,produce,5,1.0,4.0,8.0,5.0,4.0,10.0,5.0,4.0,Email,Eco-Friendly,1.0
+4982,Computer,3,E wallet,3,6,1,Married,0,25,6,12,179,Male,Urban,Bachelor,5K-10K,5865,More than 1,Platinum,25,4478,2,7,beverages,3,,,,,,,,,,,
+2210,Mobile Phone,1,Credit Card,2,5,5,Married,0,21,1,0,149,Male,Rural,High School,5K-10K,0,1,Platinum,29,9347,2,13,pantry,2,,,,,,,,,,,
+3588,Mobile Phone,3,Credit Card,4,5,1,Married,1,13,1,2,206,Female,Urban,Bachelor,5K-10K,3804,1,Gold,55,19346,3,4,produce,6,,,,,,,,,,,
+4967,Mobile Phone,3,E wallet,3,4,1,Married,0,20,1,3,229,Female,Rural,Bachelor,5K-10K,3333,More than 1,Platinum,37,9144,2,19,snacks,3,,,,,,,,,,,
+1056,Mobile Phone,1,Debit Card,3,3,3,Single,0,12,1,0,121,Male,Urban,High School,2K-5K,3223,More than 1,Silver,51,2735,0,4,produce,3,10.0,10.0,2.0,2.0,5.0,0.0,0.0,4.0,Social Media,Eco-Friendly,1.0
+1330,Computer,1,CC,1,3,4,Single,0,12,2,2,121,Male,Urban,Bachelor,5K-10K,5008,More than 1,Platinum,20,6902,2,4,produce,3,,,,,,,,,,,
+1324,Mobile Phone,1,Debit Card,2,3,3,Married,0,12,1,8,125,Male,Urban,Bachelor,5K-10K,8468,1,Platinum,60,7600,0,4,produce,3,,,,,,,,,,,
+1867,Computer,1,Credit Card,2,4,5,Single,0,15,1,2,268,Male,Rural,High School,2K-5K,7997,1,Platinum,44,1673,1,4,produce,2,,,,,,,,,,,
+3184,Mobile Phone,1,COD,4,2,4,Single,0,12,1,1,151,Female,Rural,Others,2K-5K,0,1,Silver,19,11944,5,4,produce,1,,,,,,,,,,,
+3398,Mobile Phone,1,Credit Card,3,4,1,Married,1,15,2,11,315,Male,Rural,Bachelor,5K-10K,0,1,Platinum,63,1815,0,19,snacks,2,,,,,,,,,,,
+538,Mobile Phone,1,Debit Card,3,5,5,Divorced,0,15,1,1,125,Male,Urban,High School,5K-10K,0,1,Gold,36,11457,0,4,produce,2,10.0,7.0,1.0,4.0,5.0,12.0,4.0,2.0,Email,Eco-Friendly,5.0
+4891,Mobile Phone,3,COD,4,5,3,Married,1,14,1,8,182,Male,Rural,Bachelor,2K-5K,5305,1,Platinum,32,18659,1,19,snacks,3,,,,,,,,,,,
+3783,Computer,1,Debit Card,4,5,1,Single,1,19,1,1,154,Male,Rural,High School,5K-10K,4388,1,Gold,68,14613,3,4,produce,6,,,,,,,,,,,
+1616,Mobile Phone,3,E wallet,3,3,5,Married,0,11,1,2,130,Male,Urban,High School,2K-5K,5984,1,Platinum,54,8557,2,16,dairy eggs,3,,,,,,,,,,,
+1593,Computer,1,Credit Card,2,3,3,Married,0,11,0,2,205,Female,Urban,Bachelor,2K-5K,4707,1,Platinum,21,8703,2,16,dairy eggs,1,,,,,,,,,,,
+2147,Mobile Phone,1,Debit Card,2,3,5,Single,0,14,1,0,120,Male,Rural,High School,5K-10K,2839,More than 1,Gold,52,21814,3,4,produce,3,,,,,,,,,,,
+470,Mobile Phone,1,CC,3,4,2,Married,0,14,1,3,125,Female,Rural,High School,5K-10K,0,More than 1,Gold,58,9279,2,19,snacks,4,8.0,1.0,8.0,1.0,1.0,17.0,2.0,3.0,Social Media,Eco-Friendly,3.0
+134,Computer,1,Credit Card,0,3,2,Married,1,18,0,2,236,Female,Urban,High School,5K-10K,7174,More than 1,Gold,59,8393,0,4,produce,1,2.0,6.0,1.0,4.0,3.0,8.0,6.0,5.0,Ads,Non-Eco-Friendly,4.0
+721,Mobile Phone,1,COD,3,3,3,Divorced,0,12,0,7,171,Male,Urban,High School,2K-5K,8299,More than 1,Platinum,40,16891,2,4,produce,2,7.0,9.0,6.0,5.0,5.0,6.0,2.0,5.0,Social Media,Eco-Friendly,2.0
+1194,Mobile Phone,1,Debit Card,3,1,4,Married,1,12,1,5,133,Male,Urban,Bachelor,2K-5K,6846,More than 1,Platinum,29,16228,3,4,produce,3,10.0,5.0,3.0,7.0,6.0,5.0,5.0,2.0,Email,Non-Eco-Friendly,4.0
+3604,Mobile Phone,1,Debit Card,4,4,1,Married,0,20,2,4,173,Male,Urban,High School,2K-5K,3565,1,Platinum,19,13530,1,4,produce,3,,,,,,,,,,,
+2517,Computer,1,Debit Card,3,6,2,Single,0,16,1,4,232,Male,Urban,Bachelor,5K-10K,7731,More than 1,Platinum,48,5892,2,4,produce,2,,,,,,,,,,,
+2037,Mobile Phone,1,Credit Card,2,4,5,Married,1,14,1,9,200,Male,Urban,High School,5K-10K,9248,More than 1,Platinum,42,10104,3,4,produce,2,,,,,,,,,,,
+3560,Mobile Phone,3,E wallet,3,5,4,Single,1,13,3,3,224,Male,Urban,Bachelor,5K-10K,6928,More than 1,Platinum,36,1756,1,1,frozen,1,,,,,,,,,,,
+1575,Mobile Phone,3,E wallet,2,3,1,Married,0,14,6,7,141,Female,Rural,Bachelor,More than 10K,2391,More than 1,Platinum,21,5713,0,4,produce,3,,,,,,,,,,,
+3077,Computer,1,Cash on Delivery,4,5,5,Single,0,13,1,3,212,Male,Urban,High School,5K-10K,6120,More than 1,Platinum,56,9003,2,16,dairy eggs,2,,,,,,,,,,,
+713,Mobile Phone,1,COD,2,3,3,Married,1,13,1,7,133,Male,Rural,Bachelor,5K-10K,2544,More than 1,Platinum,41,17141,3,16,dairy eggs,3,1.0,1.0,7.0,4.0,6.0,6.0,0.0,2.0,Organic Search,Non-Eco-Friendly,1.0
+3901,Mobile Phone,3,Credit Card,4,4,1,Married,0,15,2,7,320,Male,Urban,Bachelor,5K-10K,2665,More than 1,Platinum,22,10519,0,7,beverages,1,,,,,,,,,,,
+1904,Computer,1,Debit Card,3,3,1,Single,0,20,0,9,178,Male,Rural,Bachelor,More than 10K,0,1,Platinum,31,4830,1,13,pantry,2,,,,,,,,,,,
+4011,Mobile Phone,1,Credit Card,3,2,5,Married,1,14,7,8,185,Male,Urban,High School,5K-10K,8092,More than 1,Gold,18,5088,1,4,produce,3,,,,,,,,,,,
+4545,Mobile Phone,3,Debit Card,4,4,4,Single,1,20,8,3,209,Female,Rural,Others,More than 10K,2557,1,Platinum,51,12833,1,7,beverages,1,,,,,,,,,,,
+4555,Mobile Phone,1,Debit Card,3,4,1,Married,0,12,1,3,210,Male,Urban,Bachelor,2K-5K,4587,More than 1,Gold,34,9129,1,16,dairy eggs,3,,,,,,,,,,,
+3926,Computer,1,Credit Card,4,5,4,Single,0,12,1,5,160,Male,Urban,Bachelor,5K-10K,6274,More than 1,Gold,65,11384,3,4,produce,1,,,,,,,,,,,
+4044,Mobile Phone,1,Credit Card,4,5,3,Married,0,23,2,1,159,Male,Urban,Bachelor,5K-10K,5600,1,Gold,43,8782,2,4,produce,2,,,,,,,,,,,
+3074,Computer,3,E wallet,3,4,2,Single,1,15,1,3,148,Male,Urban,Bachelor,2K-5K,10915,More than 1,Silver,45,18415,3,3,bakery,1,,,,,,,,,,,
+585,Mobile Phone,1,Cash on Delivery,3,3,2,Divorced,0,20,4,1,203,Female,Urban,High School,<=2K,3751,More than 1,Platinum,62,8536,3,1,frozen,4,8.0,1.0,6.0,2.0,10.0,10.0,4.0,2.0,Ads,Eco-Friendly,2.0
+3372,Mobile Phone,1,Debit Card,4,4,5,Married,1,13,2,1,146,Male,Urban,Bachelor,5K-10K,0,1,Silver,57,4560,1,4,produce,3,,,,,,,,,,,
+4508,Mobile Phone,1,Debit Card,3,2,1,Single,1,13,1,2,155,Female,Rural,Bachelor,More than 10K,2242,1,Gold,61,2404,0,4,produce,3,,,,,,,,,,,
+1015,Mobile Phone,1,Cash on Delivery,2,3,3,Married,0,11,2,3,231,Female,Urban,High School,5K-10K,5793,1,Platinum,51,15161,1,4,produce,3,4.0,4.0,2.0,7.0,4.0,0.0,1.0,4.0,Organic Search,Eco-Friendly,1.0
+2178,Mobile Phone,1,Debit Card,2,3,1,Married,0,21,1,0,121,Female,Rural,High School,More than 10K,0,More than 1,Silver,46,9230,1,7,beverages,2,,,,,,,,,,,
+2038,Mobile Phone,1,Debit Card,2,3,4,Married,0,22,1,3,124,Male,Urban,High School,5K-10K,5973,1,Platinum,39,8581,1,16,dairy eggs,3,,,,,,,,,,,
+997,Mobile Phone,3,E wallet,3,3,1,Single,0,12,0,4,145,Male,Urban,High School,More than 10K,2910,1,Platinum,47,9856,2,4,produce,4,8.0,10.0,9.0,1.0,9.0,10.0,1.0,2.0,Organic Search,Eco-Friendly,2.0
+4426,Computer,3,Debit Card,4,2,1,Married,0,13,3,3,153,Male,Urban,Bachelor,5K-10K,4252,1,Silver,57,8487,0,16,dairy eggs,2,,,,,,,,,,,
+3888,Computer,3,Credit Card,3,5,1,Single,0,13,6,3,214,Female,Rural,Others,More than 10K,2925,1,Gold,27,11381,1,4,produce,7,,,,,,,,,,,
+3800,Mobile Phone,1,UPI,3,5,4,Married,0,20,3,4,149,Male,Urban,High School,5K-10K,6129,More than 1,Platinum,29,9978,2,19,snacks,1,,,,,,,,,,,
+750,Mobile Phone,1,Debit Card,3,3,4,Divorced,1,12,11,9,234,Female,Rural,Bachelor,5K-10K,0,More than 1,Platinum,31,4057,0,16,dairy eggs,2,10.0,3.0,6.0,1.0,8.0,7.0,1.0,4.0,Organic Search,Eco-Friendly,5.0
+2668,Computer,1,Debit Card,3,5,3,Divorced,0,25,4,3,214,Male,Rural,High School,2K-5K,2735,1,Silver,57,9407,3,4,produce,2,,,,,,,,,,,
+3312,Mobile Phone,1,Credit Card,4,4,3,Married,0,15,1,3,148,Male,Rural,High School,5K-10K,0,1,Platinum,46,8284,1,4,produce,2,,,,,,,,,,,
+3791,Mobile Phone,1,Debit Card,3,5,4,Married,0,16,2,1,170,Male,Urban,Bachelor,5K-10K,8584,More than 1,Gold,35,2840,1,7,beverages,1,,,,,,,,,,,
+3140,Mobile Phone,1,Cash on Delivery,4,4,5,Married,0,14,1,3,324,Male,Rural,Bachelor,5K-10K,2324,More than 1,Platinum,50,11061,1,4,produce,5,,,,,,,,,,,
+2209,Mobile Phone,1,Debit Card,2,1,5,Married,0,11,1,10,152,Female,Urban,Bachelor,5K-10K,5339,1,Gold,36,7269,0,16,dairy eggs,1,,,,,,,,,,,
+2053,Mobile Phone,1,Credit Card,3,3,3,Married,1,15,5,7,162,Male,Urban,High School,2K-5K,4263,1,Platinum,21,20508,4,4,produce,4,,,,,,,,,,,
+1930,Computer,1,Credit Card,3,4,1,Married,1,13,0,0,144,Female,Urban,Others,2K-5K,3475,More than 1,Gold,56,8494,3,4,produce,3,,,,,,,,,,,
+3181,Mobile Phone,1,Credit Card,4,4,5,Divorced,1,13,1,2,193,Female,Urban,High School,5K-10K,2589,More than 1,Platinum,28,16210,3,4,produce,3,,,,,,,,,,,
+2618,Computer,3,Debit Card,3,5,2,Divorced,0,19,7,6,177,Male,Rural,Bachelor,More than 10K,0,More than 1,Platinum,42,3640,0,4,produce,3,,,,,,,,,,,
+1778,Mobile Phone,1,UPI,2,3,4,Married,0,11,0,7,174,Female,Urban,High School,2K-5K,5311,More than 1,Platinum,67,19557,3,4,produce,1,,,,,,,,,,,
+1753,Mobile Phone,3,E wallet,2,3,1,Married,1,22,3,7,145,Male,Urban,Others,5K-10K,0,1,Gold,61,2082,2,16,dairy eggs,1,,,,,,,,,,,
+4281,Mobile Phone,1,Debit Card,3,4,1,Single,1,25,1,2,153,Male,Urban,High School,More than 10K,0,More than 1,Platinum,43,9853,1,3,bakery,1,,,,,,,,,,,
+1471,Computer,1,Credit Card,2,4,1,Married,0,15,6,3,293,Female,Urban,High School,2K-5K,6160,More than 1,Gold,23,4693,1,16,dairy eggs,3,,,,,,,,,,,
+130,Computer,1,Debit Card,2,3,4,Divorced,1,12,5,3,218,Male,Urban,High School,2K-5K,3838,More than 1,Silver,51,12431,2,4,produce,1,9.0,9.0,10.0,10.0,10.0,10.0,0.0,1.0,Social Media,Non-Eco-Friendly,1.0
+4788,Computer,1,Debit Card,3,4,3,Married,0,14,1,4,159,Female,Urban,High School,More than 10K,3632,1,Platinum,25,20947,3,4,produce,4,,,,,,,,,,,
+3043,Mobile Phone,1,Debit Card,4,4,2,Divorced,0,19,2,1,149,Male,Urban,Bachelor,2K-5K,11899,More than 1,Platinum,70,14610,2,4,produce,1,,,,,,,,,,,
+81,Mobile Phone,3,Debit Card,3,3,2,Single,1,18,0,0,236,Male,Urban,High School,More than 10K,3628,More than 1,Platinum,18,22173,1,1,frozen,1,9.0,10.0,8.0,5.0,2.0,8.0,5.0,3.0,Email,Eco-Friendly,4.0
+1068,Mobile Phone,3,Debit Card,3,3,4,Married,0,21,0,7,173,Male,Urban,Bachelor,5K-10K,2457,More than 1,Platinum,38,12102,3,4,produce,2,6.0,3.0,1.0,7.0,4.0,8.0,2.0,2.0,Organic Search,Eco-Friendly,4.0
+916,Mobile Phone,3,Credit Card,2,5,1,Married,1,14,1,2,154,Female,Urban,Others,5K-10K,6798,More than 1,Platinum,40,17579,2,4,produce,2,7.0,10.0,4.0,3.0,5.0,17.0,2.0,2.0,Social Media,Non-Eco-Friendly,4.0
+346,Computer,1,Debit Card,3,5,2,Married,0,18,2,8,127,Male,Urban,High School,5K-10K,0,More than 1,Gold,70,19887,3,4,produce,1,10.0,6.0,7.0,10.0,9.0,9.0,4.0,3.0,Social Media,Non-Eco-Friendly,5.0
+4537,Mobile Phone,1,Debit Card,4,4,3,Married,0,19,1,2,174,Male,Urban,High School,2K-5K,4204,More than 1,Platinum,67,10401,1,1,frozen,1,,,,,,,,,,,
+4771,Mobile Phone,1,Credit Card,3,5,1,Married,0,15,1,14,165,Female,Urban,High School,5K-10K,6417,More than 1,Platinum,60,6664,2,4,produce,1,,,,,,,,,,,
+4194,Mobile Phone,1,UPI,4,4,1,Single,1,14,7,9,152,Male,Urban,High School,5K-10K,3844,1,Silver,68,10146,2,4,produce,2,,,,,,,,,,,
+1219,Computer,1,Credit Card,2,3,1,Single,0,23,1,7,140,Female,Urban,High School,5K-10K,12844,More than 1,Platinum,49,17641,2,4,produce,5,,,,,,,,,,,
+904,Mobile Phone,1,CC,3,3,1,Single,0,18,1,2,131,Male,Urban,Bachelor,More than 10K,5830,More than 1,Platinum,33,11403,2,4,produce,2,3.0,6.0,3.0,7.0,7.0,9.0,1.0,4.0,Social Media,Eco-Friendly,2.0
+1752,Computer,1,Debit Card,2,3,1,Married,0,13,1,2,156,Female,Rural,High School,More than 10K,2220,More than 1,Gold,61,17376,5,7,beverages,3,,,,,,,,,,,
+4069,Mobile Phone,1,Credit Card,4,5,3,Married,0,19,1,8,244,Male,Urban,High School,5K-10K,5498,More than 1,Platinum,64,19957,2,4,produce,2,,,,,,,,,,,
+2113,Mobile Phone,3,UPI,2,5,5,Single,0,18,2,12,148,Female,Urban,High School,2K-5K,8774,1,Silver,52,10048,2,15,canned goods,1,,,,,,,,,,,
+1204,Mobile Phone,3,E wallet,2,3,5,Single,0,12,1,1,289,Male,Rural,Bachelor,2K-5K,2482,More than 1,Platinum,38,8760,2,4,produce,3,,,,,,,,,,,
+2864,Mobile Phone,3,E wallet,3,4,2,Married,0,24,5,8,178,Male,Rural,Bachelor,More than 10K,0,1,Gold,56,8027,2,4,produce,3,,,,,,,,,,,
+3052,Computer,1,Credit Card,3,4,5,Single,1,14,2,9,234,Male,Rural,High School,5K-10K,2716,1,Platinum,31,11061,4,5,alcohol,4,,,,,,,,,,,
+1052,Computer,3,Debit Card,3,3,1,Married,0,20,5,7,157,Female,Rural,Bachelor,More than 10K,0,More than 1,Platinum,64,12942,1,4,produce,2,7.0,7.0,5.0,9.0,8.0,2.0,0.0,3.0,Social Media,Eco-Friendly,2.0
+529,Mobile Phone,1,Credit Card,2,4,3,Married,0,15,2,2,144,Male,Rural,High School,5K-10K,2537,More than 1,Gold,36,8414,3,4,produce,2,6.0,8.0,5.0,5.0,9.0,0.0,3.0,1.0,Email,Non-Eco-Friendly,4.0
+364,Mobile Phone,1,Debit Card,3,5,4,Single,1,13,1,7,122,Male,Urban,Bachelor,5K-10K,13268,1,Platinum,41,8274,0,4,produce,2,3.0,10.0,3.0,8.0,7.0,5.0,2.0,1.0,Social Media,Eco-Friendly,2.0
+3539,Computer,3,Credit Card,3,4,4,Married,0,23,11,15,25,Male,Urban,High School,More than 10K,5845,More than 1,Gold,31,1916,1,19,snacks,2,,,,,,,,,,,
+4551,Mobile Phone,1,Debit Card,3,4,5,Married,0,13,2,3,149,Female,Rural,High School,More than 10K,3828,More than 1,Gold,42,10004,1,4,produce,1,,,,,,,,,,,
+1859,Mobile Phone,1,Credit Card,3,3,3,Married,1,15,4,7,292,Female,Urban,High School,More than 10K,4137,More than 1,Platinum,70,20546,4,16,dairy eggs,3,,,,,,,,,,,
+1453,Mobile Phone,1,Debit Card,2,4,4,Married,0,17,0,3,221,Female,Rural,Bachelor,5K-10K,3708,1,Platinum,41,16138,2,4,produce,2,,,,,,,,,,,
+813,Computer,3,Credit Card,2,3,5,Divorced,0,14,0,3,144,Male,Urban,High School,5K-10K,4270,More than 1,Gold,33,6202,4,4,produce,3,1.0,8.0,2.0,6.0,4.0,8.0,4.0,3.0,Social Media,Non-Eco-Friendly,4.0
+4840,Mobile Phone,1,Debit Card,3,4,1,Married,0,12,1,4,145,Female,Rural,High School,5K-10K,2995,More than 1,Platinum,30,12167,4,4,produce,2,,,,,,,,,,,
+2581,Mobile Phone,1,Debit Card,4,4,4,Single,0,17,1,8,184,Female,Rural,Bachelor,5K-10K,0,More than 1,Platinum,46,7247,2,16,dairy eggs,4,,,,,,,,,,,
+1331,Computer,1,CC,3,3,5,Married,0,11,5,10,131,Female,Rural,Bachelor,5K-10K,0,More than 1,Platinum,20,13895,2,4,produce,3,,,,,,,,,,,
+3928,Mobile Phone,1,Debit Card,4,4,3,Single,0,12,1,1,160,Female,Urban,Bachelor,5K-10K,3164,More than 1,Platinum,41,12242,5,1,frozen,1,,,,,,,,,,,
+977,Mobile Phone,1,Debit Card,2,3,4,Single,0,14,1,9,156,Female,Urban,Bachelor,5K-10K,4264,More than 1,Platinum,49,12053,2,7,beverages,3,1.0,10.0,6.0,4.0,4.0,18.0,4.0,3.0,Email,Eco-Friendly,5.0
+4255,Computer,1,Credit Card,3,5,1,Married,0,23,1,1,263,Female,Urban,High School,5K-10K,2469,More than 1,Platinum,51,17369,2,13,pantry,3,,,,,,,,,,,
+1430,Computer,3,Debit Card,2,3,1,Single,0,18,0,9,146,Female,Urban,Bachelor,5K-10K,6424,More than 1,Platinum,58,5999,1,19,snacks,3,,,,,,,,,,,
+1841,Mobile Phone,1,Credit Card,3,5,4,Married,0,15,1,0,148,Female,Urban,Bachelor,5K-10K,6514,1,Platinum,55,9835,2,4,produce,2,,,,,,,,,,,
+4623,Mobile Phone,1,Cash on Delivery,3,4,1,Married,1,19,2,3,219,Female,Urban,High School,5K-10K,5681,1,Silver,67,7994,0,4,produce,2,,,,,,,,,,,
+1584,Mobile Phone,1,Credit Card,3,1,3,Married,0,19,1,5,262,Female,Rural,Bachelor,More than 10K,0,1,Gold,61,8064,4,4,produce,5,,,,,,,,,,,
+4553,Mobile Phone,2,Debit Card,4,4,4,Single,0,15,3,8,322,Male,Urban,High School,5K-10K,3901,1,Silver,24,7167,1,4,produce,1,,,,,,,,,,,
+788,Mobile Phone,3,E wallet,3,4,5,Divorced,0,13,1,2,156,Female,Urban,High School,<=2K,11988,1,Gold,40,8115,1,4,produce,1,3.0,5.0,7.0,5.0,3.0,2.0,2.0,3.0,Ads,Non-Eco-Friendly,3.0
+2294,Computer,1,Debit Card,3,3,1,Married,1,15,0,8,165,Male,Urban,High School,5K-10K,8106,More than 1,Platinum,61,24817,5,16,dairy eggs,2,,,,,,,,,,,
+3689,Mobile Phone,1,Credit Card,3,2,3,Married,0,13,1,3,169,Male,Urban,High School,2K-5K,9405,More than 1,Silver,41,21207,3,1,frozen,1,,,,,,,,,,,
+1439,Mobile Phone,1,COD,1,3,4,Single,0,12,2,7,145,Female,Urban,Bachelor,2K-5K,4927,More than 1,Platinum,62,11579,3,17,household,1,,,,,,,,,,,
+1413,Mobile Phone,1,Debit Card,3,3,3,Single,0,11,0,0,135,Male,Rural,Bachelor,5K-10K,0,More than 1,Gold,23,10689,0,12,meat seafood,1,,,,,,,,,,,
+3045,Computer,1,Credit Card,4,4,4,Divorced,1,15,7,8,189,Male,Urban,High School,5K-10K,6606,More than 1,Platinum,49,10194,3,4,produce,3,,,,,,,,,,,
+2090,Mobile Phone,1,Credit Card,2,3,3,Married,0,19,1,6,272,Female,Urban,High School,More than 10K,5062,More than 1,Gold,58,18085,4,7,beverages,3,,,,,,,,,,,
+2553,Mobile Phone,1,Credit Card,4,4,4,Single,0,19,1,1,262,Female,Rural,High School,More than 10K,0,More than 1,Platinum,22,14771,3,4,produce,4,,,,,,,,,,,
+1839,Mobile Phone,1,Debit Card,3,3,1,Married,0,18,1,0,124,Female,Rural,High School,5K-10K,4121,1,Gold,49,10733,2,4,produce,3,,,,,,,,,,,
+3323,Computer,3,COD,3,4,4,Single,0,12,1,1,183,Female,Rural,High School,5K-10K,2805,More than 1,Gold,43,10669,4,4,produce,4,,,,,,,,,,,
+2600,Mobile Phone,1,COD,4,4,2,Married,0,18,3,8,158,Male,Urban,Bachelor,2K-5K,4441,More than 1,Silver,32,15329,2,4,produce,2,,,,,,,,,,,
+4852,Mobile Phone,1,Credit Card,4,4,3,Single,0,15,1,3,222,Male,Urban,High School,2K-5K,6659,More than 1,Silver,40,14371,2,4,produce,2,,,,,,,,,,,
+1128,Mobile Phone,1,Credit Card,3,3,5,Single,1,19,0,4,144,Male,Urban,High School,More than 10K,3898,More than 1,Platinum,53,2841,2,4,produce,4,2.0,7.0,4.0,3.0,5.0,1.0,3.0,1.0,Email,Non-Eco-Friendly,4.0
+4271,Mobile Phone,1,Debit Card,3,4,1,Married,1,20,1,3,149,Male,Rural,Bachelor,5K-10K,6611,1,Platinum,42,11437,2,1,frozen,2,,,,,,,,,,,
+1605,Mobile Phone,1,Debit Card,2,4,1,Married,1,13,1,3,136,Male,Urban,Bachelor,5K-10K,5992,1,Silver,34,29197,4,4,produce,1,,,,,,,,,,,
+3717,Mobile Phone,3,E wallet,3,4,5,Single,0,15,3,2,314,Female,Urban,Bachelor,2K-5K,0,1,Platinum,48,4001,1,16,dairy eggs,3,,,,,,,,,,,
+135,Mobile Phone,1,Debit Card,3,2,4,Married,0,18,5,3,220,Male,Rural,High School,5K-10K,0,1,Silver,48,10664,1,7,beverages,3,7.0,6.0,2.0,2.0,1.0,3.0,5.0,0.0,Ads,Eco-Friendly,5.0
+4445,Computer,3,Debit Card,3,4,5,Single,1,13,1,15,263,Female,Urban,High School,2K-5K,7711,More than 1,Platinum,28,9728,2,4,produce,3,,,,,,,,,,,
+3393,Computer,1,COD,4,5,3,Married,0,15,3,8,176,Male,Rural,Bachelor,5K-10K,3944,More than 1,Silver,57,15588,2,4,produce,2,,,,,,,,,,,
+3138,Mobile Phone,3,E wallet,3,6,3,Single,0,14,2,4,178,Female,Rural,Bachelor,5K-10K,0,More than 1,Gold,50,13417,3,4,produce,3,,,,,,,,,,,
+2780,Mobile Phone,3,Debit Card,4,4,2,Single,1,14,2,6,191,Male,Rural,Bachelor,More than 10K,5495,1,Silver,64,9109,0,4,produce,2,,,,,,,,,,,
+4953,Mobile Phone,1,UPI,3,4,3,Married,1,20,1,3,165,Male,Rural,Bachelor,5K-10K,4070,More than 1,Silver,57,18523,4,16,dairy eggs,5,,,,,,,,,,,
+369,Mobile Phone,3,E wallet,2,3,2,Married,0,23,4,7,153,Female,Rural,High School,More than 10K,6227,1,Gold,64,24818,4,4,produce,3,6.0,4.0,4.0,5.0,2.0,8.0,3.0,2.0,Email,Non-Eco-Friendly,4.0
+67,Mobile Phone,1,COD,2,3,2,Divorced,0,18,0,7,163,Female,Urban,Bachelor,5K-10K,3335,More than 1,Gold,34,20145,3,4,produce,4,2.0,6.0,9.0,10.0,2.0,10.0,2.0,2.0,Ads,Eco-Friendly,2.0
+2493,Mobile Phone,3,Debit Card,4,4,2,Single,1,12,2,6,185,Male,Urban,Bachelor,2K-5K,4160,1,Gold,67,20130,4,19,snacks,3,,,,,,,,,,,
+3766,Mobile Phone,1,Debit Card,3,6,1,Single,0,12,1,3,198,Female,Urban,Bachelor,2K-5K,6001,1,Gold,41,26923,7,11,personal care,2,,,,,,,,,,,
+1662,Computer,1,CC,3,1,3,Married,1,12,0,2,128,Male,Urban,High School,5K-10K,5847,1,Gold,26,6899,1,4,produce,3,,,,,,,,,,,
+4797,Mobile Phone,3,Debit Card,4,4,1,Married,1,13,1,3,229,Male,Urban,Bachelor,5K-10K,5956,More than 1,Platinum,67,11473,1,5,alcohol,2,,,,,,,,,,,
+2496,Mobile Phone,3,Debit Card,3,5,5,Single,0,24,1,4,159,Male,Rural,High School,2K-5K,7280,More than 1,Platinum,64,3671,0,4,produce,1,,,,,,,,,,,
+3498,Mobile Phone,3,E wallet,4,4,3,Married,0,14,2,1,207,Female,Urban,High School,2K-5K,2428,More than 1,Platinum,64,20366,5,4,produce,2,,,,,,,,,,,
+2818,Mobile Phone,3,E wallet,3,4,5,Married,0,12,1,3,155,Male,Rural,Bachelor,5K-10K,2755,1,Silver,34,11728,4,4,produce,3,,,,,,,,,,,
+17,Computer,1,Debit Card,3,4,2,Single,1,18,1,0,129,Male,Rural,Bachelor,5K-10K,0,1,Silver,22,20375,3,4,produce,5,10.0,6.0,5.0,10.0,1.0,13.0,2.0,2.0,Organic Search,Eco-Friendly,3.0
+2342,Mobile Phone,3,E wallet,2,3,3,Married,1,13,5,5,204,Female,Urban,High School,2K-5K,6132,1,Platinum,63,16131,7,4,produce,1,,,,,,,,,,,
+3350,Mobile Phone,1,Credit Card,4,5,4,Married,0,15,2,1,173,Male,Urban,High School,More than 10K,3737,More than 1,Platinum,33,12820,3,16,dairy eggs,3,,,,,,,,,,,
+2224,Computer,2,UPI,2,3,1,Married,1,11,1,2,157,Male,Urban,High School,5K-10K,3992,1,Platinum,64,29318,4,4,produce,2,,,,,,,,,,,
+1723,Mobile Phone,1,CC,3,1,5,Single,0,13,0,1,134,Male,Urban,High School,5K-10K,4196,1,Silver,69,3487,1,4,produce,2,,,,,,,,,,,
+3190,Mobile Phone,3,E wallet,3,2,3,Married,1,15,2,9,209,Male,Urban,High School,5K-10K,6066,1,Platinum,19,12650,0,4,produce,4,,,,,,,,,,,
+3955,Computer,3,E wallet,3,4,4,Married,0,12,1,3,153,Male,Urban,High School,5K-10K,3538,More than 1,Platinum,67,18996,3,4,produce,2,,,,,,,,,,,
+4226,Mobile Phone,1,Debit Card,3,5,1,Married,1,14,1,3,186,Female,Urban,Bachelor,5K-10K,3538,More than 1,Gold,26,9722,1,4,produce,2,,,,,,,,,,,
+1429,Mobile Phone,3,Debit Card,1,3,3,Married,0,25,6,6,149,Female,Rural,High School,More than 10K,0,1,Platinum,64,3285,0,4,produce,3,,,,,,,,,,,
+4876,Mobile Phone,1,Debit Card,4,6,3,Married,0,18,1,7,189,Female,Urban,High School,5K-10K,11805,More than 1,Silver,25,9694,3,1,frozen,2,,,,,,,,,,,
+4432,Mobile Phone,1,Credit Card,3,6,1,Single,0,20,2,1,168,Male,Urban,Bachelor,5K-10K,6061,More than 1,Gold,27,12080,3,4,produce,3,,,,,,,,,,,
+3444,Mobile Phone,3,Debit Card,4,4,3,Single,1,17,1,3,196,Female,Urban,Others,5K-10K,21740,More than 1,Gold,52,10944,1,1,frozen,2,,,,,,,,,,,
+4192,Mobile Phone,1,Debit Card,3,4,5,Married,0,15,2,1,176,Female,Urban,High School,5K-10K,3891,1,Platinum,59,8207,1,4,produce,2,,,,,,,,,,,
+4006,Computer,3,Credit Card,4,4,3,Single,0,20,1,1,155,Male,Urban,Bachelor,5K-10K,6539,More than 1,Platinum,70,2398,1,3,bakery,2,,,,,,,,,,,
+409,Mobile Phone,1,Debit Card,2,4,5,Divorced,1,11,0,0,123,Female,Urban,Bachelor,More than 10K,0,More than 1,Platinum,30,8697,4,16,dairy eggs,3,8.0,9.0,3.0,5.0,1.0,16.0,3.0,3.0,Social Media,Eco-Friendly,3.0
+2391,Mobile Phone,1,Debit Card,3,3,1,Single,0,16,0,0,126,Female,Rural,High School,More than 10K,5169,More than 1,Platinum,53,7026,1,1,frozen,3,,,,,,,,,,,
+2186,Mobile Phone,3,E wallet,2,3,3,Married,1,15,0,0,293,Female,Urban,Bachelor,2K-5K,13739,More than 1,Platinum,68,6194,0,4,produce,2,,,,,,,,,,,
+199,Mobile Phone,1,CC,3,3,4,Divorced,0,13,0,7,124,Female,Urban,High School,5K-10K,6365,More than 1,Platinum,26,7781,1,3,bakery,2,6.0,2.0,2.0,9.0,4.0,9.0,1.0,1.0,Social Media,Non-Eco-Friendly,5.0
+3496,Mobile Phone,3,Debit Card,4,4,5,Single,1,21,1,3,211,Male,Rural,Bachelor,5K-10K,2445,More than 1,Platinum,56,6902,1,4,produce,1,,,,,,,,,,,
+513,Mobile Phone,3,Debit Card,3,3,2,Married,0,13,0,8,178,Female,Urban,Bachelor,5K-10K,0,1,Platinum,54,25058,1,19,snacks,4,3.0,5.0,5.0,8.0,4.0,10.0,2.0,3.0,Ads,Eco-Friendly,3.0
+2568,Computer,1,Credit Card,4,4,2,Single,0,14,2,8,147,Female,Urban,Bachelor,2K-5K,12306,1,Gold,60,4222,1,7,beverages,1,,,,,,,,,,,
+1203,Mobile Phone,1,Credit Card,2,4,1,Married,0,14,0,17,202,Female,Rural,High School,More than 10K,2120,More than 1,Platinum,19,20726,3,19,snacks,3,,,,,,,,,,,
+3852,Mobile Phone,1,Credit Card,4,4,1,Married,1,24,2,3,164,Male,Rural,Bachelor,5K-10K,6495,More than 1,Gold,20,13053,2,4,produce,2,,,,,,,,,,,
+219,Mobile Phone,3,Debit Card,3,3,2,Single,0,16,1,7,153,Male,Rural,High School,5K-10K,3490,1,Silver,67,6620,2,4,produce,3,1.0,2.0,10.0,5.0,9.0,9.0,1.0,1.0,Email,Eco-Friendly,2.0
+1644,Mobile Phone,1,COD,3,4,3,Single,0,11,1,10,146,Male,Rural,Bachelor,5K-10K,2618,More than 1,Silver,50,9405,2,4,produce,2,,,,,,,,,,,
+2282,Computer,2,UPI,2,5,4,Married,0,19,0,2,164,Male,Urban,Bachelor,More than 10K,5580,1,Silver,40,2014,2,4,produce,2,,,,,,,,,,,
+1110,Computer,1,CC,3,3,5,Married,1,13,0,3,131,Male,Rural,Bachelor,5K-10K,0,1,Gold,69,12509,2,17,household,1,1.0,4.0,7.0,6.0,4.0,10.0,0.0,6.0,Email,Eco-Friendly,1.0
+4680,Mobile Phone,3,Debit Card,4,5,3,Married,0,24,3,3,149,Male,Rural,Bachelor,5K-10K,2799,1,Platinum,35,6444,3,16,dairy eggs,2,,,,,,,,,,,
+1271,Mobile Phone,1,UPI,2,3,3,Single,0,14,0,10,148,Male,Urban,High School,5K-10K,3775,1,Gold,36,4736,1,1,frozen,3,,,,,,,,,,,
+1843,Computer,1,Debit Card,2,5,3,Married,0,15,5,10,300,Male,Rural,Bachelor,5K-10K,2466,More than 1,Gold,55,13636,1,13,pantry,2,,,,,,,,,,,
+4910,Mobile Phone,3,E wallet,3,4,3,Single,0,15,1,10,180,Female,Urban,Bachelor,5K-10K,5406,1,Platinum,36,17429,2,16,dairy eggs,2,,,,,,,,,,,
+1084,Mobile Phone,1,Debit Card,3,1,5,Married,0,15,2,2,150,Male,Urban,Bachelor,2K-5K,4443,More than 1,Platinum,18,21035,2,16,dairy eggs,2,8.0,3.0,7.0,2.0,9.0,12.0,3.0,4.0,Email,Non-Eco-Friendly,1.0
+2871,Mobile Phone,1,Credit Card,3,5,2,Single,1,21,3,4,148,Male,Urban,High School,2K-5K,2403,More than 1,Platinum,63,12836,0,4,produce,2,,,,,,,,,,,
+4668,Mobile Phone,3,Cash on Delivery,4,5,3,Married,1,15,8,7,196,Female,Rural,High School,5K-10K,2434,More than 1,Platinum,64,9019,2,4,produce,1,,,,,,,,,,,
+3984,Mobile Phone,1,Credit Card,4,4,1,Married,0,14,2,10,183,Female,Urban,High School,5K-10K,6886,More than 1,Gold,18,14811,0,19,snacks,3,,,,,,,,,,,
+971,Mobile Phone,1,Cash on Delivery,2,4,4,Single,0,11,1,6,267,Male,Urban,High School,5K-10K,0,More than 1,Platinum,69,10774,2,4,produce,1,8.0,3.0,6.0,1.0,9.0,6.0,3.0,3.0,Ads,Eco-Friendly,3.0
+1694,Computer,1,Debit Card,3,3,1,Married,0,13,1,9,284,Female,Urban,High School,2K-5K,4369,More than 1,Platinum,34,4843,1,19,snacks,3,,,,,,,,,,,
+2569,Computer,1,Debit Card,4,5,2,Divorced,0,15,2,3,174,Male,Urban,High School,2K-5K,7985,More than 1,Gold,62,8015,2,1,frozen,3,,,,,,,,,,,
+3697,Computer,1,Debit Card,3,5,3,Single,0,22,2,3,220,Male,Urban,Bachelor,5K-10K,5154,More than 1,Silver,47,21048,2,16,dairy eggs,2,,,,,,,,,,,
+4804,Mobile Phone,3,Credit Card,3,4,4,Single,0,15,13,9,323,Female,Urban,High School,5K-10K,5473,More than 1,Platinum,65,11449,1,15,canned goods,1,,,,,,,,,,,
+4000,Mobile Phone,1,Debit Card,4,5,1,Married,1,15,3,10,240,Female,Rural,Bachelor,5K-10K,0,More than 1,Platinum,50,20609,4,16,dairy eggs,1,,,,,,,,,,,
+3017,Mobile Phone,1,Credit Card,4,4,2,Married,0,15,1,3,148,Female,Urban,High School,2K-5K,5636,More than 1,Platinum,35,8440,2,3,bakery,3,,,,,,,,,,,
+3924,Mobile Phone,1,Credit Card,3,4,3,Married,0,15,4,10,319,Female,Urban,High School,5K-10K,8359,More than 1,Silver,45,1942,0,4,produce,3,,,,,,,,,,,
+2195,Mobile Phone,3,Debit Card,2,1,5,Single,0,15,1,12,276,Male,Urban,High School,2K-5K,3717,More than 1,Platinum,70,12839,2,4,produce,3,,,,,,,,,,,
+525,Mobile Phone,1,Debit Card,2,3,3,Divorced,1,11,0,1,121,Male,Urban,Bachelor,2K-5K,5482,More than 1,Platinum,25,32346,2,16,dairy eggs,3,4.0,2.0,10.0,8.0,6.0,15.0,3.0,1.0,Organic Search,Non-Eco-Friendly,2.0
+3834,Mobile Phone,1,Credit Card,4,4,1,Married,0,25,3,3,148,Male,Urban,Bachelor,2K-5K,5333,1,Gold,31,17915,4,16,dairy eggs,1,,,,,,,,,,,
+1104,Mobile Phone,3,Debit Card,3,3,1,Married,1,13,1,0,279,Female,Rural,Bachelor,5K-10K,2677,More than 1,Platinum,61,6838,3,4,produce,3,3.0,3.0,9.0,7.0,7.0,11.0,2.0,0.0,Social Media,Eco-Friendly,2.0
+688,Mobile Phone,1,Debit Card,2,4,2,Married,0,14,1,7,261,Female,Rural,High School,5K-10K,0,More than 1,Platinum,27,13980,3,4,produce,1,4.0,9.0,6.0,7.0,6.0,9.0,2.0,4.0,Email,Eco-Friendly,1.0
+196,Mobile Phone,1,Debit Card,2,3,2,Single,0,14,0,0,260,Female,Urban,Bachelor,<=2K,3964,More than 1,Platinum,31,10420,3,1,frozen,2,10.0,10.0,7.0,6.0,3.0,13.0,0.0,4.0,Email,Eco-Friendly,4.0
+4636,Computer,1,Credit Card,4,4,1,Single,0,14,1,9,162,Female,Rural,Bachelor,5K-10K,4265,More than 1,Silver,18,5991,1,7,beverages,4,,,,,,,,,,,
+287,Mobile Phone,3,UPI,3,3,4,Divorced,0,19,3,7,148,Female,Urban,High School,5K-10K,10558,1,Gold,25,11249,2,16,dairy eggs,1,6.0,8.0,1.0,9.0,3.0,15.0,5.0,1.0,Organic Search,Non-Eco-Friendly,1.0
+2346,Mobile Phone,1,Debit Card,2,3,1,Married,0,17,0,3,165,Male,Rural,High School,5K-10K,4174,More than 1,Silver,22,5040,1,4,produce,3,,,,,,,,,,,
+2513,Mobile Phone,3,Debit Card,4,6,3,Divorced,1,19,7,8,187,Male,Urban,High School,5K-10K,3296,More than 1,Platinum,36,10454,1,7,beverages,3,,,,,,,,,,,
+1270,Computer,1,Debit Card,3,4,1,Single,1,18,0,0,129,Male,Urban,Bachelor,More than 10K,11684,More than 1,Gold,61,17392,2,16,dairy eggs,4,,,,,,,,,,,
+4699,Mobile Phone,1,Credit Card,3,4,3,Single,1,17,1,5,186,Male,Rural,Bachelor,2K-5K,0,More than 1,Platinum,42,7495,1,4,produce,1,,,,,,,,,,,
+1685,Mobile Phone,3,COD,2,4,5,Single,0,17,0,2,153,Male,Rural,High School,5K-10K,0,1,Gold,60,14178,2,1,frozen,2,,,,,,,,,,,
+2927,Computer,1,Credit Card,3,5,3,Divorced,1,15,1,8,149,Female,Urban,Bachelor,More than 10K,0,More than 1,Platinum,29,1053,1,4,produce,2,,,,,,,,,,,
+3573,Mobile Phone,1,Debit Card,3,4,3,Married,0,12,1,3,167,Male,Urban,High School,<=2K,7417,More than 1,Platinum,57,11575,2,4,produce,3,,,,,,,,,,,
+2393,Mobile Phone,3,E wallet,2,3,4,Married,0,21,0,4,144,Female,Rural,Bachelor,More than 10K,0,More than 1,Platinum,56,16841,2,4,produce,2,,,,,,,,,,,
+4759,Computer,1,Credit Card,3,5,4,Single,0,23,1,4,149,Female,Rural,High School,More than 10K,3786,More than 1,Platinum,41,21714,4,4,produce,3,,,,,,,,,,,
+1512,Mobile Phone,1,Credit Card,2,3,4,Married,0,11,0,4,138,Male,Urban,Bachelor,2K-5K,4414,More than 1,Platinum,60,20129,4,16,dairy eggs,4,,,,,,,,,,,
+4943,Mobile Phone,3,E wallet,4,4,5,Single,0,13,5,11,258,Female,Urban,Bachelor,5K-10K,4063,More than 1,Silver,49,11168,0,4,produce,3,,,,,,,,,,,
+4464,Computer,1,Debit Card,3,5,1,Married,1,12,1,1,154,Male,Urban,High School,5K-10K,5684,More than 1,Silver,69,17207,3,4,produce,3,,,,,,,,,,,
+2757,Mobile Phone,1,Debit Card,3,5,3,Divorced,0,15,12,8,295,Male,Urban,Bachelor,More than 10K,10427,1,Platinum,45,19242,3,4,produce,1,,,,,,,,,,,
+3563,Mobile Phone,1,Credit Card,3,5,3,Married,0,15,4,15,319,Female,Rural,Bachelor,2K-5K,4771,More than 1,Platinum,18,10253,1,7,beverages,1,,,,,,,,,,,
+1835,Mobile Phone,1,Debit Card,3,4,3,Single,0,14,1,3,210,Male,Urban,High School,5K-10K,5489,More than 1,Platinum,33,9825,2,1,frozen,4,,,,,,,,,,,
+632,Mobile Phone,3,E wallet,2,3,5,Single,0,13,1,5,152,Male,Urban,High School,5K-10K,7813,More than 1,Silver,26,18954,6,4,produce,2,2.0,2.0,9.0,1.0,7.0,0.0,4.0,0.0,Social Media,Eco-Friendly,1.0
+2227,Mobile Phone,1,Credit Card,2,1,3,Married,0,17,0,2,135,Male,Urban,High School,2K-5K,2803,More than 1,Platinum,58,5274,0,3,bakery,4,,,,,,,,,,,
+182,Mobile Phone,1,UPI,3,3,2,Divorced,0,14,7,8,137,Male,Urban,High School,5K-10K,6017,More than 1,Platinum,52,13157,6,4,produce,1,6.0,1.0,7.0,6.0,4.0,5.0,2.0,2.0,Ads,Eco-Friendly,5.0
+344,Mobile Phone,3,Debit Card,2,2,4,Divorced,0,22,0,2,149,Male,Urban,Bachelor,More than 10K,4101,1,Platinum,28,19952,3,7,beverages,3,9.0,4.0,2.0,9.0,5.0,8.0,5.0,3.0,Social Media,Eco-Friendly,4.0
+2816,Mobile Phone,2,Debit Card,3,5,3,Single,0,12,2,3,185,Female,Rural,Bachelor,More than 10K,0,More than 1,Silver,70,28002,2,4,produce,2,,,,,,,,,,,
+1129,Mobile Phone,1,Debit Card,2,4,3,Single,0,12,1,2,146,Female,Urban,Bachelor,5K-10K,3445,More than 1,Platinum,19,20145,3,4,produce,3,10.0,5.0,2.0,1.0,5.0,16.0,5.0,2.0,Social Media,Non-Eco-Friendly,3.0
+4722,Mobile Phone,1,Credit Card,4,4,1,Single,0,19,1,3,156,Male,Rural,High School,More than 10K,0,More than 1,Silver,19,5290,3,16,dairy eggs,2,,,,,,,,,,,
+3597,Computer,1,UPI,3,5,1,Married,1,16,4,12,182,Male,Urban,High School,5K-10K,19981,More than 1,Platinum,27,1337,1,7,beverages,2,,,,,,,,,,,
+4613,Mobile Phone,1,Debit Card,3,4,5,Married,0,23,1,1,146,Male,Urban,High School,5K-10K,6766,1,Gold,52,14663,4,4,produce,2,,,,,,,,,,,
+786,Mobile Phone,1,Debit Card,2,4,4,Single,0,12,0,0,113,Female,Urban,High School,2K-5K,5344,More than 1,Platinum,54,21744,2,4,produce,3,9.0,5.0,4.0,8.0,4.0,6.0,3.0,0.0,Organic Search,Eco-Friendly,2.0
+3460,Computer,1,Credit Card,4,5,1,Single,1,15,2,5,174,Male,Urban,High School,More than 10K,25863,1,Platinum,36,3857,1,7,beverages,4,,,,,,,,,,,
+4721,Mobile Phone,1,Credit Card,3,6,5,Married,0,22,2,1,174,Male,Urban,Bachelor,2K-5K,4016,More than 1,Platinum,34,11696,4,4,produce,4,,,,,,,,,,,
+3687,Mobile Phone,1,Debit Card,3,2,4,Married,1,21,2,4,186,Female,Rural,High School,5K-10K,5898,1,Platinum,40,12466,2,4,produce,3,,,,,,,,,,,
+3796,Computer,3,E wallet,4,4,4,Married,0,14,1,8,186,Female,Rural,High School,More than 10K,0,1,Platinum,45,6121,0,4,produce,1,,,,,,,,,,,
+4775,Mobile Phone,1,Debit Card,3,5,1,Married,0,13,2,8,154,Male,Urban,High School,5K-10K,6175,1,Silver,46,9782,3,16,dairy eggs,4,,,,,,,,,,,
+519,Mobile Phone,1,CC,3,3,2,Married,0,14,0,2,123,Female,Urban,Bachelor,2K-5K,3793,More than 1,Platinum,58,10108,4,4,produce,5,10.0,6.0,10.0,4.0,9.0,13.0,2.0,0.0,Organic Search,Non-Eco-Friendly,3.0
+796,Mobile Phone,1,Debit Card,2,4,4,Divorced,0,17,1,2,133,Male,Urban,High School,5K-10K,5990,More than 1,Platinum,66,4067,1,19,snacks,3,8.0,8.0,8.0,6.0,4.0,19.0,0.0,1.0,Email,Non-Eco-Friendly,5.0
+2802,Mobile Phone,1,UPI,4,5,4,Divorced,0,22,2,1,146,Female,Urban,High School,More than 10K,2376,More than 1,Platinum,67,7148,0,4,produce,1,,,,,,,,,,,
+3669,Mobile Phone,3,Debit Card,3,5,4,Married,0,12,1,3,214,Male,Rural,Bachelor,More than 10K,3963,1,Gold,67,9727,3,16,dairy eggs,4,,,,,,,,,,,
+3455,Mobile Phone,1,Credit Card,4,6,1,Married,0,21,1,1,234,Female,Rural,Bachelor,5K-10K,3274,More than 1,Gold,56,23792,2,16,dairy eggs,2,,,,,,,,,,,
+1247,Mobile Phone,3,E wallet,2,4,5,Single,0,14,1,8,143,Male,Urban,High School,5K-10K,9676,More than 1,Platinum,57,9662,5,1,frozen,2,,,,,,,,,,,
+4132,Mobile Phone,3,E wallet,4,4,3,Married,1,12,1,3,221,Male,Urban,Bachelor,5K-10K,5396,More than 1,Platinum,49,23655,6,4,produce,2,,,,,,,,,,,
+3721,Mobile Phone,3,COD,3,4,1,Married,0,15,1,1,146,Male,Urban,Bachelor,5K-10K,4646,1,Gold,38,14453,3,4,produce,3,,,,,,,,,,,
+140,Computer,3,Debit Card,2,3,2,Single,0,18,0,9,146,Female,Urban,Bachelor,2K-5K,4449,More than 1,Platinum,46,11317,1,19,snacks,2,7.0,4.0,8.0,2.0,10.0,8.0,2.0,4.0,Organic Search,Eco-Friendly,5.0
+4230,Computer,1,Credit Card,3,5,3,Single,0,15,1,1,176,Male,Urban,High School,5K-10K,4079,More than 1,Platinum,26,4905,0,4,produce,2,,,,,,,,,,,
+2095,Computer,1,UPI,2,3,3,Married,0,11,0,7,140,Male,Urban,High School,2K-5K,6115,More than 1,Silver,29,3525,1,4,produce,2,,,,,,,,,,,
+2797,Computer,3,UPI,3,3,3,Divorced,0,13,2,3,172,Female,Urban,High School,2K-5K,6848,More than 1,Gold,64,13974,2,7,beverages,1,,,,,,,,,,,
+3363,Mobile Phone,1,Debit Card,4,5,4,Married,0,13,2,6,184,Male,Urban,High School,5K-10K,12392,More than 1,Platinum,45,20931,4,4,produce,1,,,,,,,,,,,
+842,Mobile Phone,1,Debit Card,2,3,4,Single,0,18,0,2,184,Male,Rural,Bachelor,5K-10K,4368,1,Gold,27,6485,1,4,produce,2,3.0,5.0,2.0,6.0,6.0,10.0,2.0,2.0,Email,Non-Eco-Friendly,5.0
+1921,Mobile Phone,2,COD,3,3,3,Single,0,17,0,4,143,Female,Urban,Bachelor,5K-10K,2778,More than 1,Platinum,68,6012,1,4,produce,1,,,,,,,,,,,
+1106,Mobile Phone,1,Debit Card,3,3,1,Married,0,19,1,3,148,Male,Urban,High School,5K-10K,11314,More than 1,Platinum,49,2570,1,4,produce,3,1.0,2.0,6.0,8.0,6.0,9.0,3.0,2.0,Ads,Eco-Friendly,1.0
+776,Mobile Phone,2,UPI,2,4,5,Single,0,13,0,9,180,Male,Urban,High School,<=2K,7619,More than 1,Platinum,18,7256,1,4,produce,2,7.0,4.0,2.0,6.0,10.0,6.0,3.0,3.0,Organic Search,Eco-Friendly,3.0
+4314,Mobile Phone,3,Debit Card,3,5,3,Married,0,12,6,3,231,Male,Urban,High School,2K-5K,6169,More than 1,Platinum,48,18672,1,19,snacks,3,,,,,,,,,,,
+1510,Mobile Phone,1,Debit Card,2,3,1,Single,0,16,0,2,122,Male,Urban,High School,2K-5K,5183,More than 1,Platinum,46,7344,2,1,frozen,2,,,,,,,,,,,
+830,Mobile Phone,1,Credit Card,2,4,4,Divorced,0,11,0,2,138,Male,Urban,Bachelor,More than 10K,3828,More than 1,Platinum,40,10122,2,11,personal care,2,3.0,9.0,4.0,4.0,3.0,7.0,1.0,2.0,Ads,Non-Eco-Friendly,1.0
+1690,Mobile Phone,3,Debit Card,3,3,1,Married,0,16,1,2,126,Male,Rural,Others,5K-10K,0,1,Platinum,55,2905,0,7,beverages,2,,,,,,,,,,,
+2072,Computer,1,Debit Card,3,4,5,Single,0,20,0,3,143,Male,Urban,Bachelor,5K-10K,6372,1,Gold,50,15449,5,16,dairy eggs,3,,,,,,,,,,,
+3804,Computer,1,Credit Card,4,2,3,Single,0,13,1,3,172,Male,Urban,High School,5K-10K,6390,More than 1,Platinum,45,9542,3,16,dairy eggs,1,,,,,,,,,,,
+3688,Computer,3,Credit Card,4,5,4,Married,0,15,2,9,179,Female,Urban,Bachelor,5K-10K,4605,More than 1,Gold,44,16760,2,18,babies,2,,,,,,,,,,,
+1824,Mobile Phone,1,Credit Card,2,4,3,Married,0,15,0,2,144,Female,Rural,Bachelor,2K-5K,0,More than 1,Silver,53,9513,2,1,frozen,2,,,,,,,,,,,
+607,Mobile Phone,3,E wallet,2,3,4,Single,0,16,1,0,174,Male,Urban,High School,5K-10K,6122,More than 1,Gold,55,2388,0,4,produce,2,3.0,3.0,10.0,5.0,1.0,4.0,3.0,1.0,Social Media,Non-Eco-Friendly,1.0
+3034,Computer,1,Credit Card,3,4,4,Single,0,18,1,3,149,Male,Urban,Bachelor,5K-10K,3958,1,Platinum,57,11866,1,4,produce,3,,,,,,,,,,,
+650,Mobile Phone,3,E wallet,3,3,5,Divorced,0,23,1,9,270,Female,Urban,High School,5K-10K,4118,More than 1,Platinum,40,4736,1,4,produce,4,8.0,3.0,3.0,10.0,1.0,8.0,1.0,2.0,Ads,Non-Eco-Friendly,4.0
+241,Computer,1,Debit Card,2,3,3,Married,1,14,0,6,292,Male,Urban,High School,5K-10K,7171,More than 1,Platinum,19,4855,1,4,produce,1,9.0,9.0,10.0,5.0,2.0,8.0,2.0,0.0,Ads,Eco-Friendly,5.0
+1615,Mobile Phone,3,COD,2,3,3,Married,1,18,1,6,126,Male,Urban,High School,5K-10K,4305,More than 1,Platinum,24,9712,3,13,pantry,2,,,,,,,,,,,
+2451,Mobile Phone,1,Credit Card,2,3,3,Single,0,19,0,8,151,Female,Urban,Others,<=2K,3972,More than 1,Gold,55,9797,3,6,international,1,,,,,,,,,,,
+459,Mobile Phone,3,CC,3,4,3,Married,1,19,0,2,128,Male,Urban,High School,5K-10K,5786,More than 1,Gold,66,8217,0,4,produce,6,3.0,8.0,4.0,9.0,7.0,10.0,0.0,1.0,Ads,Non-Eco-Friendly,1.0
+804,Mobile Phone,1,Cash on Delivery,2,3,1,Divorced,1,18,1,2,194,Female,Urban,Bachelor,5K-10K,3972,1,Gold,39,8482,0,4,produce,3,7.0,8.0,5.0,6.0,4.0,7.0,1.0,1.0,Ads,Eco-Friendly,4.0
+975,Mobile Phone,1,Debit Card,3,3,5,Married,1,16,0,0,165,Male,Rural,High School,2K-5K,0,1,Silver,18,11572,2,1,frozen,1,2.0,1.0,8.0,5.0,2.0,8.0,2.0,2.0,Ads,Eco-Friendly,2.0
+3452,Mobile Phone,1,Debit Card,4,4,4,Single,0,13,2,1,139,Female,Urban,Bachelor,2K-5K,4082,More than 1,Gold,23,16622,1,19,snacks,1,,,,,,,,,,,
+4488,Mobile Phone,1,Credit Card,4,4,4,Married,1,22,4,8,161,Male,Urban,Bachelor,5K-10K,8057,More than 1,Silver,47,10793,3,3,bakery,2,,,,,,,,,,,
+4688,Mobile Phone,3,Cash on Delivery,3,4,4,Married,0,13,2,3,218,Female,Rural,High School,5K-10K,0,More than 1,Silver,38,4276,1,4,produce,3,,,,,,,,,,,
+2353,Mobile Phone,3,E wallet,3,5,1,Married,1,20,0,3,154,Male,Urban,High School,5K-10K,2202,1,Silver,41,21218,3,4,produce,2,,,,,,,,,,,
+909,Mobile Phone,1,UPI,2,4,1,Married,0,19,2,9,158,Male,Rural,High School,2K-5K,13921,More than 1,Gold,70,5818,1,4,produce,3,9.0,8.0,5.0,9.0,1.0,14.0,2.0,4.0,Email,Eco-Friendly,4.0
+870,Mobile Phone,1,Debit Card,3,3,5,Married,1,12,1,0,121,Female,Urban,Bachelor,2K-5K,10052,More than 1,Platinum,60,12675,3,7,beverages,3,8.0,7.0,6.0,7.0,6.0,11.0,3.0,2.0,Organic Search,Non-Eco-Friendly,4.0
+873,Computer,1,COD,3,3,5,Married,0,14,1,2,141,Male,Rural,High School,5K-10K,0,1,Platinum,65,4762,1,3,bakery,3,7.0,4.0,2.0,7.0,3.0,11.0,1.0,3.0,Ads,Eco-Friendly,5.0
+3117,Mobile Phone,1,Credit Card,4,5,2,Divorced,1,14,1,3,176,Male,Urban,High School,5K-10K,3608,More than 1,Gold,51,10342,2,4,produce,1,,,,,,,,,,,
+299,Mobile Phone,1,COD,2,3,2,Single,0,17,1,2,175,Male,Rural,High School,5K-10K,8392,More than 1,Gold,37,9328,1,1,frozen,5,10.0,9.0,2.0,8.0,9.0,0.0,1.0,4.0,Email,Eco-Friendly,5.0
+4746,Mobile Phone,1,Debit Card,4,4,4,Married,0,13,2,10,179,Female,Urban,Bachelor,5K-10K,3857,More than 1,Platinum,60,13443,2,13,pantry,3,,,,,,,,,,,
+3723,Mobile Phone,1,Credit Card,4,2,3,Married,0,13,2,5,151,Female,Urban,High School,2K-5K,9201,More than 1,Platinum,27,20215,2,4,produce,1,,,,,,,,,,,
+1003,Mobile Phone,1,Credit Card,2,5,1,Married,1,16,0,0,158,Female,Rural,Bachelor,2K-5K,2099,More than 1,Platinum,28,13463,4,4,produce,4,3.0,6.0,10.0,9.0,3.0,13.0,3.0,4.0,Organic Search,Eco-Friendly,3.0
+1409,Computer,1,Debit Card,3,1,4,Married,0,20,0,3,128,Male,Urban,High School,5K-10K,3459,1,Platinum,54,5556,0,1,frozen,2,,,,,,,,,,,
+4578,Computer,3,E wallet,4,4,3,Married,1,19,1,3,171,Male,Urban,High School,5K-10K,3696,More than 1,Platinum,26,3678,0,4,produce,3,,,,,,,,,,,
+4039,Mobile Phone,1,Debit Card,4,4,5,Married,0,13,11,18,155,Female,Urban,High School,2K-5K,3831,More than 1,Gold,23,7863,0,16,dairy eggs,2,,,,,,,,,,,
+1443,Computer,3,E wallet,3,3,4,Married,0,14,3,8,235,Female,Urban,Bachelor,2K-5K,3586,More than 1,Platinum,44,16553,0,4,produce,4,,,,,,,,,,,
+1801,Mobile Phone,1,COD,2,3,3,Single,0,24,0,0,125,Male,Urban,High School,2K-5K,4124,More than 1,Platinum,65,11213,0,4,produce,4,,,,,,,,,,,
+1452,Mobile Phone,3,Debit Card,3,4,3,Married,0,14,3,8,155,Female,Rural,Bachelor,5K-10K,0,More than 1,Gold,20,7504,3,4,produce,3,,,,,,,,,,,
+736,Mobile Phone,1,Debit Card,3,3,2,Single,0,13,3,8,147,Male,Urban,High School,5K-10K,10332,More than 1,Platinum,43,5295,2,4,produce,3,4.0,8.0,4.0,2.0,7.0,10.0,2.0,4.0,Ads,Non-Eco-Friendly,3.0
+1783,Computer,1,Debit Card,3,4,4,Married,0,20,0,2,123,Female,Urban,High School,2K-5K,5301,More than 1,Platinum,24,18755,4,1,frozen,1,,,,,,,,,,,
+3141,Mobile Phone,1,Credit Card,3,4,2,Divorced,0,14,1,9,156,Male,Urban,High School,5K-10K,4147,More than 1,Gold,35,7329,2,16,dairy eggs,2,,,,,,,,,,,
+4881,Mobile Phone,1,Credit Card,3,5,3,Married,0,15,7,15,319,Male,Urban,Bachelor,5K-10K,5251,1,Platinum,21,4115,0,4,produce,3,,,,,,,,,,,
+4878,Mobile Phone,3,E wallet,3,5,4,Single,1,13,2,3,224,Female,Rural,Others,More than 10K,0,1,Gold,66,14281,3,4,produce,2,,,,,,,,,,,
+1323,Mobile Phone,1,Debit Card,2,3,4,Single,0,15,0,4,299,Female,Urban,High School,5K-10K,3790,More than 1,Platinum,34,22134,5,19,snacks,3,,,,,,,,,,,
+2577,Computer,3,E wallet,3,5,5,Single,0,16,1,2,192,Female,Urban,High School,5K-10K,6721,More than 1,Gold,23,17429,2,4,produce,2,,,,,,,,,,,
+966,Mobile Phone,3,Debit Card,2,3,1,Single,0,15,3,7,145,Female,Urban,Bachelor,5K-10K,0,1,Silver,19,6673,4,4,produce,3,4.0,8.0,6.0,9.0,7.0,10.0,3.0,1.0,Email,Eco-Friendly,4.0
+4698,Mobile Phone,1,Credit Card,3,4,5,Single,1,19,1,6,172,Female,Rural,High School,5K-10K,2405,More than 1,Silver,67,8488,3,1,frozen,3,,,,,,,,,,,
+4062,Mobile Phone,1,Credit Card,3,4,3,Married,0,15,2,9,173,Male,Urban,High School,2K-5K,3768,1,Silver,19,18446,4,7,beverages,4,,,,,,,,,,,
+1078,Mobile Phone,1,UPI,2,4,4,Married,1,11,1,2,148,Male,Urban,High School,2K-5K,5021,More than 1,Platinum,29,7176,1,5,alcohol,3,6.0,8.0,1.0,10.0,1.0,10.0,1.0,3.0,Email,Eco-Friendly,5.0
+3726,Computer,3,Debit Card,3,2,5,Married,0,20,1,4,179,Male,Urban,High School,5K-10K,5877,More than 1,Silver,28,3097,2,17,household,1,,,,,,,,,,,
+2252,Mobile Phone,1,Debit Card,2,3,3,Single,0,14,1,0,254,Female,Urban,High School,5K-10K,7462,More than 1,Platinum,19,8493,2,4,produce,3,,,,,,,,,,,
+2588,Mobile Phone,1,Debit Card,3,5,2,Single,0,16,1,3,157,Male,Rural,Bachelor,5K-10K,0,More than 1,Platinum,67,1241,0,7,beverages,5,,,,,,,,,,,
+3809,Mobile Phone,1,Credit Card,3,4,4,Married,0,21,1,2,174,Male,Urban,High School,5K-10K,2759,1,Platinum,43,28497,6,3,bakery,3,,,,,,,,,,,
+4163,Mobile Phone,3,E wallet,3,4,1,Single,0,13,2,9,179,Male,Urban,Others,More than 10K,6051,More than 1,Platinum,49,5034,1,4,produce,3,,,,,,,,,,,
+2126,Computer,3,Debit Card,3,3,4,Married,0,13,0,0,120,Male,Urban,High School,More than 10K,3198,More than 1,Silver,36,6748,1,4,produce,3,,,,,,,,,,,
+3437,Mobile Phone,3,Credit Card,3,5,4,Married,1,14,1,10,167,Male,Urban,Bachelor,5K-10K,6174,More than 1,Gold,47,15283,4,4,produce,2,,,,,,,,,,,
+4534,Computer,1,Credit Card,3,4,4,Single,0,15,1,1,306,Male,Urban,Bachelor,2K-5K,7010,More than 1,Platinum,60,12485,2,4,produce,4,,,,,,,,,,,
+1895,Mobile Phone,3,E wallet,3,4,3,Married,1,14,1,7,187,Female,Urban,High School,5K-10K,6349,More than 1,Platinum,44,18013,3,4,produce,2,,,,,,,,,,,
+1438,Computer,1,Debit Card,2,3,5,Single,1,11,1,2,287,Female,Urban,Bachelor,2K-5K,9574,More than 1,Gold,53,9729,1,16,dairy eggs,3,,,,,,,,,,,
+4864,Mobile Phone,3,Credit Card,3,4,1,Single,0,14,2,3,172,Male,Urban,Bachelor,5K-10K,4397,More than 1,Silver,47,14286,5,4,produce,5,,,,,,,,,,,
+1812,Mobile Phone,1,Debit Card,3,4,5,Single,1,20,1,0,124,Male,Rural,Bachelor,5K-10K,0,1,Platinum,52,18101,3,16,dairy eggs,3,,,,,,,,,,,
+3638,Mobile Phone,3,E wallet,4,4,4,Married,0,15,2,11,182,Male,Urban,High School,2K-5K,5976,More than 1,Silver,38,15678,3,4,produce,2,,,,,,,,,,,
+1560,Mobile Phone,1,Credit Card,3,3,1,Married,0,13,0,4,151,Female,Urban,Bachelor,2K-5K,5506,More than 1,Platinum,62,5157,1,4,produce,2,,,,,,,,,,,
+4963,Mobile Phone,1,Credit Card,4,4,1,Married,1,14,7,2,174,Female,Urban,High School,5K-10K,8102,More than 1,Platinum,29,7944,2,4,produce,3,,,,,,,,,,,
+3929,Mobile Phone,3,Credit Card,4,5,4,Married,0,20,2,1,191,Male,Rural,Bachelor,5K-10K,4231,More than 1,Platinum,40,10732,3,13,pantry,3,,,,,,,,,,,
+1745,Mobile Phone,3,E wallet,3,4,4,Married,0,19,0,2,129,Female,Urban,Bachelor,2K-5K,2351,More than 1,Platinum,29,10374,3,19,snacks,5,,,,,,,,,,,
+3720,Mobile Phone,1,Credit Card,3,5,3,Single,0,14,1,9,147,Male,Urban,High School,5K-10K,2162,1,Platinum,39,15537,3,16,dairy eggs,3,,,,,,,,,,,
+983,Mobile Phone,1,CC,2,3,4,Single,0,13,1,2,133,Male,Rural,Bachelor,5K-10K,4316,More than 1,Platinum,19,11847,2,4,produce,2,9.0,2.0,8.0,1.0,9.0,14.0,3.0,0.0,Email,Non-Eco-Friendly,2.0
+3403,Mobile Phone,1,Debit Card,3,4,5,Married,0,15,1,5,157,Male,Urban,High School,5K-10K,5486,More than 1,Platinum,66,12433,2,15,canned goods,1,,,,,,,,,,,
+2544,Mobile Phone,1,Debit Card,4,4,2,Single,0,13,2,2,148,Female,Rural,Bachelor,5K-10K,2015,1,Gold,54,6976,2,4,produce,3,,,,,,,,,,,
+872,Mobile Phone,1,Credit Card,2,3,4,Married,0,11,0,4,149,Female,Urban,Bachelor,<=2K,4074,More than 1,Platinum,23,376,0,1,frozen,2,10.0,2.0,7.0,1.0,7.0,8.0,4.0,5.0,Email,Eco-Friendly,3.0
+2687,Mobile Phone,1,Credit Card,4,5,4,Single,1,16,2,3,185,Male,Urban,High School,5K-10K,3014,More than 1,Silver,52,4530,0,3,bakery,2,,,,,,,,,,,
+3212,Mobile Phone,1,COD,3,4,3,Married,1,14,2,8,158,Male,Urban,High School,5K-10K,0,More than 1,Silver,30,1541,0,4,produce,2,,,,,,,,,,,
+1089,Mobile Phone,1,Credit Card,2,3,5,Married,0,13,3,7,233,Female,Urban,High School,5K-10K,6071,More than 1,Silver,19,15239,3,4,produce,3,1.0,10.0,5.0,5.0,1.0,12.0,4.0,3.0,Ads,Non-Eco-Friendly,3.0
+1408,Computer,1,Credit Card,3,4,4,Single,0,11,0,4,135,Female,Urban,High School,More than 10K,3063,More than 1,Platinum,46,13927,3,4,produce,1,,,,,,,,,,,
+2257,Mobile Phone,1,Credit Card,3,4,3,Single,1,11,1,2,140,Male,Urban,High School,2K-5K,6456,1,Silver,39,21004,2,4,produce,5,,,,,,,,,,,
+2747,Mobile Phone,3,COD,4,4,4,Single,1,17,2,5,157,Male,Urban,Bachelor,5K-10K,8435,More than 1,Platinum,58,18291,3,1,frozen,6,,,,,,,,,,,
+3473,Mobile Phone,1,Debit Card,4,4,5,Married,1,17,1,1,190,Male,Urban,Bachelor,2K-5K,2666,More than 1,Silver,24,4124,0,4,produce,6,,,,,,,,,,,
+4993,Mobile Phone,1,UPI,3,5,4,Married,1,14,1,4,165,Male,Urban,High School,5K-10K,0,More than 1,Gold,39,7344,3,4,produce,4,,,,,,,,,,,
+4981,Mobile Phone,3,E wallet,4,5,3,Married,0,22,2,8,192,Female,Urban,High School,More than 10K,6612,More than 1,Silver,23,5468,2,4,produce,1,,,,,,,,,,,
+4334,Computer,1,Credit Card,4,4,3,Married,0,15,1,12,319,Male,Rural,Bachelor,5K-10K,5664,1,Platinum,26,6994,1,4,produce,2,,,,,,,,,,,
+1846,Mobile Phone,3,E wallet,2,5,1,Married,0,15,3,9,298,Female,Urban,Bachelor,5K-10K,6103,1,Platinum,62,3334,1,4,produce,3,,,,,,,,,,,
+2764,Mobile Phone,3,E wallet,4,5,2,Divorced,1,20,2,3,216,Female,Urban,High School,2K-5K,9440,More than 1,Platinum,66,21963,6,4,produce,4,,,,,,,,,,,
+1072,Mobile Phone,3,CC,3,3,4,Married,0,19,1,0,129,Male,Urban,Bachelor,2K-5K,4238,1,Platinum,42,11188,2,16,dairy eggs,3,1.0,6.0,7.0,9.0,8.0,3.0,2.0,1.0,Email,Eco-Friendly,5.0
+1440,Computer,3,E wallet,3,3,4,Married,0,11,0,2,128,Female,Urban,High School,2K-5K,7396,More than 1,Platinum,61,16179,2,4,produce,3,,,,,,,,,,,
+1957,Mobile Phone,1,Debit Card,2,3,3,Married,0,13,4,9,135,Male,Rural,Bachelor,5K-10K,3681,More than 1,Platinum,42,20466,3,16,dairy eggs,3,,,,,,,,,,,
+4238,Mobile Phone,1,Debit Card,4,4,5,Married,0,15,2,1,297,Male,Urban,High School,More than 10K,9086,More than 1,Platinum,19,14701,2,4,produce,2,,,,,,,,,,,
+4619,Computer,1,Debit Card,4,2,4,Single,0,12,2,8,199,Male,Urban,High School,2K-5K,3333,More than 1,Platinum,19,10369,2,16,dairy eggs,1,,,,,,,,,,,
+248,Mobile Phone,1,Debit Card,3,3,2,Divorced,0,21,1,2,127,Female,Rural,High School,5K-10K,0,1,Platinum,62,7187,1,16,dairy eggs,4,9.0,10.0,10.0,9.0,1.0,10.0,2.0,7.0,Ads,Non-Eco-Friendly,5.0
+1473,Computer,3,E wallet,2,4,1,Single,0,14,1,1,147,Male,Urban,High School,5K-10K,4117,More than 1,Platinum,67,17305,2,4,produce,1,,,,,,,,,,,
+637,Mobile Phone,3,E wallet,3,4,3,Divorced,0,18,1,4,166,Female,Urban,High School,5K-10K,5976,More than 1,Platinum,50,8994,1,4,produce,2,5.0,7.0,2.0,8.0,5.0,5.0,0.0,3.0,Social Media,Eco-Friendly,2.0
+3709,Mobile Phone,3,Debit Card,3,5,5,Single,0,24,1,4,159,Male,Urban,Bachelor,More than 10K,10384,1,Gold,34,6831,0,4,produce,3,,,,,,,,,,,
+1513,Mobile Phone,3,Debit Card,3,3,1,Single,0,16,1,7,153,Female,Urban,High School,2K-5K,3329,1,Platinum,21,6700,0,16,dairy eggs,3,,,,,,,,,,,
+2561,Mobile Phone,1,COD,3,4,2,Divorced,0,19,1,8,188,Male,Rural,High School,5K-10K,0,More than 1,Platinum,48,12290,1,4,produce,2,,,,,,,,,,,
+112,Computer,1,Credit Card,3,3,3,Married,0,11,1,0,200,Male,Urban,Bachelor,<=2K,6270,More than 1,Silver,44,7510,3,14,breakfast,2,3.0,9.0,10.0,7.0,6.0,19.0,3.0,2.0,Email,Eco-Friendly,3.0
+3671,Mobile Phone,2,Debit Card,3,4,1,Single,1,17,2,3,213,Female,Urban,Bachelor,2K-5K,4325,1,Silver,39,10267,2,4,produce,3,,,,,,,,,,,
+1362,Mobile Phone,1,Credit Card,3,3,5,Married,0,16,0,3,194,Female,Urban,High School,2K-5K,5436,More than 1,Silver,45,20335,5,4,produce,4,,,,,,,,,,,
+3413,Mobile Phone,1,UPI,3,5,1,Married,0,20,3,10,183,Male,Urban,Bachelor,2K-5K,6324,1,Gold,30,5653,0,7,beverages,3,,,,,,,,,,,
+31,Computer,1,COD,2,3,3,Divorced,0,13,0,9,143,Male,Urban,High School,5K-10K,5779,More than 1,Gold,23,6552,1,16,dairy eggs,2,1.0,2.0,8.0,5.0,5.0,6.0,1.0,1.0,Ads,Non-Eco-Friendly,2.0
+2135,Mobile Phone,1,Credit Card,2,4,5,Married,0,25,0,2,148,Male,Urban,Bachelor,5K-10K,3880,More than 1,Platinum,37,4998,1,19,snacks,4,,,,,,,,,,,
+3494,Mobile Phone,1,Credit Card,4,2,1,Married,1,15,1,3,154,Female,Rural,Bachelor,More than 10K,0,More than 1,Silver,37,11190,1,4,produce,3,,,,,,,,,,,
+2817,Mobile Phone,3,COD,3,4,3,Married,1,19,2,7,151,Female,Urban,Bachelor,2K-5K,4802,More than 1,Platinum,40,6840,0,7,beverages,2,,,,,,,,,,,
+3103,Mobile Phone,1,Credit Card,4,4,4,Married,0,18,1,8,202,Male,Urban,High School,5K-10K,6853,More than 1,Platinum,43,8839,1,4,produce,3,,,,,,,,,,,
+4406,Mobile Phone,1,COD,3,4,1,Married,1,16,5,7,162,Male,Rural,High School,5K-10K,2988,1,Gold,50,1074,1,16,dairy eggs,3,,,,,,,,,,,
+2512,Mobile Phone,1,Debit Card,4,4,4,Divorced,1,19,2,4,175,Female,Rural,High School,5K-10K,0,1,Platinum,67,10409,0,16,dairy eggs,3,,,,,,,,,,,
+4633,Computer,3,Credit Card,3,4,5,Married,0,15,2,4,169,Female,Urban,High School,5K-10K,5615,1,Platinum,35,18902,4,4,produce,3,,,,,,,,,,,
+2467,Mobile Phone,1,Credit Card,2,3,1,Married,1,14,2,2,148,Female,Urban,High School,5K-10K,12637,More than 1,Silver,30,2749,1,4,produce,3,,,,,,,,,,,
+3410,Mobile Phone,1,Debit Card,4,5,3,Married,0,14,2,3,229,Female,Urban,High School,5K-10K,3754,More than 1,Silver,46,13721,3,7,beverages,1,,,,,,,,,,,
+2334,Mobile Phone,1,Debit Card,3,3,5,Married,0,17,1,2,134,Female,Rural,Bachelor,More than 10K,0,More than 1,Platinum,47,7628,0,4,produce,5,,,,,,,,,,,
+704,Computer,2,Debit Card,2,4,4,Divorced,0,11,0,8,145,Male,Urban,Bachelor,2K-5K,6345,More than 1,Silver,22,7568,3,4,produce,3,5.0,5.0,10.0,7.0,5.0,17.0,5.0,5.0,Email,Eco-Friendly,3.0
+3464,Mobile Phone,1,Credit Card,3,4,3,Married,0,18,2,3,155,Female,Urban,High School,5K-10K,6019,More than 1,Gold,60,16286,2,4,produce,3,,,,,,,,,,,
+4678,Computer,1,Debit Card,4,4,1,Married,1,19,2,3,166,Male,Urban,High School,5K-10K,21362,More than 1,Silver,31,1041,0,4,produce,5,,,,,,,,,,,
+1792,Computer,1,Credit Card,2,3,4,Married,1,14,0,0,136,Male,Rural,High School,5K-10K,7110,More than 1,Silver,29,6202,2,4,produce,3,,,,,,,,,,,
+151,Computer,3,E wallet,3,3,4,Divorced,0,14,2,8,235,Female,Urban,Bachelor,2K-5K,3920,More than 1,Gold,28,14501,1,4,produce,2,9.0,10.0,5.0,2.0,2.0,17.0,6.0,1.0,Email,Non-Eco-Friendly,2.0
+1910,Mobile Phone,1,Credit Card,2,5,1,Single,0,19,1,0,143,Female,Urban,High School,2K-5K,4006,More than 1,Gold,20,7554,2,4,produce,2,,,,,,,,,,,
+4899,Mobile Phone,3,Credit Card,3,2,3,Single,0,15,1,8,190,Male,Urban,High School,More than 10K,3873,More than 1,Silver,41,2922,0,4,produce,3,,,,,,,,,,,
+4269,Mobile Phone,3,E wallet,4,5,4,Married,0,20,1,3,154,Male,Rural,High School,5K-10K,0,More than 1,Silver,39,20429,4,16,dairy eggs,1,,,,,,,,,,,
+2338,Mobile Phone,1,Credit Card,2,3,5,Single,0,15,0,8,142,Female,Rural,Bachelor,More than 10K,0,More than 1,Platinum,56,10560,4,16,dairy eggs,5,,,,,,,,,,,
+2337,Computer,1,Debit Card,3,3,5,Married,0,17,0,7,153,Male,Urban,High School,2K-5K,11180,More than 1,Gold,34,4584,1,13,pantry,2,,,,,,,,,,,
+3487,Computer,1,COD,4,5,5,Single,0,17,1,8,175,Male,Urban,Bachelor,2K-5K,2557,1,Platinum,54,9521,2,4,produce,4,,,,,,,,,,,
+1344,Mobile Phone,1,Debit Card,3,4,3,Married,0,15,7,9,300,Male,Rural,High School,More than 10K,3158,1,Platinum,19,23015,5,4,produce,1,,,,,,,,,,,
+2901,Mobile Phone,1,Debit Card,3,4,3,Divorced,0,21,2,5,156,Female,Rural,Others,More than 10K,0,More than 1,Gold,39,15174,2,4,produce,5,,,,,,,,,,,
+1744,Computer,3,Debit Card,2,3,4,Married,0,14,2,3,165,Male,Urban,Bachelor,5K-10K,4521,More than 1,Silver,68,2971,2,4,produce,1,,,,,,,,,,,
+1487,Mobile Phone,1,Debit Card,3,3,1,Married,0,12,0,2,129,Male,Urban,High School,More than 10K,2722,More than 1,Platinum,19,9721,1,18,babies,1,,,,,,,,,,,
+4493,Mobile Phone,1,Debit Card,4,2,1,Married,0,14,2,8,145,Male,Urban,Bachelor,5K-10K,5837,More than 1,Platinum,65,26690,3,16,dairy eggs,1,,,,,,,,,,,
+988,Computer,2,CC,2,3,1,Married,0,14,1,1,121,Male,Urban,High School,More than 10K,2907,More than 1,Silver,28,2948,2,7,beverages,3,2.0,5.0,7.0,6.0,7.0,9.0,2.0,3.0,Ads,Eco-Friendly,1.0
+3475,Mobile Phone,1,Debit Card,3,4,4,Single,0,15,2,10,181,Male,Rural,High School,More than 10K,11852,More than 1,Silver,57,4719,2,1,frozen,3,,,,,,,,,,,
+1400,Computer,1,Debit Card,3,1,3,Married,0,17,1,2,164,Male,Urban,Bachelor,5K-10K,2609,More than 1,Platinum,64,14007,3,15,canned goods,2,,,,,,,,,,,
+2394,Mobile Phone,3,Credit Card,2,3,1,Married,1,11,1,4,166,Male,Urban,Others,5K-10K,6179,More than 1,Gold,61,9595,2,1,frozen,1,,,,,,,,,,,
+351,Mobile Phone,1,COD,3,4,3,Single,0,11,2,10,146,Female,Urban,High School,5K-10K,2372,More than 1,Platinum,59,14881,2,4,produce,1,7.0,10.0,8.0,1.0,9.0,3.0,5.0,2.0,Organic Search,Non-Eco-Friendly,2.0
+4805,Mobile Phone,2,Debit Card,3,6,3,Married,0,22,2,3,223,Male,Urban,Bachelor,2K-5K,5878,More than 1,Silver,54,15175,4,19,snacks,2,,,,,,,,,,,
+3144,Mobile Phone,1,Debit Card,3,5,2,Divorced,0,14,4,12,190,Male,Rural,Bachelor,More than 10K,2447,More than 1,Silver,64,8368,2,7,beverages,1,,,,,,,,,,,
+3197,Mobile Phone,3,E wallet,3,5,4,Divorced,0,15,2,9,313,Female,Urban,High School,5K-10K,4813,More than 1,Silver,45,8363,1,13,pantry,3,,,,,,,,,,,
+333,Mobile Phone,1,Debit Card,3,3,2,Divorced,1,13,0,2,127,Female,Rural,Bachelor,More than 10K,0,More than 1,Platinum,27,5782,2,16,dairy eggs,2,3.0,4.0,6.0,9.0,4.0,7.0,3.0,5.0,Organic Search,Non-Eco-Friendly,5.0
+4280,Mobile Phone,2,UPI,3,4,4,Married,1,12,1,4,148,Female,Urban,Others,2K-5K,2146,More than 1,Silver,38,13966,5,16,dairy eggs,3,,,,,,,,,,,
+774,Mobile Phone,1,COD,2,3,2,Divorced,0,11,1,2,132,Male,Urban,Bachelor,5K-10K,6120,More than 1,Platinum,56,15103,2,16,dairy eggs,1,1.0,4.0,9.0,6.0,3.0,15.0,0.0,1.0,Ads,Eco-Friendly,1.0
+2734,Mobile Phone,3,Debit Card,3,5,2,Single,1,12,1,4,170,Male,Rural,High School,5K-10K,4717,More than 1,Silver,25,16140,3,7,beverages,3,,,,,,,,,,,
+537,Mobile Phone,1,Credit Card,2,1,2,Divorced,0,12,1,3,155,Female,Urban,High School,More than 10K,7489,More than 1,Gold,38,21906,3,4,produce,1,2.0,5.0,9.0,6.0,9.0,7.0,1.0,4.0,Ads,Non-Eco-Friendly,1.0
+2959,Mobile Phone,3,E wallet,3,4,2,Divorced,1,23,6,8,170,Female,Rural,High School,5K-10K,5689,More than 1,Platinum,22,15872,3,4,produce,1,,,,,,,,,,,
+2359,Computer,3,Debit Card,3,3,3,Married,0,22,3,7,152,Male,Urban,Bachelor,2K-5K,3280,1,Silver,52,6859,2,19,snacks,4,,,,,,,,,,,
+4007,Mobile Phone,1,Debit Card,3,4,1,Single,0,15,1,1,285,Female,Urban,Bachelor,2K-5K,10571,More than 1,Platinum,37,3495,1,16,dairy eggs,3,,,,,,,,,,,
+767,Mobile Phone,1,Credit Card,3,4,3,Single,1,14,1,8,141,Male,Urban,Bachelor,2K-5K,3167,More than 1,Silver,26,9593,3,4,produce,2,5.0,7.0,4.0,7.0,2.0,7.0,1.0,1.0,Email,Eco-Friendly,1.0
+1597,Computer,3,UPI,2,1,3,Married,0,12,1,2,147,Male,Urban,Bachelor,5K-10K,0,1,Silver,59,16824,4,16,dairy eggs,3,,,,,,,,,,,
+2596,Mobile Phone,3,Debit Card,3,4,4,Divorced,0,12,2,3,164,Female,Urban,Bachelor,5K-10K,3940,More than 1,Platinum,32,19276,4,19,snacks,2,,,,,,,,,,,
+849,Mobile Phone,3,COD,2,3,3,Married,1,25,0,7,123,Male,Rural,Bachelor,5K-10K,3490,More than 1,Gold,38,19662,3,4,produce,3,10.0,9.0,10.0,3.0,5.0,8.0,5.0,2.0,Email,Non-Eco-Friendly,3.0
+2196,Mobile Phone,1,CC,2,3,4,Married,1,17,0,0,124,Male,Urban,Bachelor,2K-5K,9692,More than 1,Silver,28,3527,1,7,beverages,3,,,,,,,,,,,
+1097,Computer,3,Debit Card,2,5,3,Married,0,19,0,2,157,Female,Urban,High School,5K-10K,0,More than 1,Silver,18,8302,3,4,produce,3,10.0,7.0,4.0,2.0,2.0,9.0,2.0,3.0,Ads,Non-Eco-Friendly,3.0
+268,Mobile Phone,1,Debit Card,3,4,3,Married,0,12,5,7,128,Male,Urban,High School,2K-5K,5820,1,Platinum,51,6146,1,7,beverages,6,2.0,3.0,8.0,6.0,3.0,2.0,5.0,2.0,Organic Search,Eco-Friendly,5.0
+102,Mobile Phone,1,Debit Card,3,4,3,Single,1,14,1,2,137,Male,Urban,Bachelor,5K-10K,15703,More than 1,Platinum,18,8200,2,4,produce,1,9.0,3.0,8.0,6.0,1.0,15.0,3.0,0.0,Social Media,Eco-Friendly,3.0
+3909,Mobile Phone,1,Debit Card,3,4,5,Married,0,17,1,1,156,Female,Urban,High School,2K-5K,6666,More than 1,Gold,65,7425,0,4,produce,4,,,,,,,,,,,
+4873,Mobile Phone,1,Debit Card,4,4,3,Single,0,13,1,1,146,Female,Urban,Bachelor,5K-10K,0,More than 1,Platinum,66,11997,1,4,produce,1,,,,,,,,,,,
+3279,Mobile Phone,1,Credit Card,3,4,2,Single,0,15,6,8,298,Female,Urban,High School,2K-5K,5125,More than 1,Platinum,44,5412,1,4,produce,3,,,,,,,,,,,
+4087,Mobile Phone,1,Debit Card,4,4,3,Married,1,13,1,1,201,Female,Urban,High School,5K-10K,2198,More than 1,Platinum,19,11978,2,4,produce,5,,,,,,,,,,,
+4983,Mobile Phone,3,Debit Card,3,5,4,Married,0,12,2,3,214,Female,Urban,High School,5K-10K,4082,More than 1,Platinum,53,18052,2,7,beverages,5,,,,,,,,,,,
+3087,Mobile Phone,3,Cash on Delivery,3,4,5,Single,1,23,4,3,221,Male,Urban,High School,2K-5K,3782,More than 1,Silver,60,11053,2,4,produce,2,,,,,,,,,,,
+2156,Mobile Phone,1,Cash on Delivery,3,3,1,Married,0,20,1,3,121,Female,Rural,Bachelor,5K-10K,6218,More than 1,Platinum,29,9880,2,4,produce,3,,,,,,,,,,,
+2185,Computer,1,Debit Card,2,3,1,Married,0,19,1,3,189,Female,Urban,High School,5K-10K,5476,1,Platinum,36,8019,0,4,produce,3,,,,,,,,,,,
+2111,Mobile Phone,1,Debit Card,2,3,4,Single,0,13,1,3,134,Female,Urban,Bachelor,5K-10K,4997,1,Platinum,29,1107,0,13,pantry,3,,,,,,,,,,,
+4802,Computer,1,Debit Card,4,4,1,Married,1,16,1,9,190,Female,Rural,Bachelor,2K-5K,2021,More than 1,Silver,39,18405,3,16,dairy eggs,1,,,,,,,,,,,
+4182,Mobile Phone,1,Credit Card,4,4,3,Single,0,12,1,4,186,Male,Urban,High School,5K-10K,0,More than 1,Gold,66,13120,1,13,pantry,1,,,,,,,,,,,
+2962,Mobile Phone,2,Debit Card,3,5,2,Divorced,0,12,1,5,177,Male,Urban,High School,2K-5K,9903,1,Platinum,40,21541,4,4,produce,4,,,,,,,,,,,
+1248,Mobile Phone,1,UPI,2,3,5,Married,1,14,1,0,232,Male,Urban,Bachelor,2K-5K,3624,More than 1,Platinum,34,6546,2,4,produce,4,,,,,,,,,,,
+1678,Mobile Phone,3,Credit Card,2,3,1,Single,0,23,0,4,162,Female,Rural,Bachelor,5K-10K,0,More than 1,Silver,36,3287,0,4,produce,2,,,,,,,,,,,
+1244,Mobile Phone,1,CC,2,3,4,Single,0,17,1,0,125,Male,Urban,Bachelor,More than 10K,5151,1,Silver,29,19445,5,16,dairy eggs,1,,,,,,,,,,,
+1326,Mobile Phone,3,Debit Card,2,4,1,Single,0,22,0,7,187,Male,Urban,High School,2K-5K,9729,More than 1,Platinum,50,12248,3,4,produce,5,,,,,,,,,,,
+252,Mobile Phone,1,Debit Card,2,3,5,Divorced,0,15,0,10,296,Male,Urban,High School,More than 10K,6361,More than 1,Platinum,23,16094,6,4,produce,2,4.0,2.0,2.0,9.0,1.0,9.0,3.0,5.0,Ads,Eco-Friendly,3.0
+1905,Mobile Phone,1,Debit Card,3,4,4,Married,0,17,0,4,132,Male,Rural,Bachelor,More than 10K,2177,More than 1,Gold,58,2138,0,4,produce,3,,,,,,,,,,,
+47,Mobile Phone,1,Debit Card,2,3,2,Single,0,14,0,2,125,Male,Urban,High School,5K-10K,4190,1,Platinum,43,10807,1,4,produce,3,9.0,9.0,2.0,6.0,1.0,10.0,2.0,2.0,Organic Search,Eco-Friendly,2.0
+4405,Mobile Phone,3,Debit Card,3,5,1,Married,1,15,2,1,192,Male,Urban,High School,5K-10K,3059,More than 1,Platinum,68,13631,3,1,frozen,4,,,,,,,,,,,
+4016,Computer,3,Credit Card,3,5,1,Married,0,12,1,3,222,Female,Urban,High School,5K-10K,3874,More than 1,Silver,45,9452,3,7,beverages,1,,,,,,,,,,,
+2743,Mobile Phone,1,Debit Card,2,4,2,Divorced,0,14,1,5,291,Female,Rural,High School,5K-10K,2748,1,Gold,36,14703,1,1,frozen,1,,,,,,,,,,,
+3101,Mobile Phone,3,E wallet,4,5,3,Married,1,15,3,3,212,Female,Urban,High School,5K-10K,10027,More than 1,Platinum,29,11088,0,5,alcohol,5,,,,,,,,,,,
+2049,Computer,3,Debit Card,3,4,1,Single,0,14,0,0,128,Female,Urban,Bachelor,2K-5K,5844,More than 1,Silver,45,25004,4,4,produce,3,,,,,,,,,,,
+4988,Mobile Phone,3,E wallet,4,5,1,Married,0,14,2,1,192,Female,Urban,High School,5K-10K,8368,More than 1,Gold,63,14473,1,4,produce,4,,,,,,,,,,,
+4081,Mobile Phone,1,Debit Card,4,5,3,Married,0,13,4,8,153,Female,Urban,High School,2K-5K,7714,More than 1,Gold,54,18484,3,4,produce,2,,,,,,,,,,,
+3183,Mobile Phone,1,Credit Card,3,5,3,Divorced,0,15,1,1,312,Male,Urban,High School,5K-10K,5459,More than 1,Gold,66,17798,1,11,personal care,1,,,,,,,,,,,
+209,Mobile Phone,1,CC,3,3,5,Divorced,0,20,1,3,135,Male,Urban,High School,More than 10K,5628,1,Gold,34,6033,1,4,produce,4,5.0,1.0,1.0,4.0,8.0,9.0,4.0,4.0,Email,Eco-Friendly,2.0
+2726,Mobile Phone,1,Debit Card,4,4,5,Married,0,17,2,3,151,Female,Urban,Bachelor,5K-10K,3295,1,Gold,28,10166,2,4,produce,3,,,,,,,,,,,
+3608,Mobile Phone,3,Credit Card,4,4,5,Married,0,17,1,5,25,Female,Rural,Bachelor,5K-10K,12490,More than 1,Silver,43,26225,5,4,produce,3,,,,,,,,,,,
+3337,Mobile Phone,1,Credit Card,1,4,1,Single,0,26,1,1,237,Male,Rural,Bachelor,5K-10K,2569,More than 1,Platinum,61,14294,2,4,produce,3,,,,,,,,,,,
+1020,Mobile Phone,3,Debit Card,2,3,1,Single,1,18,0,7,158,Female,Rural,High School,5K-10K,0,1,Platinum,49,3673,1,4,produce,3,9.0,9.0,4.0,1.0,4.0,11.0,3.0,4.0,Email,Eco-Friendly,4.0
+3155,Computer,1,Credit Card,2,4,5,Divorced,0,15,3,3,304,Male,Urban,High School,2K-5K,5505,More than 1,Platinum,38,6339,3,4,produce,1,,,,,,,,,,,
+4245,Mobile Phone,1,Credit Card,3,4,4,Single,0,13,2,4,184,Female,Rural,High School,More than 10K,0,1,Platinum,65,5813,1,4,produce,2,,,,,,,,,,,
+4137,Mobile Phone,1,Debit Card,3,5,5,Married,0,12,1,3,279,Female,Urban,High School,5K-10K,5494,More than 1,Platinum,37,27794,6,4,produce,4,,,,,,,,,,,
+3998,Mobile Phone,3,E wallet,3,4,4,Married,0,19,1,8,187,Female,Rural,High School,5K-10K,2512,More than 1,Gold,26,5562,2,16,dairy eggs,4,,,,,,,,,,,
+1437,Mobile Phone,1,Debit Card,3,3,1,Single,0,21,1,2,133,Female,Urban,Bachelor,<=2K,5217,More than 1,Platinum,51,15185,4,4,produce,3,,,,,,,,,,,
+4500,Mobile Phone,1,Credit Card,3,5,3,Married,0,15,1,1,312,Female,Urban,Bachelor,5K-10K,4397,More than 1,Platinum,46,16894,2,4,produce,2,,,,,,,,,,,
+2234,Mobile Phone,1,Debit Card,2,4,5,Married,0,15,0,11,233,Male,Urban,Bachelor,5K-10K,6068,More than 1,Gold,48,7597,2,4,produce,3,,,,,,,,,,,
+1435,Mobile Phone,1,Debit Card,2,3,1,Married,0,14,0,2,157,Male,Urban,Bachelor,5K-10K,5938,1,Silver,54,13332,2,4,produce,1,,,,,,,,,,,
+1882,Mobile Phone,3,Cash on Delivery,2,3,5,Single,1,22,2,7,196,Male,Rural,High School,5K-10K,3210,More than 1,Silver,67,12310,3,1,frozen,3,,,,,,,,,,,
+1611,Mobile Phone,1,UPI,2,4,1,Married,1,14,1,0,266,Male,Urban,Bachelor,2K-5K,7412,More than 1,Platinum,31,21015,3,17,household,3,,,,,,,,,,,
+172,Mobile Phone,3,E wallet,3,3,2,Married,0,12,0,7,175,Female,Urban,Bachelor,2K-5K,5473,More than 1,Silver,41,11548,2,4,produce,3,9.0,8.0,10.0,6.0,4.0,12.0,4.0,3.0,Organic Search,Non-Eco-Friendly,1.0
+1648,Mobile Phone,1,Debit Card,2,3,1,Single,0,15,6,3,212,Male,Urban,High School,5K-10K,7716,1,Gold,43,6040,2,4,produce,3,,,,,,,,,,,
+1955,Computer,3,Credit Card,2,3,3,Married,0,12,0,1,145,Female,Urban,Bachelor,5K-10K,3620,More than 1,Platinum,40,13512,3,4,produce,7,,,,,,,,,,,
+4741,Mobile Phone,1,Debit Card,3,4,5,Married,0,13,2,3,205,Male,Urban,High School,5K-10K,6115,More than 1,Gold,45,6205,2,16,dairy eggs,3,,,,,,,,,,,
+163,Mobile Phone,2,UPI,3,4,5,Divorced,0,12,0,0,164,Female,Rural,High School,5K-10K,0,More than 1,Gold,37,24073,4,4,produce,3,10.0,2.0,10.0,2.0,6.0,8.0,3.0,2.0,Ads,Eco-Friendly,1.0
+3234,Mobile Phone,1,Debit Card,3,4,2,Married,0,12,2,3,210,Male,Urban,High School,2K-5K,2238,More than 1,Platinum,45,9228,2,17,household,3,,,,,,,,,,,
+4176,Mobile Phone,1,Debit Card,3,4,3,Single,1,15,1,1,204,Female,Urban,Bachelor,More than 10K,7228,1,Platinum,66,7611,2,12,meat seafood,2,,,,,,,,,,,
+4439,Mobile Phone,1,Credit Card,3,5,1,Married,0,14,2,4,182,Male,Urban,High School,2K-5K,7346,More than 1,Platinum,60,1580,1,4,produce,3,,,,,,,,,,,
+4900,Computer,1,Credit Card,3,4,1,Married,0,15,2,8,297,Male,Urban,High School,5K-10K,7438,More than 1,Platinum,42,12770,0,4,produce,3,,,,,,,,,,,
+2370,Mobile Phone,3,E wallet,2,4,4,Single,1,12,1,2,199,Male,Urban,High School,<=2K,6854,More than 1,Silver,48,14019,2,1,frozen,5,,,,,,,,,,,
+2108,Mobile Phone,1,Credit Card,2,1,4,Single,0,12,1,8,266,Female,Urban,High School,2K-5K,7940,More than 1,Silver,23,13007,2,4,produce,3,,,,,,,,,,,
+4570,Mobile Phone,1,Credit Card,3,5,1,Married,0,13,1,1,179,Male,Urban,High School,2K-5K,4834,1,Platinum,67,12167,0,4,produce,2,,,,,,,,,,,
+1609,Mobile Phone,3,E wallet,3,3,3,Married,1,11,0,0,196,Female,Urban,High School,5K-10K,4528,More than 1,Platinum,63,4192,2,16,dairy eggs,2,,,,,,,,,,,
+4267,Computer,1,Debit Card,3,5,1,Married,0,18,1,5,157,Female,Urban,High School,<=2K,5139,1,Platinum,33,8483,1,20,deli,3,,,,,,,,,,,
+4858,Mobile Phone,1,Credit Card,4,6,3,Married,0,17,1,4,152,Male,Urban,High School,2K-5K,6963,More than 1,Gold,59,7857,4,4,produce,3,,,,,,,,,,,
+3490,Mobile Phone,3,Cash on Delivery,3,4,3,Married,0,20,1,3,208,Male,Urban,High School,5K-10K,3870,More than 1,Silver,56,4497,1,19,snacks,2,,,,,,,,,,,
+2052,Mobile Phone,3,Debit Card,2,4,5,Married,0,11,1,4,147,Female,Urban,Bachelor,2K-5K,2239,More than 1,Platinum,46,15025,2,16,dairy eggs,2,,,,,,,,,,,
+2923,Mobile Phone,1,Debit Card,4,4,5,Divorced,0,15,2,1,297,Female,Urban,Bachelor,5K-10K,3408,More than 1,Platinum,65,9734,3,16,dairy eggs,2,,,,,,,,,,,
+1858,Computer,1,UPI,3,3,3,Married,0,16,2,2,128,Female,Rural,Bachelor,2K-5K,3374,1,Silver,29,14094,2,4,produce,2,,,,,,,,,,,
+1481,Mobile Phone,3,E wallet,1,4,3,Married,0,13,1,2,161,Female,Urban,High School,More than 10K,2300,More than 1,Platinum,23,31236,2,20,deli,5,,,,,,,,,,,
+2987,Mobile Phone,3,E wallet,3,5,4,Divorced,1,19,1,1,149,Male,Urban,High School,5K-10K,2587,More than 1,Gold,68,11049,3,4,produce,4,,,,,,,,,,,
+1782,Mobile Phone,1,Cash on Delivery,3,3,5,Married,0,13,4,11,236,Male,Urban,High School,5K-10K,6518,1,Gold,48,12046,2,4,produce,1,,,,,,,,,,,
+2528,Computer,1,Credit Card,3,4,4,Married,0,19,1,3,145,Female,Urban,Bachelor,More than 10K,9608,More than 1,Gold,38,12326,0,4,produce,3,,,,,,,,,,,
+2540,Mobile Phone,1,Debit Card,4,4,5,Married,1,19,2,3,168,Female,Rural,Bachelor,More than 10K,5134,More than 1,Gold,44,9751,1,4,produce,4,,,,,,,,,,,
+3307,Mobile Phone,2,COD,3,4,3,Divorced,0,16,2,3,152,Female,Urban,High School,5K-10K,6995,More than 1,Gold,59,1467,0,4,produce,2,,,,,,,,,,,
+4131,Mobile Phone,1,Credit Card,4,5,3,Married,0,13,1,4,147,Male,Urban,Bachelor,5K-10K,3465,1,Platinum,55,3472,0,4,produce,6,,,,,,,,,,,
+691,Mobile Phone,1,Debit Card,3,1,2,Single,1,12,1,1,130,Male,Urban,High School,5K-10K,2256,More than 1,Platinum,43,14378,2,11,personal care,1,8.0,2.0,8.0,1.0,8.0,10.0,1.0,0.0,Ads,Eco-Friendly,5.0
+3497,Computer,1,Credit Card,4,5,4,Married,0,15,1,6,150,Female,Urban,High School,2K-5K,5393,1,Silver,60,10248,2,7,beverages,2,,,,,,,,,,,
+2909,Mobile Phone,1,Debit Card,3,4,4,Single,1,15,6,9,317,Male,Rural,Bachelor,5K-10K,2349,More than 1,Silver,54,10397,2,4,produce,3,,,,,,,,,,,
+2100,Mobile Phone,2,CC,3,1,4,Single,0,18,1,2,121,Male,Urban,High School,More than 10K,9867,More than 1,Platinum,55,6789,3,16,dairy eggs,2,,,,,,,,,,,
+762,Computer,3,Debit Card,3,3,2,Divorced,0,13,1,2,200,Male,Urban,High School,5K-10K,8268,More than 1,Gold,61,11467,3,7,beverages,4,8.0,6.0,9.0,1.0,6.0,1.0,2.0,1.0,Ads,Eco-Friendly,2.0
+3266,Mobile Phone,1,Credit Card,4,5,3,Single,1,15,2,9,166,Male,Urban,High School,5K-10K,0,1,Silver,20,10699,1,4,produce,3,,,,,,,,,,,
+825,Computer,1,CC,2,3,5,Single,1,11,0,0,132,Female,Rural,High School,5K-10K,2245,1,Silver,43,16051,5,19,snacks,1,6.0,2.0,7.0,10.0,3.0,5.0,4.0,1.0,Email,Eco-Friendly,4.0
+4516,Mobile Phone,3,E wallet,3,4,5,Single,1,13,2,3,170,Male,Rural,Bachelor,5K-10K,4045,More than 1,Silver,44,11975,4,18,babies,4,,,,,,,,,,,
+1367,Mobile Phone,1,COD,2,3,5,Single,1,11,0,4,127,Male,Urban,Bachelor,2K-5K,22304,More than 1,Platinum,46,13310,2,16,dairy eggs,6,,,,,,,,,,,
+4946,Mobile Phone,1,Credit Card,4,4,5,Single,1,20,1,5,169,Female,Urban,Bachelor,<=2K,9808,More than 1,Platinum,62,17214,3,4,produce,3,,,,,,,,,,,
+3778,Computer,3,Credit Card,3,4,3,Married,0,16,1,5,167,Male,Rural,Bachelor,2K-5K,0,1,Silver,53,2431,1,7,beverages,1,,,,,,,,,,,
+4697,Mobile Phone,3,Debit Card,4,4,4,Married,0,12,4,3,224,Male,Urban,Bachelor,5K-10K,4411,More than 1,Silver,48,24576,3,4,produce,2,,,,,,,,,,,
+1421,Mobile Phone,1,CC,3,3,1,Married,0,23,1,4,121,Male,Rural,Bachelor,More than 10K,0,More than 1,Platinum,45,17944,4,19,snacks,3,,,,,,,,,,,
+69,Computer,1,Credit Card,2,3,3,Married,1,17,2,0,138,Female,Urban,High School,5K-10K,7317,More than 1,Platinum,28,12026,1,4,produce,2,3.0,3.0,10.0,9.0,3.0,11.0,4.0,0.0,Email,Eco-Friendly,4.0
+1221,Computer,3,E wallet,3,3,3,Single,0,20,0,7,146,Male,Urban,High School,5K-10K,5452,1,Platinum,38,20171,3,4,produce,1,,,,,,,,,,,
+223,Computer,3,E wallet,3,2,2,Single,1,13,1,4,153,Male,Rural,Bachelor,More than 10K,0,More than 1,Silver,49,7801,1,4,produce,2,9.0,9.0,5.0,8.0,7.0,16.0,0.0,1.0,Ads,Eco-Friendly,1.0
+3837,Mobile Phone,1,Debit Card,3,2,1,Married,1,17,2,3,219,Female,Urban,High School,5K-10K,5615,1,Platinum,54,19576,4,4,produce,5,,,,,,,,,,,
+99,Mobile Phone,1,Debit Card,3,3,5,Divorced,0,20,1,7,127,Male,Urban,Bachelor,5K-10K,2398,More than 1,Gold,35,14011,1,4,produce,3,8.0,7.0,10.0,6.0,2.0,15.0,2.0,5.0,Organic Search,Eco-Friendly,4.0
+1197,Mobile Phone,1,Debit Card,2,3,1,Single,1,11,0,2,139,Male,Urban,Bachelor,More than 10K,4091,More than 1,Silver,52,18647,2,19,snacks,3,6.0,10.0,9.0,10.0,3.0,14.0,4.0,5.0,Ads,Eco-Friendly,5.0
+4718,Mobile Phone,1,Debit Card,3,4,5,Married,0,15,2,5,157,Female,Rural,High School,5K-10K,0,More than 1,Platinum,40,9913,3,4,produce,3,,,,,,,,,,,
+2860,Mobile Phone,1,Debit Card,4,6,4,Single,1,14,2,8,147,Male,Urban,High School,5K-10K,8954,More than 1,Silver,22,2797,0,19,snacks,3,,,,,,,,,,,
+3096,Computer,3,UPI,3,4,3,Single,1,15,1,1,172,Male,Urban,High School,5K-10K,5878,More than 1,Gold,28,8042,0,4,produce,2,,,,,,,,,,,
+625,Computer,1,CC,3,3,3,Divorced,0,12,2,2,126,Female,Rural,Bachelor,5K-10K,0,More than 1,Platinum,68,14846,2,5,alcohol,3,2.0,6.0,8.0,7.0,2.0,15.0,2.0,2.0,Organic Search,Non-Eco-Friendly,1.0
+4521,Mobile Phone,1,Debit Card,4,2,5,Married,0,15,3,14,317,Male,Rural,Bachelor,5K-10K,0,1,Platinum,45,10737,2,4,produce,2,,,,,,,,,,,
+3048,Mobile Phone,3,E wallet,3,6,2,Divorced,0,16,6,10,323,Male,Urban,High School,5K-10K,6612,1,Platinum,58,6432,0,16,dairy eggs,3,,,,,,,,,,,
+1393,Mobile Phone,1,Debit Card,3,3,5,Married,0,16,0,0,131,Male,Urban,Bachelor,5K-10K,7902,More than 1,Platinum,19,12811,1,19,snacks,1,,,,,,,,,,,
+1857,Computer,1,Debit Card,2,3,5,Married,1,14,0,2,120,Female,Urban,High School,5K-10K,9450,More than 1,Platinum,64,5035,1,16,dairy eggs,3,,,,,,,,,,,
+3594,Computer,3,COD,3,2,5,Single,0,18,2,1,136,Female,Rural,Bachelor,2K-5K,0,More than 1,Silver,62,13702,2,5,alcohol,3,,,,,,,,,,,
+3902,Mobile Phone,1,Credit Card,3,4,1,Married,1,14,2,5,149,Male,Urban,Bachelor,5K-10K,2045,More than 1,Gold,38,7718,2,19,snacks,3,,,,,,,,,,,
+1825,Mobile Phone,1,UPI,2,4,4,Married,1,24,1,2,137,Male,Urban,High School,2K-5K,7165,1,Platinum,62,16830,3,4,produce,2,,,,,,,,,,,
+4225,Mobile Phone,1,Debit Card,3,2,3,Single,0,14,3,3,150,Male,Rural,High School,5K-10K,8308,1,Gold,18,14671,2,4,produce,1,,,,,,,,,,,
+4960,Mobile Phone,1,Credit Card,3,4,3,Married,1,12,3,3,152,Female,Rural,High School,5K-10K,5051,More than 1,Platinum,51,13517,1,16,dairy eggs,1,,,,,,,,,,,
+4073,Mobile Phone,3,E wallet,3,5,1,Married,0,13,1,1,266,Female,Urban,High School,5K-10K,3432,1,Platinum,55,20976,4,16,dairy eggs,4,,,,,,,,,,,
+3024,Computer,1,Credit Card,4,4,3,Divorced,0,18,1,3,152,Male,Rural,Bachelor,More than 10K,0,1,Silver,30,12486,2,4,produce,2,,,,,,,,,,,
+3651,Mobile Phone,1,Debit Card,3,4,1,Married,0,20,1,1,149,Female,Rural,Bachelor,More than 10K,3989,1,Silver,44,5652,4,1,frozen,1,,,,,,,,,,,
+1697,Mobile Phone,1,Debit Card,3,3,3,Married,0,20,1,4,131,Male,Urban,High School,2K-5K,6423,More than 1,Gold,37,10783,1,4,produce,2,,,,,,,,,,,
+2029,Mobile Phone,2,Debit Card,3,3,4,Single,0,15,2,7,297,Female,Urban,High School,More than 10K,4083,More than 1,Platinum,19,12590,0,1,frozen,4,,,,,,,,,,,
+2672,Computer,1,Debit Card,3,5,3,Married,0,12,1,1,178,Male,Rural,High School,5K-10K,0,More than 1,Platinum,32,18460,2,15,canned goods,1,,,,,,,,,,,
+4753,Computer,1,Debit Card,3,4,1,Married,0,16,2,10,172,Male,Urban,Bachelor,5K-10K,2333,More than 1,Platinum,66,2960,1,4,produce,4,,,,,,,,,,,
+645,Mobile Phone,1,Debit Card,2,4,2,Divorced,0,13,3,11,165,Male,Urban,Bachelor,2K-5K,2971,1,Platinum,33,663,1,4,produce,6,9.0,7.0,7.0,1.0,5.0,14.0,2.0,1.0,Organic Search,Non-Eco-Friendly,3.0
+900,Mobile Phone,1,Debit Card,2,3,5,Married,0,14,0,4,132,Female,Rural,Bachelor,More than 10K,2055,1,Silver,22,10398,1,4,produce,1,4.0,9.0,1.0,5.0,3.0,15.0,1.0,5.0,Ads,Eco-Friendly,5.0
+1196,Mobile Phone,3,Debit Card,3,4,1,Married,0,16,0,7,254,Female,Rural,Bachelor,5K-10K,2304,More than 1,Gold,44,5196,2,4,produce,2,7.0,1.0,9.0,1.0,2.0,15.0,1.0,1.0,Organic Search,Non-Eco-Friendly,3.0
+1198,Computer,1,UPI,3,1,3,Married,0,18,0,3,140,Female,Rural,High School,5K-10K,0,More than 1,Gold,63,16284,2,19,snacks,1,10.0,3.0,10.0,5.0,2.0,10.0,0.0,0.0,Organic Search,Eco-Friendly,2.0
+3660,Computer,3,E wallet,3,4,5,Married,0,20,2,1,143,Male,Urban,Bachelor,2K-5K,5642,More than 1,Silver,61,9020,0,7,beverages,2,,,,,,,,,,,
+267,Mobile Phone,1,Debit Card,2,3,3,Single,0,11,1,0,138,Male,Urban,High School,5K-10K,4303,More than 1,Platinum,23,20427,4,16,dairy eggs,4,1.0,6.0,2.0,9.0,9.0,0.0,3.0,3.0,Organic Search,Eco-Friendly,5.0
+4279,Mobile Phone,2,Debit Card,3,5,1,Married,0,12,2,5,177,Male,Rural,Bachelor,5K-10K,4020,More than 1,Platinum,49,9883,0,5,alcohol,2,,,,,,,,,,,
+65,Computer,1,Credit Card,2,3,3,Married,0,16,0,2,153,Female,Urban,High School,2K-5K,3203,1,Platinum,51,12642,3,16,dairy eggs,3,4.0,10.0,4.0,3.0,1.0,9.0,2.0,1.0,Social Media,Non-Eco-Friendly,1.0
+28,Mobile Phone,3,E wallet,2,3,3,Divorced,1,20,0,5,123,Male,Rural,Bachelor,5K-10K,0,1,Silver,70,8123,1,1,frozen,4,5.0,9.0,9.0,10.0,8.0,8.0,3.0,2.0,Email,Eco-Friendly,3.0
+385,Mobile Phone,1,UPI,3,3,2,Single,1,13,5,8,127,Male,Urban,High School,More than 10K,5532,More than 1,Platinum,53,8802,2,16,dairy eggs,4,8.0,6.0,1.0,7.0,8.0,15.0,3.0,1.0,Organic Search,Eco-Friendly,1.0
+783,Computer,3,Debit Card,2,5,3,Single,0,12,1,0,114,Male,Rural,Bachelor,5K-10K,2595,1,Platinum,53,22575,4,1,frozen,2,2.0,3.0,10.0,4.0,6.0,3.0,2.0,4.0,Social Media,Non-Eco-Friendly,1.0
+1853,Computer,1,Credit Card,3,3,3,Single,0,12,6,7,140,Female,Urban,Bachelor,5K-10K,5429,More than 1,Platinum,36,16625,2,7,beverages,4,,,,,,,,,,,
+1671,Mobile Phone,1,Debit Card,2,3,1,Single,0,17,2,2,125,Male,Urban,Bachelor,5K-10K,3708,1,Platinum,26,8392,1,13,pantry,2,,,,,,,,,,,
+1977,Mobile Phone,1,Credit Card,3,4,5,Single,0,19,1,8,168,Male,Rural,High School,5K-10K,11000,More than 1,Platinum,34,17310,4,4,produce,2,,,,,,,,,,,
+1985,Mobile Phone,3,E wallet,2,3,4,Married,0,11,1,10,282,Male,Urban,High School,2K-5K,5929,More than 1,Gold,67,5124,0,13,pantry,1,,,,,,,,,,,
+2110,Mobile Phone,1,CC,3,3,3,Married,0,14,1,2,123,Female,Urban,High School,5K-10K,9046,More than 1,Gold,61,18334,4,4,produce,4,,,,,,,,,,,
+3083,Computer,1,Debit Card,3,6,3,Divorced,0,20,2,3,171,Male,Urban,High School,5K-10K,10532,More than 1,Platinum,61,9422,3,4,produce,2,,,,,,,,,,,
+1401,Computer,1,Credit Card,3,3,3,Married,0,11,0,0,200,Female,Urban,High School,5K-10K,5888,More than 1,Gold,33,19836,5,5,alcohol,3,,,,,,,,,,,
+2933,Mobile Phone,1,Credit Card,3,5,5,Single,0,12,2,2,151,Male,Rural,High School,More than 10K,0,1,Platinum,57,11008,3,16,dairy eggs,5,,,,,,,,,,,
+2201,Mobile Phone,1,Credit Card,2,5,5,Single,1,14,0,4,158,Female,Urban,High School,2K-5K,0,More than 1,Silver,28,639,0,16,dairy eggs,3,,,,,,,,,,,
+2820,Mobile Phone,1,UPI,3,4,2,Divorced,1,15,2,2,320,Male,Urban,Bachelor,2K-5K,6273,More than 1,Platinum,54,10605,3,4,produce,4,,,,,,,,,,,
+2911,Mobile Phone,1,Debit Card,3,5,2,Divorced,1,14,1,3,186,Male,Rural,Bachelor,More than 10K,0,1,Silver,49,12367,3,7,beverages,4,,,,,,,,,,,
+4793,Mobile Phone,1,Debit Card,3,4,4,Single,0,15,2,10,181,Female,Rural,High School,5K-10K,5862,1,Platinum,59,14954,4,19,snacks,2,,,,,,,,,,,
+4,Mobile Phone,3,Debit Card,2,4,5,Single,0,23,0,3,134,Female,Rural,High School,5K-10K,0,More than 1,Platinum,66,3154,1,16,dairy eggs,3,9.0,10.0,2.0,7.0,10.0,14.0,2.0,0.0,Ads,Non-Eco-Friendly,4.0
+874,Mobile Phone,1,CC,3,3,1,Single,0,13,0,0,130,Male,Urban,Bachelor,2K-5K,5415,More than 1,Silver,51,16498,3,16,dairy eggs,2,5.0,9.0,5.0,1.0,6.0,13.0,2.0,1.0,Email,Eco-Friendly,3.0
+4237,Mobile Phone,3,Credit Card,3,4,1,Single,0,17,2,4,177,Female,Urban,Bachelor,5K-10K,5697,More than 1,Platinum,68,7138,1,7,beverages,2,,,,,,,,,,,
+117,Mobile Phone,1,Debit Card,3,3,3,Divorced,0,12,1,2,149,Female,Rural,High School,More than 10K,0,More than 1,Platinum,63,15312,4,4,produce,5,1.0,2.0,4.0,6.0,2.0,10.0,2.0,1.0,Social Media,Eco-Friendly,3.0
+3544,Mobile Phone,1,Credit Card,4,4,5,Married,0,26,2,3,161,Female,Urban,Bachelor,5K-10K,5609,1,Platinum,26,6390,2,19,snacks,1,,,,,,,,,,,
+4075,Computer,1,Credit Card,3,4,1,Single,0,15,2,8,151,Male,Rural,High School,5K-10K,0,More than 1,Gold,46,9275,3,4,produce,3,,,,,,,,,,,
+660,Mobile Phone,1,Debit Card,2,3,3,Married,0,13,8,9,135,Female,Rural,Others,2K-5K,0,More than 1,Platinum,31,12397,2,4,produce,2,6.0,2.0,6.0,9.0,10.0,6.0,4.0,1.0,Ads,Eco-Friendly,1.0
+3338,Computer,1,Credit Card,3,4,1,Married,0,21,1,13,285,Female,Urban,Bachelor,5K-10K,3043,More than 1,Platinum,34,11599,2,4,produce,3,,,,,,,,,,,
+1261,Mobile Phone,3,E wallet,3,3,1,Single,1,22,0,0,154,Male,Urban,Bachelor,5K-10K,2569,1,Gold,60,13959,1,4,produce,2,,,,,,,,,,,
+3115,Computer,1,Debit Card,4,4,4,Married,0,15,2,2,158,Male,Urban,Bachelor,2K-5K,8325,More than 1,Platinum,29,9924,2,4,produce,4,,,,,,,,,,,
+1992,Computer,1,Debit Card,2,4,3,Single,0,20,1,2,126,Female,Urban,High School,5K-10K,6102,1,Gold,64,8569,1,19,snacks,2,,,,,,,,,,,
+2740,Mobile Phone,3,E wallet,3,3,5,Divorced,0,17,2,8,209,Male,Urban,Bachelor,5K-10K,0,More than 1,Platinum,42,22689,5,16,dairy eggs,1,,,,,,,,,,,
+3353,Mobile Phone,1,Debit Card,3,5,4,Single,0,14,1,3,168,Male,Rural,High School,5K-10K,2808,1,Gold,20,576,1,4,produce,3,,,,,,,,,,,
+581,Computer,1,COD,3,4,5,Single,0,12,0,9,187,Female,Rural,High School,More than 10K,2730,1,Platinum,50,9481,3,19,snacks,3,2.0,2.0,9.0,3.0,8.0,12.0,2.0,4.0,Organic Search,Non-Eco-Friendly,4.0
+2782,Mobile Phone,3,UPI,4,4,4,Divorced,0,20,4,8,173,Female,Urban,High School,More than 10K,4799,More than 1,Gold,26,5663,1,3,bakery,1,,,,,,,,,,,
+4637,Computer,3,E wallet,4,4,3,Married,0,13,1,1,173,Female,Urban,Bachelor,2K-5K,4099,1,Gold,52,11999,2,16,dairy eggs,2,,,,,,,,,,,
+4707,Mobile Phone,3,Debit Card,3,4,5,Married,0,16,1,3,171,Male,Urban,Bachelor,More than 10K,0,More than 1,Platinum,23,25631,5,4,produce,1,,,,,,,,,,,
+1612,Mobile Phone,1,Debit Card,2,3,5,Single,0,17,0,0,126,Male,Urban,High School,5K-10K,0,More than 1,Platinum,68,6971,1,4,produce,3,,,,,,,,,,,
+889,Mobile Phone,3,Debit Card,2,1,5,Single,0,15,1,12,276,Male,Urban,Bachelor,More than 10K,4972,More than 1,Gold,28,21760,4,16,dairy eggs,2,8.0,3.0,1.0,1.0,4.0,3.0,5.0,4.0,Social Media,Eco-Friendly,5.0
+1432,Computer,1,Credit Card,2,3,5,Married,1,13,1,3,147,Male,Urban,High School,5K-10K,2584,More than 1,Platinum,25,4129,0,4,produce,4,,,,,,,,,,,
+2035,Mobile Phone,3,Credit Card,3,3,5,Single,0,12,4,6,161,Male,Urban,High School,5K-10K,15902,1,Silver,56,17018,3,4,produce,1,,,,,,,,,,,
+3120,Computer,1,Credit Card,4,4,3,Single,0,13,1,1,144,Male,Rural,Bachelor,5K-10K,2543,More than 1,Platinum,38,4974,0,4,produce,2,,,,,,,,,,,
+1397,Mobile Phone,1,Debit Card,3,4,1,Married,0,13,0,2,129,Male,Urban,Bachelor,5K-10K,2708,More than 1,Silver,49,5554,1,4,produce,2,,,,,,,,,,,
+4505,Mobile Phone,1,COD,3,2,3,Married,0,18,2,1,151,Male,Urban,High School,5K-10K,9576,More than 1,Platinum,49,9654,1,7,beverages,3,,,,,,,,,,,
+2859,Mobile Phone,2,UPI,3,5,3,Divorced,0,15,3,11,317,Male,Rural,Bachelor,5K-10K,0,More than 1,Platinum,48,8964,2,4,produce,2,,,,,,,,,,,
+2085,Mobile Phone,3,E wallet,3,4,5,Married,0,13,1,2,156,Male,Urban,High School,5K-10K,6851,More than 1,Platinum,65,17289,2,13,pantry,2,,,,,,,,,,,
+4384,Mobile Phone,3,Debit Card,3,5,3,Married,0,12,7,1,232,Female,Rural,High School,More than 10K,4224,More than 1,Silver,57,7885,0,7,beverages,1,,,,,,,,,,,
+4892,Mobile Phone,1,Debit Card,3,4,3,Married,0,12,1,3,167,Female,Urban,Bachelor,<=2K,6332,More than 1,Platinum,20,7134,1,17,household,1,,,,,,,,,,,
+251,Mobile Phone,1,Debit Card,2,5,2,Single,0,20,0,2,161,Male,Urban,High School,5K-10K,3931,1,Gold,39,2953,1,4,produce,2,2.0,8.0,3.0,9.0,6.0,9.0,0.0,0.0,Email,Non-Eco-Friendly,1.0
+2827,Computer,3,Debit Card,4,4,5,Divorced,0,15,1,1,168,Female,Rural,Bachelor,5K-10K,0,More than 1,Platinum,43,14633,0,1,frozen,1,,,,,,,,,,,
+1669,Mobile Phone,1,Credit Card,2,4,5,Single,0,19,1,7,168,Female,Urban,High School,5K-10K,5486,1,Platinum,46,23830,2,4,produce,7,,,,,,,,,,,
+4313,Mobile Phone,1,Debit Card,3,5,1,Single,0,15,2,5,194,Female,Urban,Bachelor,More than 10K,5944,More than 1,Platinum,61,6488,1,1,frozen,3,,,,,,,,,,,
+3524,Computer,3,Debit Card,4,5,4,Single,0,16,3,3,205,Male,Urban,Bachelor,5K-10K,6284,More than 1,Platinum,19,7962,2,4,produce,3,,,,,,,,,,,
+350,Mobile Phone,3,Debit Card,3,3,3,Single,0,14,1,0,146,Male,Urban,High School,5K-10K,4217,More than 1,Gold,60,6785,1,11,personal care,3,7.0,8.0,7.0,10.0,2.0,9.0,4.0,1.0,Social Media,Non-Eco-Friendly,4.0
+4268,Computer,3,Debit Card,3,4,4,Married,0,15,3,4,190,Female,Urban,Bachelor,5K-10K,0,1,Platinum,57,8540,0,4,produce,2,,,,,,,,,,,
+3849,Mobile Phone,1,Debit Card,3,4,1,Single,0,15,2,3,150,Female,Rural,High School,5K-10K,0,More than 1,Platinum,55,17061,5,7,beverages,1,,,,,,,,,,,
+3940,Mobile Phone,1,Debit Card,4,2,4,Married,0,19,6,3,245,Male,Urban,Others,2K-5K,11888,More than 1,Gold,46,11934,2,4,produce,4,,,,,,,,,,,
+480,Mobile Phone,1,Debit Card,3,5,2,Married,1,13,0,0,128,Male,Urban,Bachelor,5K-10K,2271,1,Gold,70,11834,3,7,beverages,2,4.0,10.0,3.0,1.0,4.0,3.0,6.0,2.0,Social Media,Eco-Friendly,1.0
+4517,Computer,3,Debit Card,3,4,4,Married,1,25,7,11,323,Female,Rural,Bachelor,5K-10K,4074,1,Platinum,41,21181,2,4,produce,1,,,,,,,,,,,
+3299,Computer,1,UPI,3,4,3,Married,0,12,2,8,165,Male,Urban,High School,5K-10K,6801,More than 1,Platinum,20,17909,3,16,dairy eggs,3,,,,,,,,,,,
+4168,Mobile Phone,1,Debit Card,3,2,3,Married,0,20,1,4,273,Male,Urban,High School,2K-5K,7420,More than 1,Platinum,50,6073,1,4,produce,4,,,,,,,,,,,
+3443,Mobile Phone,1,Debit Card,3,4,3,Single,0,15,1,1,279,Male,Urban,High School,5K-10K,7141,1,Platinum,30,18868,1,4,produce,1,,,,,,,,,,,
+2043,Computer,3,Debit Card,2,5,1,Single,0,20,0,0,151,Female,Urban,Bachelor,2K-5K,5995,More than 1,Platinum,47,8747,3,1,frozen,1,,,,,,,,,,,
+2940,Computer,1,Credit Card,3,5,2,Divorced,0,23,1,1,263,Male,Rural,High School,5K-10K,0,More than 1,Silver,34,4269,0,4,produce,3,,,,,,,,,,,
+4670,Computer,1,Credit Card,3,6,1,Single,1,14,1,10,269,Male,Rural,High School,5K-10K,4992,More than 1,Platinum,31,25887,7,4,produce,4,,,,,,,,,,,
+4147,Mobile Phone,1,Debit Card,4,4,1,Married,1,14,1,3,81,Male,Urban,Bachelor,2K-5K,5084,More than 1,Gold,55,4520,1,19,snacks,2,,,,,,,,,,,
+3866,Computer,1,Credit Card,4,5,1,Married,0,15,2,9,293,Male,Rural,High School,More than 10K,2160,More than 1,Platinum,53,11219,1,4,produce,4,,,,,,,,,,,
+3053,Computer,3,Debit Card,3,5,2,Single,0,20,3,3,148,Male,Urban,Bachelor,2K-5K,0,1,Silver,55,18202,4,7,beverages,1,,,,,,,,,,,
+3828,Computer,3,E wallet,3,4,1,Single,0,15,3,3,215,Male,Urban,Bachelor,5K-10K,2340,1,Platinum,48,24796,5,4,produce,2,,,,,,,,,,,
+3732,Computer,3,E wallet,4,4,3,Single,0,21,1,8,171,Male,Urban,High School,5K-10K,5271,More than 1,Platinum,26,8810,4,4,produce,2,,,,,,,,,,,
+3755,Mobile Phone,1,Debit Card,4,4,4,Married,0,18,2,10,187,Male,Urban,Bachelor,More than 10K,3414,More than 1,Gold,22,11260,2,16,dairy eggs,4,,,,,,,,,,,
+3026,Mobile Phone,1,Credit Card,3,5,3,Married,0,16,3,3,169,Female,Urban,Bachelor,5K-10K,5177,1,Platinum,47,12777,3,4,produce,2,,,,,,,,,,,
+4203,Mobile Phone,3,COD,3,5,5,Single,0,18,1,3,178,Female,Urban,Bachelor,5K-10K,4062,1,Silver,29,11912,1,4,produce,5,,,,,,,,,,,
+4374,Mobile Phone,1,UPI,3,4,3,Married,0,15,1,1,173,Male,Rural,High School,5K-10K,0,1,Platinum,45,7879,2,16,dairy eggs,3,,,,,,,,,,,
+517,Computer,1,CC,2,4,5,Single,1,22,1,2,123,Female,Urban,High School,5K-10K,5642,1,Platinum,34,13713,0,16,dairy eggs,3,9.0,7.0,5.0,5.0,4.0,6.0,2.0,2.0,Ads,Non-Eco-Friendly,2.0
+3355,Computer,1,Debit Card,3,4,1,Married,1,15,13,3,226,Male,Urban,High School,5K-10K,4404,1,Platinum,57,682,0,1,frozen,1,,,,,,,,,,,
+1633,Mobile Phone,1,Credit Card,2,3,3,Single,1,11,1,1,110,Female,Urban,High School,2K-5K,4555,1,Gold,67,6514,1,4,produce,2,,,,,,,,,,,
+3193,Computer,3,Debit Card,4,6,2,Single,1,15,2,1,136,Male,Urban,High School,5K-10K,6277,More than 1,Gold,58,8727,1,7,beverages,3,,,,,,,,,,,
+3129,Mobile Phone,3,E wallet,3,4,5,Single,0,14,2,6,177,Male,Rural,High School,5K-10K,3919,More than 1,Gold,18,11148,3,4,produce,2,,,,,,,,,,,
+2184,Mobile Phone,3,Credit Card,2,1,3,Married,0,11,3,6,182,Male,Urban,High School,5K-10K,10488,More than 1,Gold,61,5886,4,4,produce,3,,,,,,,,,,,
+3777,Mobile Phone,3,UPI,3,4,3,Married,0,22,1,3,175,Male,Rural,High School,5K-10K,2547,More than 1,Platinum,18,7371,1,4,produce,5,,,,,,,,,,,
+4396,Mobile Phone,1,Cash on Delivery,4,4,1,Married,0,21,4,3,228,Female,Urban,Bachelor,5K-10K,6186,More than 1,Platinum,32,11629,2,4,produce,3,,,,,,,,,,,
+371,Computer,1,CC,3,2,3,Married,1,12,2,2,128,Female,Urban,High School,5K-10K,3841,More than 1,Platinum,50,10783,2,20,deli,4,10.0,1.0,5.0,3.0,10.0,9.0,2.0,2.0,Organic Search,Eco-Friendly,1.0
+3930,Mobile Phone,1,Credit Card,4,5,1,Married,0,22,1,9,181,Male,Urban,High School,2K-5K,6762,More than 1,Gold,45,5789,2,4,produce,3,,,,,,,,,,,
+3793,Mobile Phone,1,Credit Card,3,5,5,Single,0,13,3,9,241,Male,Urban,Bachelor,More than 10K,9393,More than 1,Gold,67,3228,0,14,breakfast,1,,,,,,,,,,,
+1536,Computer,1,Debit Card,2,3,3,Married,1,14,0,6,292,Male,Urban,High School,2K-5K,4896,1,Platinum,29,6763,3,13,pantry,4,,,,,,,,,,,
+2785,Mobile Phone,1,Credit Card,4,3,3,Married,0,20,1,6,287,Female,Rural,High School,5K-10K,0,More than 1,Gold,62,12934,2,4,produce,4,,,,,,,,,,,
+3365,Mobile Phone,3,Debit Card,4,4,3,Married,0,15,2,8,189,Male,Rural,Bachelor,2K-5K,0,1,Silver,26,12789,1,4,produce,3,,,,,,,,,,,
+2852,Mobile Phone,1,Debit Card,4,4,5,Divorced,0,12,2,8,199,Female,Urban,Bachelor,5K-10K,3518,1,Platinum,43,20066,3,20,deli,2,,,,,,,,,,,
+3088,Computer,1,Credit Card,3,5,3,Single,0,23,4,9,170,Male,Urban,High School,2K-5K,4289,More than 1,Platinum,69,6821,2,4,produce,2,,,,,,,,,,,
+642,Computer,3,Debit Card,3,3,5,Married,0,12,0,0,128,Female,Rural,High School,More than 10K,0,1,Gold,69,15463,2,4,produce,2,10.0,9.0,1.0,6.0,9.0,7.0,7.0,1.0,Social Media,Eco-Friendly,1.0
+3742,Computer,3,Debit Card,4,4,5,Married,0,23,1,3,216,Male,Urban,Bachelor,5K-10K,3096,More than 1,Platinum,56,22331,5,19,snacks,2,,,,,,,,,,,
+946,Computer,3,Debit Card,2,3,1,Married,1,25,0,2,154,Female,Urban,High School,More than 10K,4555,More than 1,Platinum,62,13606,2,4,produce,2,6.0,8.0,8.0,7.0,10.0,5.0,2.0,2.0,Organic Search,Eco-Friendly,4.0
+3305,Computer,1,Debit Card,4,4,1,Divorced,1,14,3,3,162,Female,Urban,High School,2K-5K,5400,1,Gold,34,15539,2,7,beverages,1,,,,,,,,,,,
+2735,Computer,1,Credit Card,4,4,3,Divorced,1,16,4,8,169,Female,Urban,Bachelor,5K-10K,6271,More than 1,Gold,67,9854,1,19,snacks,1,,,,,,,,,,,
+894,Mobile Phone,1,Credit Card,2,3,1,Married,1,14,1,10,290,Male,Urban,High School,5K-10K,6227,More than 1,Gold,68,19188,3,19,snacks,3,10.0,7.0,4.0,9.0,1.0,7.0,3.0,2.0,Social Media,Non-Eco-Friendly,5.0
+4397,Computer,1,Debit Card,3,6,3,Married,0,20,2,3,171,Male,Rural,Bachelor,5K-10K,2290,More than 1,Platinum,38,9080,2,4,produce,1,,,,,,,,,,,
+408,Mobile Phone,1,Debit Card,3,3,3,Divorced,0,20,1,4,131,Female,Urban,Bachelor,5K-10K,6395,1,Platinum,56,19376,4,4,produce,3,6.0,10.0,5.0,3.0,1.0,8.0,4.0,3.0,Social Media,Non-Eco-Friendly,2.0
+4830,Mobile Phone,1,Credit Card,4,4,5,Married,1,18,1,1,149,Female,Urban,High School,5K-10K,4205,1,Gold,60,961,0,4,produce,2,,,,,,,,,,,
+3531,Computer,3,Debit Card,3,4,1,Married,0,19,2,3,166,Male,Urban,High School,More than 10K,6457,More than 1,Platinum,59,16263,2,4,produce,1,,,,,,,,,,,
+1888,Mobile Phone,1,Credit Card,2,3,5,Married,0,17,1,7,277,Male,Urban,Bachelor,2K-5K,3895,1,Platinum,61,8822,0,16,dairy eggs,3,,,,,,,,,,,
+4489,Computer,1,Credit Card,3,4,5,Married,1,18,1,1,257,Male,Urban,Bachelor,5K-10K,4909,More than 1,Gold,70,5645,1,20,deli,1,,,,,,,,,,,
+4962,Mobile Phone,1,Credit Card,3,4,3,Single,0,20,1,9,176,Male,Urban,Bachelor,2K-5K,3578,More than 1,Silver,43,8703,2,4,produce,2,,,,,,,,,,,
+1500,Computer,3,Credit Card,2,4,1,Married,0,11,0,12,197,Male,Rural,High School,More than 10K,0,1,Gold,39,23033,4,8,pets,2,,,,,,,,,,,
+4978,Mobile Phone,1,Credit Card,3,4,1,Married,1,15,3,3,173,Male,Urban,High School,5K-10K,5320,More than 1,Platinum,32,9136,4,4,produce,3,,,,,,,,,,,
+709,Mobile Phone,1,Credit Card,3,3,2,Divorced,0,11,0,5,180,Female,Urban,High School,2K-5K,3982,1,Platinum,36,4579,0,16,dairy eggs,2,3.0,4.0,9.0,2.0,7.0,5.0,4.0,1.0,Ads,Non-Eco-Friendly,3.0
+2249,Mobile Phone,1,CC,3,3,5,Married,1,16,0,2,126,Male,Rural,Bachelor,2K-5K,0,1,Platinum,64,5879,1,4,produce,1,,,,,,,,,,,
+3526,Mobile Phone,1,Credit Card,4,2,5,Married,0,19,2,1,180,Male,Rural,Bachelor,5K-10K,0,More than 1,Gold,66,8271,2,4,produce,3,,,,,,,,,,,
+2592,Mobile Phone,1,Credit Card,3,4,2,Divorced,1,14,1,5,149,Male,Urban,High School,5K-10K,9922,1,Platinum,49,9465,4,5,alcohol,2,,,,,,,,,,,
+3209,Mobile Phone,1,Credit Card,4,4,2,Divorced,0,12,1,6,205,Male,Urban,High School,5K-10K,4969,More than 1,Gold,44,8864,2,7,beverages,1,,,,,,,,,,,
+4191,Mobile Phone,1,Credit Card,4,4,3,Married,1,14,1,2,156,Female,Rural,Bachelor,5K-10K,4577,More than 1,Gold,32,11716,1,4,produce,3,,,,,,,,,,,
+4150,Mobile Phone,1,Credit Card,3,4,3,Single,1,12,2,2,135,Male,Urban,Bachelor,More than 10K,4328,More than 1,Platinum,30,4388,0,16,dairy eggs,2,,,,,,,,,,,
+2066,Mobile Phone,2,UPI,2,3,5,Married,0,14,1,9,268,Female,Urban,High School,2K-5K,0,1,Silver,50,19220,3,16,dairy eggs,3,,,,,,,,,,,
+319,Mobile Phone,1,CC,3,4,3,Married,0,12,1,3,122,Female,Urban,Bachelor,5K-10K,5020,1,Gold,26,10260,3,4,produce,2,3.0,1.0,3.0,9.0,7.0,12.0,1.0,1.0,Ads,Eco-Friendly,5.0
+309,Mobile Phone,3,E wallet,3,3,4,Divorced,0,20,1,4,163,Female,Rural,Bachelor,5K-10K,2794,More than 1,Platinum,36,15384,6,4,produce,2,10.0,4.0,10.0,10.0,4.0,12.0,6.0,2.0,Ads,Eco-Friendly,4.0
+3556,Mobile Phone,1,Debit Card,3,4,1,Married,0,15,2,3,211,Male,Rural,Bachelor,More than 10K,0,More than 1,Silver,34,8266,1,5,alcohol,2,,,,,,,,,,,
+590,Computer,1,Credit Card,2,4,3,Single,0,22,3,8,145,Male,Rural,Bachelor,More than 10K,0,More than 1,Platinum,44,14620,3,13,pantry,1,2.0,8.0,5.0,9.0,7.0,11.0,3.0,2.0,Social Media,Non-Eco-Friendly,4.0
+4275,Computer,1,Debit Card,3,4,1,Married,0,14,2,3,181,Male,Urban,High School,5K-10K,5351,1,Gold,40,6733,1,7,beverages,2,,,,,,,,,,,
+4355,Mobile Phone,1,Debit Card,4,5,1,Married,0,17,10,9,252,Male,Rural,High School,More than 10K,6339,More than 1,Platinum,66,12222,3,9,dry goods pasta,3,,,,,,,,,,,
+4913,Computer,3,Debit Card,3,6,3,Married,0,20,1,3,182,Female,Urban,High School,5K-10K,5593,1,Platinum,63,3557,1,4,produce,2,,,,,,,,,,,
+4817,Mobile Phone,1,COD,4,5,5,Married,0,14,1,1,146,Female,Urban,High School,2K-5K,5858,More than 1,Gold,47,5011,2,19,snacks,2,,,,,,,,,,,
+4554,Computer,1,Debit Card,4,4,3,Married,0,17,2,1,160,Female,Urban,High School,5K-10K,6289,More than 1,Platinum,42,16859,3,16,dairy eggs,2,,,,,,,,,,,
+4325,Computer,3,Debit Card,4,2,4,Single,1,17,2,1,257,Male,Rural,High School,2K-5K,5600,More than 1,Silver,47,20835,4,4,produce,3,,,,,,,,,,,
+4798,Mobile Phone,3,E wallet,4,5,5,Married,1,14,2,3,186,Male,Urban,High School,2K-5K,11077,More than 1,Silver,33,19902,2,1,frozen,3,,,,,,,,,,,
+1692,Computer,1,Credit Card,2,1,4,Married,0,24,0,7,142,Female,Rural,High School,5K-10K,3554,More than 1,Gold,18,9658,2,4,produce,3,,,,,,,,,,,
+2890,Mobile Phone,1,Credit Card,4,4,5,Married,1,12,1,5,180,Female,Urban,Bachelor,5K-10K,5807,More than 1,Platinum,35,8291,1,16,dairy eggs,2,,,,,,,,,,,
+1366,Mobile Phone,1,Debit Card,2,4,4,Married,0,16,2,3,225,Female,Urban,High School,5K-10K,4104,1,Silver,23,11339,3,4,produce,2,,,,,,,,,,,
+1695,Mobile Phone,1,Debit Card,3,1,5,Married,1,21,0,0,116,Male,Rural,Bachelor,5K-10K,2723,More than 1,Platinum,32,3474,0,4,produce,3,,,,,,,,,,,
+3161,Mobile Phone,1,Debit Card,3,6,3,Married,0,15,1,8,152,Female,Urban,Bachelor,2K-5K,5767,More than 1,Silver,36,12465,2,7,beverages,2,,,,,,,,,,,
+3564,Mobile Phone,1,Debit Card,4,5,4,Married,0,15,4,10,322,Male,Urban,High School,5K-10K,8317,More than 1,Platinum,43,3349,2,16,dairy eggs,1,,,,,,,,,,,
+1629,Computer,1,Debit Card,1,3,1,Married,0,23,3,7,177,Female,Rural,Bachelor,5K-10K,0,More than 1,Silver,35,15726,4,4,produce,2,,,,,,,,,,,
+3525,Mobile Phone,1,Debit Card,3,4,5,Married,0,18,2,3,159,Male,Urban,High School,5K-10K,6933,More than 1,Silver,32,15284,0,4,produce,3,,,,,,,,,,,
+1265,Computer,3,Credit Card,2,3,3,Married,0,15,0,4,142,Male,Urban,Bachelor,2K-5K,6725,1,Platinum,54,18767,4,3,bakery,1,,,,,,,,,,,
+3825,Mobile Phone,3,E wallet,4,4,4,Married,0,14,1,7,198,Female,Rural,Others,5K-10K,0,1,Gold,50,10356,2,16,dairy eggs,3,,,,,,,,,,,
+4411,Computer,3,UPI,3,4,3,Single,1,15,2,1,172,Female,Urban,Bachelor,More than 10K,5479,More than 1,Gold,24,18948,2,16,dairy eggs,1,,,,,,,,,,,
+1788,Mobile Phone,1,CC,3,3,3,Single,0,21,1,9,125,Female,Rural,High School,More than 10K,0,More than 1,Platinum,37,16348,1,4,produce,2,,,,,,,,,,,
+4765,Mobile Phone,1,Credit Card,4,5,3,Single,1,12,2,3,165,Female,Rural,Bachelor,More than 10K,0,1,Gold,36,12385,2,16,dairy eggs,2,,,,,,,,,,,
+4856,Mobile Phone,3,Cash on Delivery,4,2,3,Married,0,22,3,9,193,Male,Urban,High School,5K-10K,6212,More than 1,Platinum,22,16422,3,4,produce,2,,,,,,,,,,,
+4295,Mobile Phone,3,Credit Card,4,5,3,Single,0,18,2,4,187,Male,Urban,High School,2K-5K,16116,More than 1,Gold,57,11866,5,4,produce,3,,,,,,,,,,,
+1903,Computer,1,Debit Card,3,3,4,Single,0,15,1,3,168,Female,Rural,Bachelor,5K-10K,3155,More than 1,Gold,44,8793,2,1,frozen,1,,,,,,,,,,,
+3250,Mobile Phone,1,Debit Card,4,4,4,Divorced,1,13,12,10,259,Male,Urban,Bachelor,5K-10K,4013,More than 1,Platinum,31,10930,3,4,produce,2,,,,,,,,,,,
+2384,Mobile Phone,1,UPI,2,4,4,Married,1,11,0,2,148,Male,Urban,High School,2K-5K,2136,More than 1,Platinum,62,8312,1,4,produce,4,,,,,,,,,,,
+3420,Mobile Phone,3,Credit Card,3,6,1,Married,1,15,2,3,179,Male,Urban,Bachelor,<=2K,4048,More than 1,Silver,52,9355,2,4,produce,3,,,,,,,,,,,
+1315,Mobile Phone,1,CC,3,4,4,Married,1,20,1,0,133,Male,Urban,High School,5K-10K,6090,More than 1,Gold,25,19728,5,19,snacks,1,,,,,,,,,,,
+563,Computer,1,Debit Card,2,3,5,Divorced,1,14,1,2,120,Male,Urban,Bachelor,More than 10K,0,More than 1,Silver,36,7856,1,16,dairy eggs,3,7.0,8.0,4.0,9.0,8.0,7.0,3.0,2.0,Organic Search,Eco-Friendly,5.0
+2891,Computer,3,E wallet,3,4,2,Divorced,0,20,1,2,168,Female,Urban,High School,5K-10K,3833,More than 1,Platinum,56,15280,1,4,produce,2,,,,,,,,,,,
+2573,Computer,3,Debit Card,3,4,3,Single,0,15,2,3,225,Male,Urban,High School,5K-10K,6130,1,Platinum,65,10772,3,16,dairy eggs,2,,,,,,,,,,,
+2966,Mobile Phone,1,Debit Card,4,4,5,Divorced,1,14,3,2,151,Male,Urban,Bachelor,2K-5K,4653,More than 1,Platinum,61,12506,1,4,produce,3,,,,,,,,,,,
+2088,Computer,1,COD,2,1,3,Single,0,14,0,3,135,Female,Urban,Bachelor,2K-5K,6609,More than 1,Platinum,41,11061,4,16,dairy eggs,1,,,,,,,,,,,
+4094,Mobile Phone,3,Debit Card,3,4,4,Single,0,15,2,9,293,Female,Urban,Bachelor,5K-10K,3612,More than 1,Platinum,28,9936,2,7,beverages,2,,,,,,,,,,,
+1842,Computer,1,Credit Card,3,3,4,Married,1,14,2,7,164,Male,Urban,Others,5K-10K,9129,1,Gold,42,2898,2,4,produce,3,,,,,,,,,,,
+4109,Mobile Phone,3,Credit Card,4,4,3,Single,0,17,2,4,174,Female,Urban,High School,2K-5K,3957,More than 1,Gold,41,11051,1,16,dairy eggs,2,,,,,,,,,,,
+4632,Mobile Phone,1,Debit Card,3,4,4,Single,0,14,2,4,159,Female,Urban,Bachelor,5K-10K,2389,More than 1,Silver,58,11400,4,4,produce,3,,,,,,,,,,,
+1269,Mobile Phone,1,Debit Card,3,3,5,Single,0,13,0,0,130,Male,Urban,Bachelor,2K-5K,3182,More than 1,Silver,51,5158,4,4,produce,4,,,,,,,,,,,
+379,Mobile Phone,3,E wallet,2,3,4,Married,0,14,0,2,123,Male,Rural,High School,2K-5K,2730,More than 1,Silver,37,2900,1,4,produce,3,5.0,8.0,8.0,6.0,2.0,10.0,4.0,1.0,Social Media,Eco-Friendly,4.0
+4089,Computer,2,UPI,3,4,5,Married,1,16,2,3,225,Female,Rural,Bachelor,5K-10K,0,More than 1,Gold,52,5800,0,16,dairy eggs,1,,,,,,,,,,,
+888,Mobile Phone,1,Debit Card,3,4,1,Married,0,18,1,1,127,Male,Urban,Bachelor,5K-10K,7178,More than 1,Gold,50,5919,2,4,produce,5,1.0,6.0,10.0,8.0,2.0,0.0,2.0,3.0,Organic Search,Non-Eco-Friendly,4.0
+3612,Mobile Phone,3,E wallet,3,4,1,Single,0,22,2,3,224,Male,Urban,Bachelor,2K-5K,6427,More than 1,Gold,69,13311,1,5,alcohol,1,,,,,,,,,,,
+1785,Mobile Phone,3,E wallet,3,4,4,Married,0,12,0,0,197,Female,Urban,Others,5K-10K,0,More than 1,Platinum,43,2319,1,16,dairy eggs,2,,,,,,,,,,,
+819,Mobile Phone,1,Debit Card,2,3,4,Married,0,14,0,7,205,Male,Urban,Bachelor,5K-10K,3024,More than 1,Platinum,36,2801,0,4,produce,2,10.0,7.0,2.0,3.0,10.0,0.0,1.0,0.0,Ads,Eco-Friendly,3.0
+2297,Mobile Phone,2,Debit Card,2,5,3,Married,0,21,1,3,198,Female,Urban,High School,5K-10K,2702,More than 1,Platinum,22,10759,1,19,snacks,4,,,,,,,,,,,
+3803,Mobile Phone,1,Credit Card,4,4,5,Married,0,15,6,12,191,Male,Urban,Bachelor,5K-10K,5633,More than 1,Platinum,56,7981,3,7,beverages,1,,,,,,,,,,,
+3854,Mobile Phone,3,E wallet,4,4,4,Single,1,23,1,3,156,Female,Urban,High School,5K-10K,3482,More than 1,Platinum,64,10716,2,4,produce,3,,,,,,,,,,,
+1243,Mobile Phone,1,Debit Card,3,3,4,Married,0,23,1,4,127,Male,Urban,High School,5K-10K,0,1,Silver,62,9724,1,19,snacks,4,,,,,,,,,,,
+3665,Mobile Phone,1,COD,4,4,3,Married,0,12,7,9,148,Male,Urban,High School,More than 10K,4462,More than 1,Gold,53,9584,3,16,dairy eggs,3,,,,,,,,,,,
+4223,Mobile Phone,1,Debit Card,3,2,3,Married,0,25,2,8,152,Female,Urban,Bachelor,5K-10K,4458,1,Platinum,57,13680,2,7,beverages,3,,,,,,,,,,,
+2231,Computer,1,Debit Card,3,1,3,Married,0,17,1,7,152,Female,Urban,High School,2K-5K,5049,1,Platinum,61,7382,2,4,produce,4,,,,,,,,,,,
+44,Computer,1,CC,1,3,4,Single,0,12,4,2,121,Male,Urban,Bachelor,5K-10K,4050,More than 1,Platinum,51,16375,3,4,produce,3,7.0,9.0,8.0,4.0,1.0,4.0,4.0,1.0,Email,Non-Eco-Friendly,2.0
+4021,Computer,1,Credit Card,2,4,3,Married,0,15,2,1,178,Female,Urban,High School,5K-10K,5276,More than 1,Gold,25,3677,2,1,frozen,2,,,,,,,,,,,
+1994,Mobile Phone,3,E wallet,2,3,5,Single,1,12,1,2,145,Female,Urban,Bachelor,5K-10K,3510,More than 1,Platinum,44,2497,0,4,produce,2,,,,,,,,,,,
+2696,Mobile Phone,3,Debit Card,3,4,3,Divorced,0,18,3,8,178,Male,Urban,Bachelor,2K-5K,0,More than 1,Platinum,22,1294,0,4,produce,3,,,,,,,,,,,
+1448,Mobile Phone,3,Debit Card,2,3,4,Single,0,19,1,4,260,Male,Urban,Bachelor,5K-10K,0,1,Silver,59,7198,3,7,beverages,2,,,,,,,,,,,
+105,Mobile Phone,1,Debit Card,3,3,5,Married,0,16,1,0,131,Male,Rural,High School,5K-10K,3011,More than 1,Platinum,32,5686,1,4,produce,3,7.0,3.0,4.0,10.0,2.0,3.0,2.0,2.0,Social Media,Non-Eco-Friendly,5.0
+1047,Computer,1,Credit Card,2,3,3,Single,0,16,1,0,115,Female,Urban,Bachelor,2K-5K,5273,More than 1,Platinum,68,8553,2,4,produce,3,2.0,3.0,2.0,2.0,10.0,7.0,2.0,0.0,Social Media,Eco-Friendly,5.0
+2089,Mobile Phone,1,Debit Card,2,3,5,Married,0,22,0,0,121,Male,Urban,High School,2K-5K,4458,More than 1,Platinum,60,11934,0,16,dairy eggs,2,,,,,,,,,,,
+2480,Mobile Phone,1,CC,3,3,3,Married,0,14,0,2,120,Male,Urban,High School,5K-10K,6171,More than 1,Gold,43,9507,2,19,snacks,2,,,,,,,,,,,
+4125,Computer,1,Debit Card,3,4,3,Married,1,17,1,3,154,Male,Urban,Bachelor,<=2K,7792,1,Silver,45,5502,0,12,meat seafood,2,,,,,,,,,,,
+3472,Computer,2,UPI,3,6,4,Married,0,20,1,3,189,Male,Rural,Bachelor,5K-10K,4226,More than 1,Silver,64,15018,2,12,meat seafood,3,,,,,,,,,,,
+3039,Mobile Phone,1,Credit Card,3,4,3,Single,0,15,2,2,175,Female,Urban,High School,2K-5K,6241,1,Silver,64,8151,0,4,produce,2,,,,,,,,,,,
+4868,Mobile Phone,2,UPI,3,5,5,Married,1,16,3,1,148,Female,Urban,Bachelor,2K-5K,3115,1,Platinum,28,11771,1,4,produce,2,,,,,,,,,,,
+3097,Computer,1,Debit Card,3,5,2,Divorced,0,18,2,1,155,Female,Rural,Bachelor,2K-5K,0,More than 1,Platinum,50,26812,6,18,babies,3,,,,,,,,,,,
+3200,Mobile Phone,1,Credit Card,4,4,2,Single,0,13,2,3,230,Female,Rural,Bachelor,5K-10K,4216,More than 1,Platinum,40,5561,0,4,produce,5,,,,,,,,,,,
+1337,Mobile Phone,3,E wallet,3,3,4,Single,1,22,0,2,131,Female,Urban,High School,2K-5K,13274,More than 1,Platinum,62,4076,1,4,produce,3,,,,,,,,,,,
+2030,Computer,1,Debit Card,3,3,3,Married,0,16,1,0,135,Male,Urban,Bachelor,5K-10K,5338,More than 1,Silver,52,24555,6,4,produce,2,,,,,,,,,,,
+1467,Mobile Phone,1,Credit Card,3,1,1,Single,0,16,0,7,151,Female,Urban,Bachelor,2K-5K,5996,More than 1,Platinum,54,18049,3,4,produce,5,,,,,,,,,,,
+3678,Mobile Phone,1,Debit Card,4,6,1,Married,0,13,1,2,155,Female,Urban,High School,2K-5K,3972,More than 1,Platinum,33,18599,5,4,produce,4,,,,,,,,,,,
+3645,Mobile Phone,3,Debit Card,3,4,3,Married,0,20,2,3,156,Female,Urban,High School,<=2K,5817,More than 1,Silver,37,23106,2,4,produce,3,,,,,,,,,,,
+2068,Computer,1,Debit Card,2,3,1,Single,0,11,2,2,194,Male,Urban,High School,2K-5K,2057,More than 1,Silver,50,9438,2,4,produce,5,,,,,,,,,,,
+1436,Mobile Phone,1,CC,2,3,4,Married,1,13,1,2,124,Female,Rural,High School,5K-10K,0,1,Platinum,35,7946,2,16,dairy eggs,4,,,,,,,,,,,
+3939,Computer,1,Credit Card,4,4,1,Married,1,19,1,3,261,Female,Urban,High School,2K-5K,3780,1,Gold,64,7243,3,19,snacks,3,,,,,,,,,,,
+927,Mobile Phone,3,CC,3,3,3,Single,0,19,0,2,128,Male,Urban,Bachelor,2K-5K,3974,1,Gold,25,18745,2,4,produce,2,2.0,4.0,10.0,7.0,6.0,16.0,4.0,2.0,Email,Non-Eco-Friendly,1.0
+4348,Mobile Phone,1,Debit Card,4,2,5,Married,1,13,1,8,239,Male,Urban,Bachelor,5K-10K,3631,More than 1,Platinum,26,7295,2,16,dairy eggs,3,,,,,,,,,,,
+4560,Mobile Phone,3,Debit Card,3,4,5,Married,0,16,1,8,194,Male,Rural,Bachelor,5K-10K,0,More than 1,Platinum,62,9370,2,19,snacks,4,,,,,,,,,,,
+3657,Mobile Phone,1,Credit Card,3,4,1,Single,1,13,1,3,149,Male,Urban,Bachelor,5K-10K,4004,1,Platinum,45,11441,1,4,produce,2,,,,,,,,,,,
+1334,Mobile Phone,1,Debit Card,2,4,1,Single,0,22,1,0,111,Male,Urban,Bachelor,2K-5K,5822,1,Platinum,66,25337,4,4,produce,1,,,,,,,,,,,
+1220,Mobile Phone,1,Cash on Delivery,2,3,3,Married,0,15,1,8,295,Female,Rural,High School,5K-10K,0,More than 1,Silver,68,5353,1,7,beverages,1,,,,,,,,,,,
+1309,Mobile Phone,1,Debit Card,3,3,5,Married,0,21,0,4,122,Male,Urban,Bachelor,5K-10K,7020,More than 1,Platinum,56,21051,4,4,produce,4,,,,,,,,,,,
+1291,Mobile Phone,3,E wallet,2,3,3,Single,1,19,1,0,117,Female,Rural,Bachelor,5K-10K,0,More than 1,Silver,62,2679,2,19,snacks,2,,,,,,,,,,,
+4323,Mobile Phone,3,Debit Card,4,4,1,Married,0,14,1,9,203,Female,Urban,High School,2K-5K,6469,More than 1,Platinum,51,5596,2,4,produce,3,,,,,,,,,,,
+3708,Computer,1,UPI,4,2,3,Married,0,19,1,4,165,Female,Rural,Others,5K-10K,0,More than 1,Platinum,64,15536,3,4,produce,4,,,,,,,,,,,
+1302,Mobile Phone,1,CC,2,3,1,Single,0,13,1,3,135,Female,Urban,High School,2K-5K,5945,1,Platinum,69,15756,1,4,produce,3,,,,,,,,,,,
+508,Computer,3,Cash on Delivery,2,3,2,Divorced,0,15,0,2,122,Female,Urban,Bachelor,2K-5K,9321,1,Gold,43,15681,6,7,beverages,6,5.0,1.0,4.0,3.0,3.0,19.0,5.0,0.0,Organic Search,Eco-Friendly,2.0
+2425,Mobile Phone,1,Debit Card,3,3,3,Married,0,11,1,3,129,Male,Urban,High School,5K-10K,3899,More than 1,Gold,29,18219,2,4,produce,3,,,,,,,,,,,
+3285,Mobile Phone,1,Debit Card,4,4,4,Single,0,12,1,1,289,Male,Urban,Bachelor,2K-5K,6159,More than 1,Silver,27,8185,2,16,dairy eggs,2,,,,,,,,,,,
+868,Mobile Phone,1,CC,3,4,5,Single,0,19,0,2,125,Female,Urban,Bachelor,5K-10K,0,More than 1,Platinum,27,1394,1,18,babies,3,2.0,10.0,10.0,7.0,9.0,10.0,4.0,2.0,Organic Search,Eco-Friendly,5.0
+2960,Computer,3,Credit Card,3,4,4,Single,1,14,1,10,201,Male,Urban,Bachelor,2K-5K,3448,1,Silver,66,18764,4,4,produce,1,,,,,,,,,,,
+1335,Mobile Phone,3,E wallet,3,3,5,Married,0,25,8,7,205,Female,Urban,High School,5K-10K,2376,More than 1,Platinum,37,5655,1,16,dairy eggs,2,,,,,,,,,,,
+38,Computer,1,CC,3,4,3,Married,1,15,0,1,126,Female,Urban,High School,5K-10K,6473,More than 1,Platinum,70,4035,2,16,dairy eggs,1,8.0,5.0,8.0,2.0,5.0,3.0,3.0,2.0,Organic Search,Eco-Friendly,1.0
+486,Mobile Phone,3,Debit Card,2,4,3,Divorced,0,15,3,2,123,Female,Urban,High School,More than 10K,6983,More than 1,Platinum,53,1349,0,16,dairy eggs,8,4.0,7.0,2.0,6.0,3.0,5.0,1.0,2.0,Social Media,Eco-Friendly,1.0
+2887,Computer,1,Credit Card,3,4,2,Divorced,0,19,2,3,168,Male,Rural,Bachelor,2K-5K,2833,More than 1,Gold,19,5007,0,4,produce,4,,,,,,,,,,,
+1417,Mobile Phone,1,Credit Card,3,3,1,Married,1,14,2,10,235,Male,Urban,Bachelor,2K-5K,9731,1,Platinum,56,14735,3,1,frozen,1,,,,,,,,,,,
+2905,Mobile Phone,3,E wallet,4,4,5,Single,0,16,2,3,178,Female,Urban,High School,5K-10K,8307,1,Platinum,27,7375,1,13,pantry,4,,,,,,,,,,,
+811,Mobile Phone,1,CC,3,3,3,Married,0,14,0,2,123,Male,Rural,Bachelor,5K-10K,2974,1,Platinum,50,2867,1,4,produce,2,9.0,2.0,8.0,10.0,10.0,12.0,4.0,3.0,Email,Non-Eco-Friendly,3.0
+2603,Mobile Phone,1,Debit Card,4,5,2,Divorced,0,14,1,3,154,Male,Urban,Bachelor,2K-5K,3774,1,Platinum,23,15092,2,19,snacks,3,,,,,,,,,,,
+3801,Mobile Phone,1,Credit Card,4,4,1,Married,0,13,8,3,228,Male,Urban,Bachelor,2K-5K,4085,1,Silver,67,6115,1,16,dairy eggs,5,,,,,,,,,,,
+509,Mobile Phone,3,Credit Card,2,3,3,Divorced,0,16,1,0,146,Female,Rural,High School,More than 10K,0,1,Silver,47,8181,1,16,dairy eggs,3,7.0,5.0,4.0,4.0,8.0,4.0,3.0,4.0,Ads,Non-Eco-Friendly,1.0
+649,Computer,1,Debit Card,3,4,2,Divorced,1,11,0,0,129,Female,Rural,Bachelor,5K-10K,5606,1,Gold,22,8603,2,4,produce,3,2.0,6.0,8.0,5.0,8.0,1.0,3.0,1.0,Organic Search,Non-Eco-Friendly,1.0
+4253,Mobile Phone,3,E wallet,4,4,5,Married,1,13,1,3,233,Male,Urban,High School,5K-10K,2531,1,Gold,27,20899,1,4,produce,3,,,,,,,,,,,
+3038,Mobile Phone,1,Debit Card,4,5,3,Single,0,15,2,9,235,Male,Urban,Others,2K-5K,9557,More than 1,Platinum,25,11685,1,16,dairy eggs,3,,,,,,,,,,,
+4905,Mobile Phone,1,Credit Card,3,4,5,Married,0,14,6,8,258,Male,Urban,Bachelor,5K-10K,6091,1,Platinum,55,15652,4,4,produce,2,,,,,,,,,,,
+2832,Computer,1,Debit Card,2,4,2,Married,0,24,5,8,202,Male,Rural,Bachelor,5K-10K,3139,More than 1,Platinum,43,13092,4,4,produce,2,,,,,,,,,,,
+2051,Computer,1,Debit Card,2,1,3,Married,0,11,0,3,126,Male,Urban,High School,5K-10K,5131,More than 1,Silver,26,17893,4,4,produce,2,,,,,,,,,,,
+501,Mobile Phone,1,Credit Card,2,3,2,Divorced,1,11,0,5,159,Male,Rural,Bachelor,5K-10K,0,More than 1,Silver,67,15420,3,4,produce,1,8.0,5.0,1.0,8.0,6.0,17.0,2.0,0.0,Organic Search,Eco-Friendly,2.0
+4631,Mobile Phone,1,Credit Card,4,4,3,Married,0,15,2,3,148,Female,Rural,High School,5K-10K,9425,More than 1,Silver,43,8581,1,4,produce,2,,,,,,,,,,,
+3361,Mobile Phone,1,Cash on Delivery,4,4,4,Married,0,13,7,8,199,Male,Urban,Bachelor,5K-10K,3986,1,Platinum,70,13662,0,4,produce,7,,,,,,,,,,,
+2895,Mobile Phone,1,Debit Card,3,6,3,Divorced,0,22,2,3,163,Female,Urban,High School,5K-10K,2466,More than 1,Gold,27,19424,2,4,produce,1,,,,,,,,,,,
+2092,Mobile Phone,3,E wallet,3,3,1,Married,0,12,0,3,192,Male,Urban,Bachelor,More than 10K,6404,More than 1,Gold,30,2805,2,4,produce,2,,,,,,,,,,,
+179,Computer,1,Debit Card,2,4,3,Married,0,11,0,0,153,Male,Rural,Bachelor,More than 10K,0,More than 1,Silver,69,12650,2,16,dairy eggs,3,10.0,2.0,10.0,8.0,9.0,8.0,2.0,1.0,Email,Eco-Friendly,5.0
+414,Mobile Phone,1,Debit Card,2,3,4,Single,1,15,5,8,292,Female,Urban,Others,5K-10K,5067,1,Platinum,69,14238,0,4,produce,8,3.0,3.0,3.0,7.0,7.0,9.0,4.0,3.0,Social Media,Non-Eco-Friendly,5.0
+4645,Mobile Phone,3,Debit Card,4,4,3,Married,0,14,1,1,149,Male,Urban,High School,5K-10K,6043,1,Silver,66,7881,6,4,produce,2,,,,,,,,,,,
+2216,Computer,1,Debit Card,2,3,3,Married,0,12,0,9,141,Male,Rural,Bachelor,5K-10K,0,More than 1,Silver,34,5461,3,1,frozen,2,,,,,,,,,,,
+165,Computer,1,Debit Card,3,3,4,Divorced,0,11,2,3,219,Male,Rural,Bachelor,5K-10K,5116,1,Platinum,68,7591,0,7,beverages,7,9.0,10.0,7.0,8.0,10.0,17.0,0.0,5.0,Organic Search,Eco-Friendly,4.0
+2628,Computer,1,Credit Card,1,4,2,Married,1,19,1,3,261,Male,Urban,Bachelor,2K-5K,10802,More than 1,Platinum,44,12577,0,4,produce,5,,,,,,,,,,,
+3075,Mobile Phone,1,Debit Card,3,5,5,Single,0,14,2,1,139,Male,Rural,High School,More than 10K,0,More than 1,Gold,57,8654,3,4,produce,5,,,,,,,,,,,
+4079,Mobile Phone,1,Debit Card,3,6,3,Single,0,16,2,4,167,Female,Urban,Bachelor,5K-10K,8962,More than 1,Platinum,68,3894,1,4,produce,2,,,,,,,,,,,
+4682,Mobile Phone,3,Debit Card,4,4,1,Single,1,22,2,3,151,Female,Urban,Bachelor,5K-10K,6151,More than 1,Platinum,65,22033,3,4,produce,2,,,,,,,,,,,
+3331,Mobile Phone,3,Credit Card,4,4,3,Divorced,1,18,2,3,171,Male,Urban,High School,5K-10K,0,1,Silver,21,13549,3,4,produce,2,,,,,,,,,,,
+3395,Mobile Phone,1,COD,3,2,4,Married,0,13,2,3,174,Male,Urban,High School,5K-10K,5365,1,Platinum,46,10192,3,4,produce,2,,,,,,,,,,,
+4014,Computer,3,COD,4,5,4,Single,1,12,2,3,147,Male,Urban,High School,2K-5K,5324,1,Silver,69,8468,0,16,dairy eggs,1,,,,,,,,,,,
+817,Computer,1,Cash on Delivery,3,3,3,Married,0,13,0,0,113,Male,Urban,High School,More than 10K,5978,1,Platinum,28,13457,1,11,personal care,1,3.0,7.0,9.0,6.0,1.0,6.0,3.0,0.0,Email,Eco-Friendly,4.0
+598,Computer,3,UPI,2,3,3,Single,1,14,0,0,147,Male,Urban,Bachelor,5K-10K,4389,More than 1,Platinum,53,10608,0,4,produce,2,3.0,4.0,7.0,6.0,8.0,7.0,1.0,2.0,Organic Search,Non-Eco-Friendly,1.0
+3790,Mobile Phone,1,Debit Card,3,4,3,Married,0,13,1,3,153,Female,Urban,High School,5K-10K,13252,More than 1,Gold,33,3110,2,4,produce,2,,,,,,,,,,,
+1099,Computer,1,UPI,2,4,1,Married,1,15,3,11,157,Male,Rural,Bachelor,More than 10K,3123,More than 1,Platinum,57,5547,2,4,produce,5,10.0,8.0,4.0,1.0,6.0,11.0,2.0,1.0,Email,Eco-Friendly,3.0
+1735,Mobile Phone,1,Debit Card,2,4,1,Married,0,22,2,2,148,Female,Urban,High School,2K-5K,5223,1,Silver,54,20847,3,4,produce,3,,,,,,,,,,,
+4221,Mobile Phone,1,UPI,3,4,1,Married,1,15,4,1,293,Female,Urban,High School,5K-10K,4225,More than 1,Platinum,33,15525,3,4,produce,4,,,,,,,,,,,
+3923,Mobile Phone,1,Credit Card,3,5,5,Married,1,12,8,9,151,Female,Urban,High School,5K-10K,0,More than 1,Platinum,62,17572,3,16,dairy eggs,2,,,,,,,,,,,
+3980,Mobile Phone,3,Debit Card,4,4,3,Single,1,12,1,5,170,Male,Urban,High School,2K-5K,5946,More than 1,Platinum,52,12407,3,4,produce,1,,,,,,,,,,,
+3013,Computer,1,Credit Card,3,5,5,Single,1,23,2,3,148,Male,Rural,Bachelor,More than 10K,10705,More than 1,Silver,18,7738,1,16,dairy eggs,1,,,,,,,,,,,
+3860,Computer,1,Debit Card,3,5,3,Married,0,18,1,3,220,Female,Urban,High School,2K-5K,10705,1,Gold,20,16541,5,4,produce,3,,,,,,,,,,,
+507,Computer,1,Debit Card,2,3,4,Divorced,0,12,1,8,144,Female,Urban,High School,5K-10K,2305,More than 1,Platinum,29,10528,0,7,beverages,2,10.0,7.0,4.0,10.0,10.0,1.0,3.0,2.0,Organic Search,Non-Eco-Friendly,1.0
+1966,Mobile Phone,3,COD,2,4,4,Married,0,12,1,3,169,Male,Rural,High School,5K-10K,0,More than 1,Platinum,40,7312,2,20,deli,2,,,,,,,,,,,
+1410,Computer,3,Debit Card,2,4,1,Married,0,18,1,5,152,Female,Urban,Bachelor,5K-10K,6386,More than 1,Platinum,47,6932,1,4,produce,4,,,,,,,,,,,
+2380,Mobile Phone,3,COD,3,4,3,Married,1,13,0,7,157,Male,Urban,Bachelor,2K-5K,7173,More than 1,Platinum,48,13191,3,16,dairy eggs,1,,,,,,,,,,,
+4755,Mobile Phone,3,Credit Card,4,4,1,Married,0,15,2,5,180,Male,Rural,Bachelor,5K-10K,0,1,Gold,46,12893,3,7,beverages,3,,,,,,,,,,,
+4692,Computer,1,COD,4,4,5,Married,0,15,1,3,166,Female,Rural,Bachelor,5K-10K,2542,More than 1,Platinum,61,6318,1,4,produce,1,,,,,,,,,,,
+4365,Mobile Phone,3,E wallet,3,6,1,Married,0,16,4,10,323,Female,Urban,High School,5K-10K,11236,More than 1,Gold,42,8308,2,4,produce,4,,,,,,,,,,,
+2683,Mobile Phone,1,Credit Card,3,4,2,Single,1,15,3,11,196,Male,Rural,High School,5K-10K,0,1,Platinum,58,13075,1,16,dairy eggs,2,,,,,,,,,,,
+2831,Mobile Phone,1,Debit Card,3,6,2,Single,0,14,12,9,191,Female,Urban,High School,5K-10K,2640,More than 1,Platinum,52,10102,2,7,beverages,3,,,,,,,,,,,
+1542,Mobile Phone,1,Debit Card,3,3,1,Married,0,21,0,2,127,Male,Rural,High School,5K-10K,0,More than 1,Platinum,67,10313,2,4,produce,1,,,,,,,,,,,
+1278,Computer,1,Debit Card,3,5,3,Single,1,24,1,6,161,Male,Urban,Bachelor,5K-10K,3614,More than 1,Platinum,32,7448,2,7,beverages,2,,,,,,,,,,,
+715,Mobile Phone,1,CC,2,3,4,Single,0,18,1,1,121,Female,Urban,Bachelor,2K-5K,3932,More than 1,Platinum,38,11758,3,16,dairy eggs,3,9.0,2.0,6.0,5.0,7.0,5.0,1.0,3.0,Organic Search,Eco-Friendly,1.0
+4146,Computer,3,Debit Card,4,4,5,Married,0,15,1,1,168,Female,Urban,Bachelor,5K-10K,13170,1,Platinum,21,6451,2,4,produce,2,,,,,,,,,,,
+4254,Mobile Phone,1,Credit Card,4,2,3,Married,0,13,2,4,177,Male,Urban,High School,More than 10K,3734,More than 1,Platinum,58,9437,2,4,produce,5,,,,,,,,,,,
+665,Mobile Phone,3,E wallet,2,1,2,Married,1,18,0,9,152,Male,Urban,High School,2K-5K,6008,More than 1,Gold,22,5668,2,5,alcohol,1,1.0,6.0,2.0,9.0,2.0,12.0,1.0,2.0,Organic Search,Non-Eco-Friendly,4.0
+1285,Computer,3,Debit Card,3,3,1,Married,1,12,1,12,270,Male,Urban,Bachelor,<=2K,5213,1,Platinum,19,3208,0,4,produce,3,,,,,,,,,,,
+582,Mobile Phone,1,Credit Card,2,4,5,Divorced,0,16,0,3,140,Female,Rural,High School,5K-10K,2321,More than 1,Platinum,19,5331,2,4,produce,1,6.0,9.0,8.0,5.0,2.0,11.0,1.0,2.0,Organic Search,Eco-Friendly,5.0
+3889,Mobile Phone,3,E wallet,3,4,5,Married,0,15,2,6,184,Male,Urban,Bachelor,5K-10K,2665,More than 1,Platinum,23,7900,1,1,frozen,2,,,,,,,,,,,
+630,Computer,1,Credit Card,2,3,3,Single,0,17,0,13,235,Male,Rural,Bachelor,2K-5K,0,More than 1,Platinum,70,12007,1,4,produce,2,7.0,7.0,4.0,7.0,4.0,15.0,0.0,0.0,Organic Search,Eco-Friendly,1.0
+2214,Mobile Phone,1,CC,3,4,3,Married,0,15,0,7,131,Male,Urban,High School,5K-10K,7194,More than 1,Platinum,21,26487,7,7,beverages,1,,,,,,,,,,,
+435,Mobile Phone,1,CC,3,1,5,Single,0,13,1,1,134,Male,Urban,High School,5K-10K,4676,More than 1,Silver,51,18719,1,4,produce,1,1.0,1.0,2.0,7.0,5.0,8.0,2.0,6.0,Email,Non-Eco-Friendly,2.0
+2263,Mobile Phone,1,COD,3,4,4,Married,0,12,1,2,135,Male,Rural,High School,2K-5K,5065,More than 1,Platinum,21,12438,4,4,produce,3,,,,,,,,,,,
+2665,Mobile Phone,1,Credit Card,4,3,2,Single,0,17,2,8,176,Female,Urban,High School,5K-10K,3986,More than 1,Platinum,48,6346,1,1,frozen,2,,,,,,,,,,,
+936,Computer,1,Debit Card,2,3,1,Married,0,15,2,9,147,Female,Urban,High School,5K-10K,7127,1,Silver,21,17621,1,7,beverages,2,3.0,6.0,8.0,1.0,10.0,4.0,0.0,0.0,Ads,Non-Eco-Friendly,5.0
+4506,Mobile Phone,3,E wallet,3,4,4,Married,0,15,2,11,307,Male,Urban,Bachelor,5K-10K,3718,More than 1,Gold,23,17696,2,15,canned goods,1,,,,,,,,,,,
+3023,Mobile Phone,1,Debit Card,4,4,3,Divorced,1,19,1,6,265,Female,Rural,High School,More than 10K,0,More than 1,Silver,21,20961,3,4,produce,5,,,,,,,,,,,
+1195,Computer,1,CC,3,1,1,Married,1,13,0,0,129,Female,Urban,High School,2K-5K,6807,1,Silver,28,4083,0,11,personal care,1,4.0,1.0,10.0,10.0,10.0,15.0,1.0,2.0,Organic Search,Eco-Friendly,4.0
+3830,Mobile Phone,1,Credit Card,3,5,3,Married,0,18,2,1,186,Female,Urban,High School,5K-10K,5405,1,Gold,26,5160,2,16,dairy eggs,3,,,,,,,,,,,
+168,Mobile Phone,1,Cash on Delivery,2,4,3,Single,1,12,1,7,240,Male,Rural,High School,More than 10K,0,More than 1,Platinum,49,391,0,4,produce,4,7.0,8.0,9.0,4.0,1.0,8.0,1.0,1.0,Email,Eco-Friendly,5.0
+2732,Computer,1,Credit Card,4,4,2,Divorced,0,21,1,3,148,Male,Urban,High School,5K-10K,3781,More than 1,Gold,48,11577,2,4,produce,2,,,,,,,,,,,
+4104,Mobile Phone,3,Debit Card,3,5,1,Married,0,22,2,2,241,Male,Urban,Bachelor,2K-5K,6733,More than 1,Gold,62,7778,1,16,dairy eggs,3,,,,,,,,,,,
+2714,Mobile Phone,1,UPI,3,5,3,Single,0,25,2,1,170,Male,Urban,Bachelor,2K-5K,3820,More than 1,Gold,38,17470,5,4,produce,2,,,,,,,,,,,
+1042,Computer,3,E wallet,3,3,5,Married,0,14,2,2,196,Male,Rural,High School,5K-10K,0,More than 1,Platinum,55,19236,4,13,pantry,2,5.0,3.0,8.0,7.0,1.0,10.0,2.0,1.0,Ads,Eco-Friendly,5.0
+1381,Mobile Phone,1,CC,2,4,1,Single,1,13,0,1,124,Female,Urban,High School,5K-10K,10407,More than 1,Platinum,18,3622,1,1,frozen,2,,,,,,,,,,,
+3399,Mobile Phone,1,Credit Card,3,6,5,Single,1,15,2,5,183,Male,Rural,Bachelor,More than 10K,2231,More than 1,Platinum,58,11474,2,4,produce,4,,,,,,,,,,,
+3287,Mobile Phone,1,Debit Card,3,5,4,Single,0,13,1,1,138,Male,Rural,High School,More than 10K,3171,More than 1,Platinum,30,20713,2,19,snacks,3,,,,,,,,,,,
+592,Computer,1,Debit Card,2,3,2,Single,0,17,1,4,178,Male,Rural,Bachelor,5K-10K,0,More than 1,Platinum,59,5989,2,4,produce,2,8.0,9.0,7.0,1.0,9.0,10.0,0.0,3.0,Ads,Non-Eco-Friendly,3.0
+2277,Computer,3,Debit Card,2,5,3,Married,0,11,6,3,229,Male,Urban,Bachelor,2K-5K,5908,1,Platinum,43,17689,6,4,produce,2,,,,,,,,,,,
+4367,Computer,3,Debit Card,4,4,3,Married,0,13,1,14,188,Female,Urban,Others,5K-10K,4143,More than 1,Platinum,23,8814,2,4,produce,5,,,,,,,,,,,
+4778,Computer,1,Credit Card,4,5,1,Single,1,15,2,5,174,Female,Rural,Others,More than 10K,0,More than 1,Platinum,43,3599,1,4,produce,1,,,,,,,,,,,
+207,Computer,3,CC,2,3,2,Single,0,24,0,2,126,Female,Rural,High School,5K-10K,2678,More than 1,Silver,42,10049,2,4,produce,2,9.0,10.0,3.0,8.0,5.0,8.0,0.0,4.0,Ads,Eco-Friendly,3.0
+3486,Mobile Phone,2,Debit Card,3,6,3,Married,0,22,2,3,223,Female,Urban,Bachelor,2K-5K,3950,More than 1,Gold,59,15036,3,19,snacks,2,,,,,,,,,,,
+2565,Mobile Phone,1,Credit Card,4,4,5,Divorced,1,20,1,1,192,Male,Rural,Bachelor,5K-10K,0,1,Platinum,55,11965,1,16,dairy eggs,4,,,,,,,,,,,
+4103,Mobile Phone,1,Credit Card,4,2,3,Married,0,20,1,6,287,Female,Urban,High School,2K-5K,3943,More than 1,Gold,70,16876,5,19,snacks,2,,,,,,,,,,,
+2663,Mobile Phone,3,Debit Card,4,4,3,Single,1,12,2,5,170,Male,Urban,Bachelor,2K-5K,4417,More than 1,Platinum,70,11695,2,4,produce,3,,,,,,,,,,,
+3633,Computer,1,Credit Card,3,4,3,Married,0,21,4,9,235,Male,Rural,Bachelor,More than 10K,0,More than 1,Platinum,34,5307,0,1,frozen,2,,,,,,,,,,,
+3484,Mobile Phone,3,Debit Card,4,6,3,Married,0,14,2,3,221,Male,Urban,Bachelor,2K-5K,8226,More than 1,Silver,47,8989,2,3,bakery,3,,,,,,,,,,,
+304,Computer,3,UPI,2,2,3,Divorced,0,12,1,2,147,Female,Urban,Bachelor,2K-5K,3562,More than 1,Silver,62,13130,3,4,produce,5,2.0,5.0,7.0,4.0,9.0,14.0,2.0,1.0,Organic Search,Non-Eco-Friendly,2.0
+433,Mobile Phone,3,E wallet,3,3,3,Divorced,0,14,1,17,263,Male,Urban,High School,2K-5K,4132,More than 1,Silver,32,25034,6,4,produce,1,5.0,1.0,9.0,5.0,5.0,16.0,0.0,2.0,Social Media,Non-Eco-Friendly,4.0
+4215,Computer,1,Debit Card,3,5,4,Married,0,12,1,1,152,Male,Urban,Others,5K-10K,3391,More than 1,Platinum,58,9071,2,7,beverages,1,,,,,,,,,,,
+2579,Computer,3,Credit Card,3,5,2,Single,0,13,13,3,214,Male,Urban,Bachelor,2K-5K,5054,More than 1,Platinum,55,8292,1,4,produce,2,,,,,,,,,,,
+3104,Mobile Phone,3,E wallet,3,4,3,Divorced,0,15,2,10,300,Female,Urban,High School,5K-10K,4205,1,Platinum,21,13033,1,4,produce,2,,,,,,,,,,,
+4657,Computer,1,Debit Card,4,4,4,Married,0,14,2,3,157,Female,Rural,Bachelor,5K-10K,2635,More than 1,Silver,43,23984,4,4,produce,2,,,,,,,,,,,
+389,Mobile Phone,3,UPI,2,3,2,Single,0,22,0,4,163,Female,Rural,High School,More than 10K,0,More than 1,Platinum,55,17647,1,16,dairy eggs,3,6.0,5.0,4.0,1.0,10.0,13.0,3.0,4.0,Social Media,Eco-Friendly,2.0
+1423,Computer,1,Credit Card,3,3,1,Married,1,18,0,2,236,Female,Urban,High School,More than 10K,7063,More than 1,Platinum,54,9150,2,4,produce,1,,,,,,,,,,,
+3182,Mobile Phone,3,Debit Card,3,5,2,Single,0,18,1,6,177,Male,Rural,Bachelor,5K-10K,0,More than 1,Gold,41,7183,0,4,produce,2,,,,,,,,,,,
+3170,Mobile Phone,3,Cash on Delivery,3,5,4,Married,0,13,2,4,194,Male,Rural,High School,5K-10K,5551,More than 1,Silver,25,2079,1,4,produce,1,,,,,,,,,,,
+3670,Mobile Phone,1,COD,4,4,5,Single,0,15,2,3,149,Female,Urban,Bachelor,<=2K,10051,More than 1,Platinum,22,20333,3,4,produce,2,,,,,,,,,,,
+2607,Computer,1,Credit Card,4,4,3,Married,0,12,2,3,225,Female,Rural,Bachelor,2K-5K,0,More than 1,Silver,63,5810,1,7,beverages,4,,,,,,,,,,,
+1836,Mobile Phone,1,Credit Card,2,3,3,Single,0,14,2,1,150,Male,Rural,Bachelor,5K-10K,0,1,Silver,35,15828,1,15,canned goods,2,,,,,,,,,,,
+1209,Mobile Phone,1,CC,3,3,1,Married,1,16,0,0,123,Female,Urban,High School,2K-5K,0,1,Gold,38,12175,3,1,frozen,2,,,,,,,,,,,
+753,Computer,3,Debit Card,3,4,2,Single,0,14,0,0,128,Female,Urban,High School,5K-10K,4070,More than 1,Platinum,61,9905,3,4,produce,1,4.0,10.0,3.0,8.0,1.0,22.0,4.0,2.0,Email,Eco-Friendly,3.0
+3630,Mobile Phone,1,Credit Card,3,6,1,Married,1,12,2,1,136,Male,Rural,Bachelor,More than 10K,0,More than 1,Platinum,39,5238,2,16,dairy eggs,2,,,,,,,,,,,
+1107,Computer,1,Debit Card,2,3,1,Married,0,15,1,3,292,Male,Urban,High School,5K-10K,6442,More than 1,Gold,25,20302,2,13,pantry,2,1.0,3.0,2.0,6.0,1.0,19.0,1.0,2.0,Email,Eco-Friendly,5.0
+2306,Computer,3,E wallet,3,3,4,Single,0,15,1,7,151,Female,Urban,High School,5K-10K,7058,More than 1,Platinum,20,6257,1,1,frozen,3,,,,,,,,,,,
+4030,Mobile Phone,3,Debit Card,3,4,1,Married,0,12,2,8,174,Female,Urban,High School,5K-10K,8824,More than 1,Silver,34,5654,2,4,produce,1,,,,,,,,,,,
+674,Computer,3,E wallet,3,4,2,Divorced,1,11,2,12,204,Female,Urban,High School,5K-10K,3174,More than 1,Platinum,48,10454,1,4,produce,5,1.0,8.0,9.0,7.0,2.0,12.0,8.0,0.0,Organic Search,Non-Eco-Friendly,1.0
+3402,Mobile Phone,1,Debit Card,4,4,3,Married,1,13,1,2,172,Male,Rural,Bachelor,More than 10K,0,1,Platinum,67,3867,1,13,pantry,4,,,,,,,,,,,
+4862,Mobile Phone,1,Credit Card,4,4,5,Married,0,26,2,3,161,Female,Urban,High School,5K-10K,7012,More than 1,Platinum,33,16507,3,4,produce,3,,,,,,,,,,,
+1224,Mobile Phone,1,Debit Card,2,1,1,Married,0,19,1,1,123,Female,Urban,Bachelor,5K-10K,0,1,Platinum,20,4245,2,16,dairy eggs,5,,,,,,,,,,,
+4152,Computer,1,Debit Card,3,5,3,Married,0,19,2,1,138,Female,Urban,Bachelor,2K-5K,4031,More than 1,Gold,63,15449,3,19,snacks,2,,,,,,,,,,,
+1077,Mobile Phone,1,Debit Card,2,3,5,Single,0,14,0,2,121,Male,Urban,High School,5K-10K,8997,More than 1,Platinum,32,6110,2,4,produce,4,8.0,1.0,4.0,2.0,3.0,15.0,3.0,5.0,Organic Search,Eco-Friendly,1.0
+3983,Mobile Phone,1,Credit Card,3,6,1,Married,1,14,2,3,160,Male,Rural,Bachelor,More than 10K,0,1,Platinum,20,14745,3,4,produce,4,,,,,,,,,,,
+2143,Mobile Phone,1,Debit Card,2,3,4,Single,0,18,2,2,184,Female,Urban,High School,2K-5K,6352,1,Gold,26,12138,3,4,produce,4,,,,,,,,,,,
+4886,Mobile Phone,1,UPI,3,4,1,Married,0,15,1,3,164,Female,Urban,High School,5K-10K,6392,1,Gold,31,9754,1,18,babies,5,,,,,,,,,,,
+2804,Mobile Phone,3,Credit Card,3,4,3,Divorced,0,12,2,7,146,Female,Rural,Bachelor,More than 10K,3100,More than 1,Platinum,38,11389,1,4,produce,3,,,,,,,,,,,
+2439,Mobile Phone,1,Credit Card,3,3,4,Married,0,13,1,7,137,Male,Urban,High School,More than 10K,4495,1,Gold,26,18431,3,4,produce,3,,,,,,,,,,,
+4458,Mobile Phone,1,Credit Card,3,4,1,Married,0,14,1,9,156,Male,Urban,High School,2K-5K,4125,More than 1,Gold,67,5796,1,19,snacks,3,,,,,,,,,,,
+4736,Mobile Phone,3,Credit Card,3,6,1,Married,1,15,1,3,179,Female,Rural,High School,5K-10K,6935,More than 1,Platinum,69,14783,0,4,produce,3,,,,,,,,,,,
+143,Mobile Phone,1,Debit Card,2,3,2,Single,0,12,1,7,121,Male,Urban,High School,5K-10K,13304,More than 1,Platinum,42,23654,3,4,produce,6,3.0,5.0,3.0,3.0,9.0,9.0,7.0,1.0,Organic Search,Non-Eco-Friendly,4.0
+4148,Mobile Phone,1,UPI,3,4,3,Married,0,16,8,3,219,Female,Rural,High School,5K-10K,4984,More than 1,Platinum,49,14016,3,3,bakery,2,,,,,,,,,,,
+1006,Computer,1,COD,3,3,4,Married,0,15,0,7,131,Female,Rural,High School,5K-10K,0,More than 1,Silver,44,21051,3,4,produce,2,3.0,7.0,6.0,9.0,1.0,10.0,5.0,1.0,Ads,Non-Eco-Friendly,4.0
+4108,Mobile Phone,3,Credit Card,3,4,3,Married,0,13,1,1,168,Male,Rural,Bachelor,5K-10K,2686,More than 1,Silver,44,19107,1,4,produce,2,,,,,,,,,,,
+1276,Mobile Phone,1,CC,3,4,1,Married,0,11,0,1,129,Male,Rural,Bachelor,5K-10K,0,1,Platinum,39,17497,2,4,produce,2,,,,,,,,,,,
+66,Mobile Phone,1,Debit Card,2,3,3,Divorced,0,14,0,0,166,Female,Urban,High School,5K-10K,2634,More than 1,Silver,20,9836,2,13,pantry,3,4.0,2.0,10.0,2.0,1.0,5.0,2.0,2.0,Social Media,Eco-Friendly,4.0
+1622,Computer,1,CC,3,3,3,Married,0,20,1,0,121,Male,Urban,Bachelor,5K-10K,7642,More than 1,Silver,57,8495,2,3,bakery,4,,,,,,,,,,,
+50,Mobile Phone,1,Credit Card,3,3,2,Divorced,1,23,1,2,139,Male,Urban,Bachelor,2K-5K,7890,More than 1,Silver,25,15669,2,7,beverages,2,9.0,9.0,5.0,8.0,10.0,10.0,0.0,0.0,Social Media,Eco-Friendly,2.0
+4304,Computer,3,Credit Card,3,5,5,Single,0,13,1,8,168,Female,Rural,Bachelor,2K-5K,3010,More than 1,Silver,24,1423,1,4,produce,4,,,,,,,,,,,
+3447,Mobile Phone,2,Debit Card,3,4,1,Married,1,19,3,3,157,Male,Urban,Bachelor,2K-5K,4261,More than 1,Silver,29,10623,5,16,dairy eggs,4,,,,,,,,,,,
+604,Mobile Phone,1,Debit Card,3,3,2,Married,0,22,0,7,125,Female,Urban,High School,5K-10K,8550,More than 1,Platinum,24,23410,6,19,snacks,1,3.0,2.0,8.0,4.0,8.0,5.0,3.0,0.0,Ads,Eco-Friendly,4.0
+2471,Mobile Phone,3,Debit Card,2,4,4,Married,0,11,1,4,189,Male,Urban,Bachelor,2K-5K,4325,1,Platinum,58,7716,2,4,produce,2,,,,,,,,,,,
+4337,Mobile Phone,3,Debit Card,3,4,1,Single,1,18,2,8,167,Female,Urban,Bachelor,5K-10K,6002,1,Platinum,30,11312,3,4,produce,1,,,,,,,,,,,
+3137,Computer,1,UPI,3,5,2,Divorced,0,14,3,3,149,Male,Rural,Bachelor,5K-10K,3202,1,Silver,31,12020,1,13,pantry,3,,,,,,,,,,,
+263,Mobile Phone,1,Debit Card,2,4,3,Divorced,0,15,1,7,270,Female,Urban,High School,5K-10K,8365,1,Silver,51,7772,1,19,snacks,2,8.0,1.0,9.0,5.0,9.0,0.0,2.0,5.0,Organic Search,Eco-Friendly,1.0
+2444,Mobile Phone,3,Debit Card,3,3,3,Married,0,19,0,2,131,Female,Rural,Bachelor,5K-10K,6857,1,Silver,27,11528,5,4,produce,3,,,,,,,,,,,
+1514,Mobile Phone,3,Debit Card,2,3,1,Married,0,11,1,7,149,Female,Urban,High School,5K-10K,2205,More than 1,Platinum,42,12156,1,4,produce,3,,,,,,,,,,,
+1075,Mobile Phone,3,COD,3,4,3,Married,1,13,1,7,157,Female,Urban,High School,2K-5K,4845,More than 1,Silver,25,11985,0,4,produce,6,7.0,6.0,2.0,8.0,9.0,19.0,2.0,2.0,Ads,Non-Eco-Friendly,2.0
+2456,Mobile Phone,1,Credit Card,3,5,3,Married,0,12,0,11,232,Female,Rural,High School,2K-5K,3866,More than 1,Platinum,58,12420,3,4,produce,2,,,,,,,,,,,
+828,Mobile Phone,2,Debit Card,2,3,3,Married,0,21,0,3,121,Male,Urban,High School,More than 10K,6412,1,Platinum,31,18447,2,16,dairy eggs,4,5.0,1.0,2.0,2.0,1.0,10.0,0.0,2.0,Email,Eco-Friendly,4.0
+1228,Computer,1,Credit Card,3,4,5,Married,1,13,1,3,199,Male,Rural,High School,5K-10K,0,More than 1,Platinum,18,15240,2,4,produce,3,,,,,,,,,,,
+2022,Mobile Phone,1,Credit Card,3,3,5,Married,1,23,1,3,219,Male,Rural,High School,5K-10K,2716,More than 1,Platinum,53,13150,3,4,produce,1,,,,,,,,,,,
+510,Mobile Phone,1,COD,2,3,3,Single,0,24,1,0,125,Male,Rural,High School,5K-10K,3920,1,Platinum,29,7662,0,4,produce,3,10.0,2.0,3.0,10.0,10.0,10.0,2.0,4.0,Ads,Eco-Friendly,2.0
+4928,Mobile Phone,3,Credit Card,3,4,3,Married,0,19,1,3,211,Male,Urban,Bachelor,5K-10K,5235,More than 1,Platinum,18,10257,3,7,beverages,1,,,,,,,,,,,
+502,Computer,1,Credit Card,2,3,4,Married,1,14,0,0,136,Male,Rural,High School,More than 10K,4597,More than 1,Silver,36,13531,1,4,produce,2,9.0,6.0,2.0,7.0,10.0,7.0,4.0,5.0,Social Media,Eco-Friendly,5.0
+4744,Mobile Phone,1,Debit Card,3,5,5,Married,0,16,1,12,258,Female,Urban,Bachelor,2K-5K,8691,More than 1,Platinum,29,4082,2,4,produce,3,,,,,,,,,,,
+720,Mobile Phone,1,COD,2,4,2,Divorced,0,12,5,7,146,Female,Rural,Others,5K-10K,0,More than 1,Silver,35,19531,4,4,produce,1,5.0,6.0,2.0,7.0,6.0,3.0,5.0,3.0,Organic Search,Eco-Friendly,3.0
+1863,Mobile Phone,1,Credit Card,2,3,1,Married,0,15,1,2,296,Male,Rural,Bachelor,More than 10K,8646,More than 1,Platinum,60,18180,2,7,beverages,6,,,,,,,,,,,
+2034,Mobile Phone,2,Debit Card,2,3,4,Married,1,11,0,10,240,Female,Urban,Bachelor,5K-10K,4126,More than 1,Platinum,28,12356,1,4,produce,1,,,,,,,,,,,
+1349,Mobile Phone,1,Debit Card,3,1,5,Married,1,12,1,7,136,Female,Urban,High School,5K-10K,3625,1,Platinum,47,9013,2,4,produce,3,,,,,,,,,,,
+718,Mobile Phone,1,Debit Card,3,3,3,Divorced,0,18,1,1,149,Male,Rural,High School,5K-10K,8931,More than 1,Platinum,41,3501,0,3,bakery,1,4.0,2.0,10.0,8.0,9.0,3.0,3.0,3.0,Email,Non-Eco-Friendly,5.0
+4749,Mobile Phone,1,Debit Card,4,2,5,Married,0,21,1,5,193,Female,Rural,Bachelor,5K-10K,0,More than 1,Platinum,18,9343,1,1,frozen,2,,,,,,,,,,,
+2069,Mobile Phone,1,COD,2,3,1,Married,0,11,0,2,132,Female,Rural,Bachelor,More than 10K,0,1,Platinum,24,8169,2,17,household,4,,,,,,,,,,,
+3168,Mobile Phone,1,Cash on Delivery,4,6,5,Married,1,22,6,3,228,Female,Urban,Bachelor,5K-10K,4066,1,Platinum,46,17152,5,4,produce,4,,,,,,,,,,,
+4987,Computer,3,Debit Card,4,4,3,Married,0,13,2,2,192,Female,Urban,Bachelor,5K-10K,3473,1,Platinum,43,871,0,4,produce,2,,,,,,,,,,,
+2787,Computer,3,E wallet,4,4,4,Single,1,15,2,1,144,Male,Urban,High School,2K-5K,6449,1,Silver,47,28163,2,7,beverages,3,,,,,,,,,,,
+4809,Mobile Phone,1,Credit Card,4,4,1,Single,0,12,1,5,159,Male,Urban,High School,2K-5K,5309,1,Gold,30,8746,2,4,produce,2,,,,,,,,,,,
+1405,Mobile Phone,3,E wallet,2,3,1,Married,0,14,1,2,169,Male,Urban,Bachelor,More than 10K,6284,More than 1,Platinum,50,15554,2,4,produce,6,,,,,,,,,,,
+662,Mobile Phone,3,E wallet,3,1,2,Single,0,17,0,2,127,Female,Urban,High School,5K-10K,0,1,Platinum,46,6778,0,7,beverages,4,1.0,8.0,2.0,9.0,3.0,12.0,0.0,3.0,Organic Search,Eco-Friendly,5.0
+2638,Mobile Phone,1,Credit Card,3,4,4,Married,1,14,2,3,149,Female,Rural,Bachelor,More than 10K,0,More than 1,Platinum,48,8954,2,4,produce,3,,,,,,,,,,,
+3540,Mobile Phone,1,Credit Card,4,6,3,Married,0,17,2,4,152,Male,Urban,High School,5K-10K,16404,More than 1,Platinum,34,3145,2,7,beverages,3,,,,,,,,,,,
+2238,Mobile Phone,1,Debit Card,2,4,3,Married,1,19,2,12,240,Male,Rural,Others,5K-10K,4105,More than 1,Silver,24,10220,0,16,dairy eggs,2,,,,,,,,,,,
+4486,Mobile Phone,1,Credit Card,3,4,1,Married,0,14,1,11,153,Male,Rural,Bachelor,5K-10K,3599,More than 1,Gold,34,2146,2,4,produce,2,,,,,,,,,,,
+943,Mobile Phone,3,Debit Card,2,1,4,Married,0,14,0,2,260,Male,Urban,High School,2K-5K,5110,More than 1,Platinum,60,12179,2,16,dairy eggs,4,3.0,3.0,10.0,2.0,9.0,18.0,1.0,5.0,Email,Eco-Friendly,2.0
+4312,Mobile Phone,3,Debit Card,3,5,1,Married,1,12,4,3,228,Male,Urban,High School,5K-10K,3579,More than 1,Gold,70,3398,1,4,produce,2,,,,,,,,,,,
+3251,Computer,1,COD,4,5,3,Married,0,21,2,1,145,Male,Urban,Bachelor,5K-10K,5486,More than 1,Platinum,30,6894,2,4,produce,1,,,,,,,,,,,
+1350,Computer,1,Credit Card,2,3,4,Single,0,11,0,2,144,Male,Urban,High School,5K-10K,5242,More than 1,Platinum,51,8431,1,16,dairy eggs,3,,,,,,,,,,,
+3947,Computer,1,Credit Card,3,4,5,Married,1,14,2,4,172,Female,Urban,High School,5K-10K,2996,More than 1,Platinum,38,26253,7,4,produce,3,,,,,,,,,,,
+2033,Computer,1,Debit Card,2,3,3,Single,1,11,1,1,142,Male,Urban,High School,<=2K,2259,More than 1,Platinum,28,6180,2,16,dairy eggs,1,,,,,,,,,,,
+8,Mobile Phone,1,CC,3,3,2,Divorced,1,16,2,0,123,Female,Urban,High School,5K-10K,5473,More than 1,Silver,50,14027,1,19,snacks,4,8.0,3.0,2.0,9.0,7.0,6.0,4.0,1.0,Email,Non-Eco-Friendly,5.0
+1958,Mobile Phone,1,UPI,2,3,1,Single,0,25,6,17,145,Male,Urban,High School,More than 10K,4377,More than 1,Platinum,61,6682,1,4,produce,2,,,,,,,,,,,
+4408,Mobile Phone,1,Credit Card,3,5,4,Single,1,21,2,3,148,Female,Urban,Bachelor,More than 10K,6698,More than 1,Gold,22,9505,2,4,produce,2,,,,,,,,,,,
+613,Computer,1,Debit Card,3,3,2,Single,0,20,1,9,178,Female,Urban,High School,5K-10K,3845,More than 1,Gold,49,10448,2,19,snacks,8,4.0,4.0,4.0,9.0,8.0,9.0,2.0,3.0,Ads,Eco-Friendly,1.0
+1894,Computer,3,Debit Card,3,4,3,Married,0,13,4,12,156,Female,Urban,Others,2K-5K,12582,More than 1,Platinum,53,15270,4,4,produce,3,,,,,,,,,,,
+427,Mobile Phone,1,Debit Card,3,3,5,Divorced,0,24,1,0,272,Female,Urban,High School,5K-10K,6696,1,Platinum,68,15083,2,4,produce,2,5.0,6.0,5.0,7.0,10.0,0.0,3.0,4.0,Social Media,Eco-Friendly,2.0
+1231,Mobile Phone,1,Credit Card,1,3,5,Married,1,15,0,2,140,Male,Urban,High School,2K-5K,3949,More than 1,Platinum,26,18433,3,4,produce,4,,,,,,,,,,,
+3400,Computer,3,E wallet,3,5,5,Married,0,16,1,6,169,Male,Urban,High School,5K-10K,4151,More than 1,Platinum,22,16397,3,4,produce,5,,,,,,,,,,,
+3962,Mobile Phone,1,Credit Card,3,6,4,Married,0,19,1,3,180,Female,Urban,High School,5K-10K,2093,More than 1,Gold,67,2461,0,4,produce,5,,,,,,,,,,,
+1277,Mobile Phone,1,CC,3,3,1,Single,0,15,1,0,129,Female,Rural,High School,5K-10K,2274,1,Platinum,18,8717,1,16,dairy eggs,1,,,,,,,,,,,
+4712,Computer,1,Credit Card,3,4,3,Married,1,16,1,14,237,Male,Urban,High School,5K-10K,5817,1,Platinum,52,8852,2,4,produce,2,,,,,,,,,,,
+1503,Computer,3,CC,2,3,1,Single,0,24,2,2,126,Male,Rural,Bachelor,More than 10K,0,1,Gold,24,10813,1,16,dairy eggs,2,,,,,,,,,,,
+2256,Mobile Phone,2,Debit Card,2,3,1,Married,1,18,2,2,132,Male,Rural,High School,5K-10K,2695,1,Platinum,28,12574,2,4,produce,2,,,,,,,,,,,
+2551,Mobile Phone,1,Credit Card,4,3,4,Single,0,15,1,16,312,Male,Rural,High School,5K-10K,0,More than 1,Platinum,59,17152,2,16,dairy eggs,3,,,,,,,,,,,
+4673,Mobile Phone,1,Credit Card,3,4,1,Married,0,18,3,8,168,Female,Urban,High School,5K-10K,5882,More than 1,Gold,44,5296,0,7,beverages,2,,,,,,,,,,,
+798,Mobile Phone,3,Debit Card,2,3,2,Married,0,18,2,9,208,Female,Urban,High School,2K-5K,4978,More than 1,Platinum,67,716,1,4,produce,1,10.0,9.0,3.0,4.0,1.0,10.0,2.0,4.0,Ads,Eco-Friendly,4.0
+4472,Mobile Phone,1,Debit Card,3,4,4,Married,0,15,2,4,316,Female,Rural,High School,5K-10K,2321,1,Gold,30,10768,2,4,produce,3,,,,,,,,,,,
+4740,Mobile Phone,3,Credit Card,3,5,3,Single,0,12,2,5,184,Male,Urban,Bachelor,5K-10K,9341,More than 1,Gold,70,11888,4,4,produce,1,,,,,,,,,,,
+4656,Mobile Phone,1,Credit Card,3,5,5,Married,0,26,1,3,173,Male,Urban,Bachelor,More than 10K,0,More than 1,Platinum,23,18758,3,4,produce,3,,,,,,,,,,,
+4431,Computer,1,Debit Card,4,4,4,Married,0,15,1,2,158,Male,Urban,High School,5K-10K,10058,More than 1,Gold,58,20800,6,4,produce,2,,,,,,,,,,,
+4964,Mobile Phone,1,Debit Card,3,4,1,Married,0,20,2,1,149,Male,Urban,Others,2K-5K,3381,More than 1,Silver,64,28958,4,13,pantry,3,,,,,,,,,,,
+4112,Mobile Phone,3,Debit Card,4,4,5,Married,0,17,1,9,291,Female,Urban,High School,5K-10K,6323,More than 1,Platinum,65,1604,0,16,dairy eggs,3,,,,,,,,,,,
+1891,Computer,3,Debit Card,1,3,4,Married,0,17,0,2,143,Male,Urban,High School,5K-10K,3509,More than 1,Silver,44,9870,1,4,produce,3,,,,,,,,,,,
+3163,Mobile Phone,1,UPI,3,4,2,Single,0,26,2,18,170,Female,Urban,Bachelor,2K-5K,8927,More than 1,Silver,33,28253,7,11,personal care,1,,,,,,,,,,,
+4646,Computer,1,Credit Card,3,4,5,Single,1,12,1,1,157,Female,Urban,High School,5K-10K,2951,More than 1,Gold,42,8136,2,4,produce,2,,,,,,,,,,,
+1680,Computer,3,Debit Card,3,1,3,Single,1,12,0,3,164,Male,Urban,High School,2K-5K,5594,1,Platinum,49,8337,0,4,produce,2,,,,,,,,,,,
+2331,Mobile Phone,1,Debit Card,3,1,5,Married,0,19,3,6,131,Male,Urban,High School,More than 10K,2737,More than 1,Gold,57,1569,1,4,produce,1,,,,,,,,,,,
+3240,Mobile Phone,1,Credit Card,4,4,2,Divorced,0,12,2,3,162,Male,Urban,Bachelor,2K-5K,6680,1,Platinum,35,19991,2,19,snacks,2,,,,,,,,,,,
+2976,Mobile Phone,1,Credit Card,4,4,5,Divorced,1,22,2,3,149,Male,Urban,Bachelor,5K-10K,5237,More than 1,Platinum,40,22024,3,4,produce,1,,,,,,,,,,,
+3626,Computer,1,Debit Card,3,4,3,Married,0,21,3,9,185,Male,Urban,High School,5K-10K,8860,More than 1,Platinum,45,22025,3,19,snacks,1,,,,,,,,,,,
+4604,Mobile Phone,3,E wallet,4,4,5,Married,0,15,2,3,173,Female,Urban,Bachelor,5K-10K,2286,More than 1,Gold,48,24919,6,16,dairy eggs,2,,,,,,,,,,,
+4273,Mobile Phone,1,Cash on Delivery,4,5,4,Married,0,17,3,9,234,Female,Urban,High School,5K-10K,4399,More than 1,Gold,28,5895,1,4,produce,2,,,,,,,,,,,
+2004,Mobile Phone,1,Credit Card,3,3,1,Married,0,11,0,5,180,Male,Urban,Others,2K-5K,2417,More than 1,Platinum,61,9095,3,7,beverages,3,,,,,,,,,,,
+3893,Computer,1,Credit Card,3,6,3,Married,0,13,1,5,168,Male,Rural,Bachelor,5K-10K,0,1,Silver,51,8375,0,4,produce,1,,,,,,,,,,,
+743,Computer,3,E wallet,2,1,5,Divorced,0,16,5,13,146,Female,Urban,High School,More than 10K,9967,More than 1,Platinum,45,14584,3,4,produce,2,8.0,9.0,3.0,10.0,1.0,12.0,3.0,1.0,Email,Non-Eco-Friendly,5.0
+4479,Mobile Phone,3,E wallet,3,2,1,Single,0,18,3,3,152,Male,Urban,High School,2K-5K,5428,1,Platinum,24,16790,6,16,dairy eggs,1,,,,,,,,,,,
+1154,Computer,1,Debit Card,3,3,4,Married,0,13,1,2,151,Male,Urban,Others,5K-10K,10306,1,Silver,40,10918,2,4,produce,1,7.0,7.0,9.0,2.0,3.0,7.0,2.0,2.0,Ads,Non-Eco-Friendly,2.0
+4291,Mobile Phone,1,Credit Card,4,4,3,Married,0,19,1,3,149,Male,Urban,High School,5K-10K,7471,More than 1,Platinum,66,16579,4,15,canned goods,3,,,,,,,,,,,
+3256,Mobile Phone,1,COD,4,4,2,Single,0,12,2,12,192,Male,Urban,Bachelor,More than 10K,10393,1,Silver,40,24212,5,4,produce,5,,,,,,,,,,,
+4872,Computer,1,COD,3,4,3,Married,0,23,4,4,154,Male,Rural,High School,5K-10K,2073,More than 1,Platinum,24,18768,2,4,produce,1,,,,,,,,,,,
+500,Mobile Phone,1,COD,3,3,5,Single,0,19,1,0,130,Female,Rural,Bachelor,5K-10K,2822,More than 1,Platinum,49,18370,2,4,produce,2,2.0,10.0,5.0,9.0,8.0,4.0,5.0,1.0,Ads,Non-Eco-Friendly,4.0
+2362,Computer,1,Debit Card,2,3,1,Single,1,14,1,2,124,Male,Urban,Bachelor,5K-10K,0,1,Platinum,35,16303,4,4,produce,1,,,,,,,,,,,
+700,Computer,3,Debit Card,2,3,4,Married,1,15,2,10,298,Female,Rural,High School,5K-10K,0,1,Gold,43,22857,5,4,produce,4,4.0,6.0,6.0,9.0,10.0,8.0,1.0,0.0,Organic Search,Non-Eco-Friendly,1.0
+2969,Mobile Phone,1,Debit Card,3,4,4,Married,0,22,2,1,173,Male,Urban,High School,More than 10K,2488,More than 1,Gold,40,8963,0,8,pets,2,,,,,,,,,,,
+1030,Computer,3,Debit Card,2,3,1,Married,0,18,1,2,141,Female,Urban,Bachelor,5K-10K,6511,1,Silver,34,4676,1,16,dairy eggs,1,5.0,1.0,9.0,8.0,9.0,6.0,3.0,6.0,Email,Eco-Friendly,5.0
+2858,Computer,1,Debit Card,3,4,5,Married,0,22,2,3,213,Female,Urban,High School,2K-5K,6424,1,Platinum,47,12647,3,4,produce,3,,,,,,,,,,,
+2429,Mobile Phone,2,UPI,3,1,4,Married,1,15,1,4,296,Male,Rural,High School,5K-10K,2571,1,Silver,65,27129,8,3,bakery,1,,,,,,,,,,,
+3977,Mobile Phone,1,Credit Card,3,5,4,Married,0,16,8,8,174,Female,Rural,Bachelor,2K-5K,0,1,Gold,25,7599,2,3,bakery,4,,,,,,,,,,,
+959,Mobile Phone,3,Debit Card,2,3,1,Married,1,21,1,2,123,Female,Rural,Bachelor,2K-5K,0,1,Silver,30,10784,1,4,produce,3,1.0,6.0,8.0,4.0,7.0,15.0,0.0,0.0,Organic Search,Eco-Friendly,5.0
+1370,Mobile Phone,1,Cash on Delivery,2,3,3,Single,0,14,0,5,121,Male,Urban,Bachelor,5K-10K,0,1,Silver,33,24786,5,4,produce,2,,,,,,,,,,,
+4611,Mobile Phone,3,Debit Card,4,5,5,Married,0,13,3,3,169,Male,Urban,Bachelor,5K-10K,5976,1,Silver,50,25505,4,7,beverages,2,,,,,,,,,,,
+839,Computer,1,Credit Card,2,3,1,Married,0,20,1,12,260,Male,Urban,Bachelor,5K-10K,0,1,Platinum,44,9147,3,1,frozen,1,6.0,2.0,2.0,1.0,1.0,6.0,4.0,1.0,Ads,Eco-Friendly,5.0
+4096,Mobile Phone,3,E wallet,3,4,3,Married,0,12,1,10,172,Male,Rural,Bachelor,5K-10K,3082,1,Silver,29,9829,1,4,produce,3,,,,,,,,,,,
+3467,Computer,3,Debit Card,3,6,3,Married,0,12,2,11,254,Male,Urban,High School,More than 10K,6494,1,Silver,37,5734,2,4,produce,2,,,,,,,,,,,
+3619,Mobile Phone,3,Debit Card,3,5,5,Single,0,15,1,1,154,Male,Urban,High School,5K-10K,9570,More than 1,Platinum,51,4180,0,7,beverages,3,,,,,,,,,,,
+4440,Mobile Phone,1,Debit Card,3,5,3,Married,0,14,2,3,150,Female,Urban,Bachelor,<=2K,7962,More than 1,Platinum,48,13991,4,4,produce,1,,,,,,,,,,,
+3652,Mobile Phone,3,Credit Card,4,5,4,Married,0,15,1,3,148,Male,Urban,Bachelor,5K-10K,3738,More than 1,Platinum,25,7311,0,16,dairy eggs,3,,,,,,,,,,,
+1434,Computer,1,Debit Card,3,3,3,Married,1,22,0,0,132,Male,Urban,Bachelor,5K-10K,0,More than 1,Platinum,57,6047,2,19,snacks,4,,,,,,,,,,,
+1498,Computer,3,Cash on Delivery,3,4,4,Single,1,11,1,2,122,Male,Rural,Bachelor,5K-10K,3408,1,Gold,20,13782,0,16,dairy eggs,2,,,,,,,,,,,
+3859,Mobile Phone,1,Credit Card,4,2,4,Single,0,15,3,16,312,Male,Urban,Bachelor,2K-5K,6132,More than 1,Platinum,36,14530,4,4,produce,4,,,,,,,,,,,
+3146,Mobile Phone,1,Debit Card,4,4,3,Single,1,12,2,3,154,Male,Urban,High School,5K-10K,10043,More than 1,Platinum,28,6247,2,4,produce,3,,,,,,,,,,,
+2935,Mobile Phone,3,Debit Card,4,4,2,Married,0,12,1,4,169,Male,Rural,Bachelor,5K-10K,0,1,Platinum,40,16573,5,4,produce,3,,,,,,,,,,,
+1275,Mobile Phone,3,E wallet,2,4,3,Single,1,11,0,3,157,Male,Urban,High School,2K-5K,5756,More than 1,Platinum,29,21770,1,7,beverages,1,,,,,,,,,,,
+2119,Mobile Phone,1,Debit Card,2,3,4,Married,0,14,0,7,205,Female,Rural,Bachelor,More than 10K,2455,More than 1,Silver,66,7115,1,4,produce,3,,,,,,,,,,,
+861,Mobile Phone,3,Debit Card,3,4,3,Married,0,23,2,2,124,Male,Urban,Others,More than 10K,5876,1,Gold,20,16266,3,16,dairy eggs,2,4.0,6.0,5.0,1.0,1.0,3.0,2.0,1.0,Organic Search,Non-Eco-Friendly,5.0
+3861,Mobile Phone,1,Credit Card,4,4,4,Single,0,19,1,1,262,Male,Urban,Bachelor,5K-10K,2304,More than 1,Platinum,52,17323,4,7,beverages,4,,,,,,,,,,,
+4195,Mobile Phone,3,Credit Card,3,4,1,Single,0,24,1,5,187,Male,Urban,Bachelor,2K-5K,3634,More than 1,Silver,35,3202,0,4,produce,2,,,,,,,,,,,
+4507,Mobile Phone,3,E wallet,3,2,3,Married,1,15,1,9,209,Male,Urban,Bachelor,5K-10K,4197,More than 1,Platinum,67,15349,5,13,pantry,2,,,,,,,,,,,
+843,Mobile Phone,3,Debit Card,2,3,4,Divorced,0,12,1,1,266,Male,Urban,Bachelor,2K-5K,2276,More than 1,Platinum,51,19044,4,4,produce,3,1.0,3.0,6.0,5.0,3.0,14.0,5.0,3.0,Email,Non-Eco-Friendly,4.0
+3577,Computer,2,UPI,4,5,1,Single,0,22,2,9,164,Male,Urban,Bachelor,5K-10K,5294,More than 1,Platinum,63,6092,1,16,dairy eggs,4,,,,,,,,,,,
+3696,Mobile Phone,1,Credit Card,3,2,5,Married,1,21,1,1,152,Male,Rural,Bachelor,5K-10K,0,More than 1,Platinum,69,9927,2,16,dairy eggs,3,,,,,,,,,,,
+2733,Mobile Phone,1,UPI,4,4,3,Married,1,15,1,3,170,Female,Urban,Bachelor,2K-5K,5422,1,Gold,69,21025,4,4,produce,3,,,,,,,,,,,
+1054,Computer,1,Credit Card,2,3,1,Married,0,13,1,10,138,Male,Urban,Bachelor,More than 10K,0,More than 1,Platinum,30,3808,1,19,snacks,1,8.0,6.0,10.0,9.0,2.0,12.0,3.0,2.0,Social Media,Eco-Friendly,1.0
+3615,Mobile Phone,1,Debit Card,3,4,5,Married,0,13,2,3,179,Male,Urban,Bachelor,5K-10K,6452,More than 1,Platinum,49,15947,2,4,produce,4,,,,,,,,,,,
+1567,Mobile Phone,1,Credit Card,2,3,3,Married,1,12,3,7,236,Male,Urban,High School,<=2K,5896,1,Gold,30,2495,2,7,beverages,1,,,,,,,,,,,
+1525,Mobile Phone,1,Debit Card,3,3,5,Married,0,16,0,2,126,Male,Urban,High School,More than 10K,8037,1,Silver,44,15260,4,4,produce,1,,,,,,,,,,,
+10,Mobile Phone,1,Debit Card,2,5,3,Single,0,12,1,1,123,Male,Rural,High School,More than 10K,0,More than 1,Platinum,58,19788,4,4,produce,2,5.0,1.0,9.0,6.0,7.0,11.0,1.0,1.0,Ads,Eco-Friendly,1.0
+2254,Computer,3,Debit Card,2,3,1,Married,1,25,0,2,154,Male,Urban,Bachelor,2K-5K,0,More than 1,Platinum,55,10228,2,4,produce,3,,,,,,,,,,,
+799,Mobile Phone,3,E wallet,2,3,1,Married,0,11,0,3,201,Male,Urban,High School,<=2K,7591,More than 1,Silver,70,22933,2,19,snacks,1,5.0,5.0,3.0,3.0,5.0,15.0,3.0,0.0,Ads,Non-Eco-Friendly,4.0
+2349,Mobile Phone,1,Debit Card,2,3,5,Married,0,12,1,7,144,Male,Rural,High School,More than 10K,2653,1,Platinum,46,14668,4,4,produce,1,,,,,,,,,,,
+1495,Computer,3,COD,2,3,3,Married,1,12,2,2,147,Female,Urban,Bachelor,5K-10K,10289,More than 1,Platinum,36,11270,2,19,snacks,1,,,,,,,,,,,
+3507,Computer,3,Debit Card,3,4,3,Married,1,15,2,8,165,Male,Urban,High School,5K-10K,5474,1,Gold,32,15365,3,4,produce,2,,,,,,,,,,,
+512,Computer,3,COD,2,3,2,Single,1,13,0,3,157,Male,Urban,High School,2K-5K,5430,More than 1,Gold,42,19076,3,5,alcohol,3,1.0,7.0,9.0,2.0,2.0,12.0,4.0,2.0,Social Media,Eco-Friendly,2.0
+4686,Computer,2,UPI,4,4,3,Married,0,12,1,3,186,Male,Urban,High School,5K-10K,6267,More than 1,Platinum,66,8213,4,4,produce,3,,,,,,,,,,,
+2452,Mobile Phone,1,Credit Card,3,3,1,Married,1,13,6,1,149,Male,Rural,High School,5K-10K,10280,More than 1,Platinum,62,12625,2,4,produce,2,,,,,,,,,,,
+1343,Computer,1,Debit Card,2,4,3,Married,0,17,0,9,195,Male,Urban,Bachelor,<=2K,7491,More than 1,Platinum,45,4627,0,7,beverages,2,,,,,,,,,,,
+3711,Mobile Phone,1,Debit Card,4,4,1,Single,0,15,2,1,137,Female,Urban,Bachelor,5K-10K,0,More than 1,Gold,68,7694,2,4,produce,1,,,,,,,,,,,
+4246,Mobile Phone,1,Credit Card,4,2,5,Single,0,14,1,2,159,Male,Rural,Bachelor,5K-10K,0,More than 1,Platinum,29,22004,4,7,beverages,1,,,,,,,,,,,
+729,Computer,3,Debit Card,2,3,3,Married,1,19,3,6,199,Male,Rural,Bachelor,5K-10K,0,More than 1,Gold,70,14829,1,4,produce,4,10.0,3.0,10.0,7.0,9.0,20.0,1.0,5.0,Ads,Eco-Friendly,4.0
+4231,Mobile Phone,1,Credit Card,3,5,1,Single,1,25,2,1,194,Male,Urban,High School,5K-10K,7860,More than 1,Platinum,42,19003,3,4,produce,2,,,,,,,,,,,
+4795,Mobile Phone,1,Debit Card,3,4,1,Married,0,13,1,9,154,Male,Urban,High School,<=2K,4688,More than 1,Platinum,25,17151,3,4,produce,3,,,,,,,,,,,
+2280,Computer,1,Debit Card,2,3,3,Married,0,13,0,3,134,Female,Urban,Bachelor,More than 10K,4799,More than 1,Platinum,49,10118,3,4,produce,3,,,,,,,,,,,
+1983,Mobile Phone,1,Debit Card,2,3,1,Married,1,11,1,0,166,Female,Urban,Bachelor,2K-5K,6264,1,Platinum,68,15969,3,4,produce,3,,,,,,,,,,,
+3371,Mobile Phone,3,Cash on Delivery,3,4,4,Married,0,13,1,3,218,Female,Urban,Bachelor,2K-5K,4581,More than 1,Platinum,67,5915,1,19,snacks,3,,,,,,,,,,,
+2157,Mobile Phone,3,Credit Card,2,3,5,Married,0,12,7,1,155,Male,Urban,Bachelor,5K-10K,5364,1,Gold,62,21232,4,7,beverages,1,,,,,,,,,,,
+4032,Computer,3,E wallet,4,2,1,Single,1,14,1,5,178,Male,Urban,Bachelor,5K-10K,3135,1,Platinum,34,3994,1,4,produce,3,,,,,,,,,,,
+4624,Mobile Phone,3,E wallet,4,4,5,Married,0,12,1,3,180,Male,Urban,Bachelor,5K-10K,9881,More than 1,Platinum,65,20159,4,4,produce,2,,,,,,,,,,,
+2120,Computer,1,Credit Card,3,3,5,Married,0,14,1,9,270,Male,Urban,Bachelor,5K-10K,4208,More than 1,Silver,66,8818,1,7,beverages,1,,,,,,,,,,,
+2242,Mobile Phone,1,Debit Card,3,4,3,Married,0,24,1,11,276,Male,Urban,High School,2K-5K,2661,More than 1,Silver,64,12671,1,7,beverages,2,,,,,,,,,,,
+3894,Mobile Phone,1,Debit Card,4,5,1,Married,0,18,1,1,147,Female,Rural,Bachelor,5K-10K,5164,More than 1,Silver,49,9421,1,16,dairy eggs,4,,,,,,,,,,,
+3646,Computer,1,Debit Card,4,5,3,Married,0,12,3,8,178,Female,Urban,Bachelor,5K-10K,9844,More than 1,Platinum,36,12128,1,4,produce,3,,,,,,,,,,,
+3842,Mobile Phone,1,Debit Card,3,4,3,Single,0,21,1,5,155,Female,Urban,High School,2K-5K,8029,More than 1,Silver,55,23651,4,9,dry goods pasta,1,,,,,,,,,,,
+87,Mobile Phone,1,CC,2,4,4,Divorced,0,21,0,1,126,Female,Rural,Bachelor,5K-10K,2065,More than 1,Gold,53,7101,1,4,produce,5,1.0,1.0,8.0,1.0,10.0,18.0,3.0,2.0,Ads,Eco-Friendly,5.0
+1725,Mobile Phone,1,CC,2,4,5,Single,0,11,0,1,126,Female,Rural,High School,More than 10K,2538,More than 1,Gold,47,13446,3,1,frozen,1,,,,,,,,,,,
+818,Mobile Phone,1,Debit Card,3,1,3,Divorced,0,24,1,8,149,Male,Urban,High School,5K-10K,5289,More than 1,Silver,44,20181,6,7,beverages,2,9.0,5.0,2.0,9.0,3.0,6.0,3.0,6.0,Email,Non-Eco-Friendly,1.0
+3895,Computer,3,E wallet,3,4,1,Married,0,18,4,9,153,Male,Urban,Bachelor,5K-10K,10612,More than 1,Silver,34,4809,0,4,produce,2,,,,,,,,,,,
+1972,Mobile Phone,1,Debit Card,3,1,1,Married,0,13,1,7,120,Female,Urban,High School,2K-5K,6352,More than 1,Gold,18,19648,3,4,produce,1,,,,,,,,,,,
+2585,Mobile Phone,1,Debit Card,4,5,2,Divorced,0,18,1,1,147,Female,Rural,High School,5K-10K,0,1,Platinum,38,13172,3,4,produce,3,,,,,,,,,,,
+2658,Mobile Phone,1,Debit Card,3,4,2,Married,1,19,2,3,152,Female,Rural,High School,2K-5K,0,More than 1,Platinum,48,20656,3,7,beverages,2,,,,,,,,,,,
+3818,Computer,3,Credit Card,3,6,1,Married,0,18,1,8,172,Female,Urban,Bachelor,5K-10K,6444,More than 1,Gold,34,4995,0,4,produce,4,,,,,,,,,,,
+4296,Mobile Phone,1,UPI,4,5,5,Single,1,12,2,3,153,Male,Urban,Bachelor,5K-10K,2986,More than 1,Gold,27,3915,2,16,dairy eggs,3,,,,,,,,,,,
+923,Computer,1,Debit Card,3,1,3,Married,0,17,0,7,152,Male,Rural,Bachelor,5K-10K,5426,More than 1,Platinum,49,13280,1,4,produce,3,7.0,1.0,10.0,6.0,10.0,8.0,2.0,3.0,Organic Search,Non-Eco-Friendly,5.0
+4832,Mobile Phone,1,Cash on Delivery,3,4,3,Married,0,12,3,3,256,Male,Urban,Others,5K-10K,2933,More than 1,Silver,46,15314,2,16,dairy eggs,5,,,,,,,,,,,
+2752,Computer,1,Debit Card,3,4,2,Divorced,0,16,1,5,146,Male,Urban,Bachelor,5K-10K,8168,More than 1,Platinum,39,26666,3,4,produce,4,,,,,,,,,,,
+4859,Mobile Phone,1,Debit Card,4,5,4,Married,1,13,6,3,228,Male,Urban,Bachelor,5K-10K,2255,More than 1,Silver,20,14735,3,4,produce,5,,,,,,,,,,,
+3518,Computer,1,Credit Card,3,4,4,Married,1,13,2,4,148,Female,Rural,High School,5K-10K,7062,More than 1,Platinum,65,1525,1,4,produce,1,,,,,,,,,,,
+3194,Mobile Phone,1,Debit Card,3,4,2,Single,1,21,1,3,154,Female,Urban,High School,5K-10K,0,More than 1,Platinum,66,11129,0,7,beverages,2,,,,,,,,,,,
+1217,Mobile Phone,1,Debit Card,2,5,3,Single,0,12,0,1,123,Male,Rural,Bachelor,5K-10K,0,1,Gold,27,13571,5,4,produce,2,,,,,,,,,,,
+2064,Mobile Phone,1,Debit Card,2,3,3,Single,1,13,4,7,124,Male,Rural,High School,More than 10K,0,More than 1,Platinum,24,5553,2,4,produce,2,,,,,,,,,,,
+893,Mobile Phone,1,UPI,2,1,1,Married,0,17,1,2,133,Female,Urban,Bachelor,More than 10K,5841,More than 1,Silver,55,15049,2,16,dairy eggs,2,4.0,8.0,2.0,7.0,7.0,4.0,3.0,2.0,Email,Eco-Friendly,5.0
+4144,Computer,1,Credit Card,4,4,3,Married,0,21,2,1,146,Female,Urban,Bachelor,5K-10K,5301,1,Platinum,63,16059,2,16,dairy eggs,3,,,,,,,,,,,
+3878,Computer,1,Credit Card,4,4,1,Single,0,14,1,8,147,Male,Urban,High School,2K-5K,5902,More than 1,Platinum,35,12287,2,16,dairy eggs,2,,,,,,,,,,,
+4433,Mobile Phone,1,Credit Card,4,5,1,Married,1,16,2,3,176,Male,Urban,Others,5K-10K,3688,1,Gold,52,10330,0,19,snacks,4,,,,,,,,,,,
+323,Mobile Phone,1,Debit Card,2,3,5,Single,0,17,1,0,126,Male,Rural,High School,5K-10K,2385,1,Silver,19,8381,2,16,dairy eggs,3,1.0,1.0,1.0,3.0,4.0,12.0,3.0,3.0,Social Media,Eco-Friendly,2.0
+1880,Mobile Phone,2,Credit Card,3,4,5,Married,0,14,2,6,205,Female,Urban,Bachelor,5K-10K,8315,More than 1,Platinum,63,7773,0,4,produce,4,,,,,,,,,,,
+4715,Mobile Phone,1,Credit Card,3,6,5,Single,1,15,1,5,183,Male,Rural,High School,5K-10K,3328,1,Gold,33,11724,1,5,alcohol,1,,,,,,,,,,,
+3258,Mobile Phone,3,Debit Card,3,5,2,Divorced,1,13,1,5,186,Male,Rural,High School,More than 10K,2144,More than 1,Platinum,65,4302,1,4,produce,1,,,,,,,,,,,
+2096,Mobile Phone,3,Debit Card,2,3,1,Married,0,18,2,9,208,Female,Rural,Bachelor,5K-10K,0,More than 1,Platinum,34,3546,0,4,produce,3,,,,,,,,,,,
