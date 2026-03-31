@@ -22,22 +22,38 @@ print(products.info())
 print("\nDataset info:\n")
 print(department.info())
 
-#missing values analysis
+#missing values and duplicate analysis
 print("\nMissing values in Orders:\n")
 missing_counts = orders.isnull().sum().sort_values(ascending=False)
 print(missing_counts)
+
+duplicate_count = orders.duplicated().sum()
+print("\nNumber of duplicate rows:")
+print(duplicate_count)
 
 print("\nMissing values in Order_Products:\n")
 missing_counts = order_products.isnull().sum().sort_values(ascending=False)
 print(missing_counts)
 
+duplicate_count = order_products.duplicated().sum()
+print("\nNumber of duplicate rows:")
+print(duplicate_count)
+
 print("\nMissing values in Products:\n")
 missing_counts = products.isnull().sum().sort_values(ascending=False)
 print(missing_counts)
 
+duplicate_count = products.duplicated().sum()
+print("\nNumber of duplicate rows:")
+print(duplicate_count)
+
 print("\nMissing values in Department:\n")
 missing_counts = department.isnull().sum().sort_values(ascending=False)
 print(missing_counts)
+
+duplicate_count = department.duplicated().sum()
+print("\nNumber of duplicate rows:")
+print(duplicate_count)
 
 #checks order dataset and product dataset link
 orders_without_products = set(orders["order_id"]) - set(order_products["order_id"])

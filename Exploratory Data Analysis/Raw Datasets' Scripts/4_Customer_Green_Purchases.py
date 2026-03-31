@@ -7,11 +7,14 @@ print("Initial shape:", df.shape)
 print("\nDataset info:\n")
 print(df.info())
 
-#missing values analysis
+#missing values and duplicate analysis
 print("\nMissing values per column:\n")
 missing_counts = df.isnull().sum().sort_values(ascending=False)
 print(missing_counts)
 
+duplicate_count = df.duplicated().sum()
+print("\nNumber of duplicate rows:")
+print(duplicate_count)
 row_null_counts = df.isnull().sum(axis=1)
 
 print("\nRow-wise null count distribution:\n")
