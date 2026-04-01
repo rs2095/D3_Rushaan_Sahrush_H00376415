@@ -1,0 +1,987 @@
+Customer_ID,Cultural_Eco_Alignment,Emotional_Guilt_Score,Emotional_Pride_Score,Social_Influence_Score,Green_Knowledge_Level,Time_Spent_on_Green_Products,Clicks_on_Green_Products,Previous_Green_Purchases,Referral_Source,Product_Category,Green_Product_Rating,Green_Consumption_Score,Green_Purchase_Made,Pred_Green_Class,Pred_Green_Score,Eco_Segment
+1,5,10,8,4,9,9,2,1,Social Media,Eco-Friendly,1,0.66,1,1,0.63,Eco_Conscious
+2,9,9,9,9,5,6,2,2,Social Media,Eco-Friendly,4,0.74,1,1,0.67,Eco_Conscious
+3,3,5,1,3,9,10,3,4,Email,Eco-Friendly,3,0.41,0,0,0.48,Low_Interest
+5,6,4,10,3,6,4,4,4,Social Media,Non-Eco-Friendly,3,0.57,1,1,0.48,Eco_Conscious
+6,4,6,2,7,9,10,2,5,Email,Non-Eco-Friendly,3,0.51,1,0,0.48,Low_Interest
+7,7,8,4,7,7,11,2,2,Ads,Non-Eco-Friendly,2,0.61,1,1,0.65,Eco_Conscious
+9,6,10,7,2,8,7,1,2,Email,Eco-Friendly,3,0.62,1,1,0.63,Eco_Conscious
+11,6,4,7,9,9,4,4,1,Organic Search,Eco-Friendly,5,0.57,1,1,0.56,Eco_Conscious
+12,5,4,6,2,9,12,3,2,Organic Search,Non-Eco-Friendly,2,0.5,1,1,0.48,Eco_Conscious
+13,8,1,10,2,6,6,8,0,Social Media,Non-Eco-Friendly,5,0.53,1,1,0.61,Eco_Conscious
+14,1,9,1,5,7,15,1,0,Ads,Eco-Friendly,5,0.42,0,0,0.48,Low_Interest
+15,7,3,10,10,2,22,4,3,Social Media,Non-Eco-Friendly,3,0.68,1,1,0.58,Eco_Conscious
+16,10,5,9,10,9,6,2,2,Email,Eco-Friendly,1,0.73,1,1,0.69,Eco_Conscious
+18,2,8,5,8,1,6,3,0,Social Media,Eco-Friendly,1,0.44,0,0,0.4,Low_Interest
+19,9,6,6,9,3,15,4,1,Social Media,Non-Eco-Friendly,1,0.65,1,1,0.58,Eco_Conscious
+20,1,3,9,2,6,4,3,0,Organic Search,Non-Eco-Friendly,4,0.37,0,0,0.47,Low_Interest
+21,10,6,8,5,5,12,4,1,Email,Eco-Friendly,3,0.67,1,1,0.58,Eco_Conscious
+22,6,1,8,7,2,6,5,0,Social Media,Eco-Friendly,2,0.44,0,1,0.48,Eco_Conscious
+23,9,4,8,6,9,9,5,2,Social Media,Non-Eco-Friendly,5,0.66,1,1,0.61,Eco_Conscious
+24,1,6,1,6,10,5,2,3,Ads,Non-Eco-Friendly,4,0.38,0,0,0.48,Low_Interest
+25,4,7,1,7,4,14,5,2,Ads,Non-Eco-Friendly,2,0.47,0,0,0.46,Low_Interest
+26,4,10,8,3,4,6,3,5,Organic Search,Non-Eco-Friendly,3,0.6,1,1,0.58,Eco_Conscious
+27,9,3,5,3,5,13,5,4,Organic Search,Eco-Friendly,1,0.55,1,1,0.5,Eco_Conscious
+29,5,7,2,9,10,9,6,1,Email,Non-Eco-Friendly,3,0.56,1,0,0.55,Low_Interest
+30,6,1,9,8,4,11,1,2,Social Media,Non-Eco-Friendly,4,0.52,1,1,0.56,Eco_Conscious
+32,1,1,9,6,4,11,4,2,Email,Non-Eco-Friendly,4,0.42,0,0,0.4,Low_Interest
+33,9,9,4,10,6,18,3,3,Social Media,Eco-Friendly,2,0.73,1,1,0.65,Eco_Conscious
+34,3,9,1,1,3,6,7,2,Social Media,Non-Eco-Friendly,4,0.39,0,0,0.46,Low_Interest
+35,4,7,1,10,8,16,2,0,Organic Search,Non-Eco-Friendly,5,0.51,1,0,0.48,Low_Interest
+36,1,10,5,1,6,17,0,3,Ads,Eco-Friendly,1,0.51,1,0,0.48,Low_Interest
+37,9,3,2,4,10,6,2,7,Social Media,Non-Eco-Friendly,1,0.53,1,1,0.5,Eco_Conscious
+39,2,4,10,7,2,12,2,2,Social Media,Eco-Friendly,5,0.5,0,0,0.4,Low_Interest
+40,8,7,5,2,10,7,3,2,Ads,Eco-Friendly,5,0.59,1,1,0.54,Eco_Conscious
+41,7,9,5,10,10,19,3,2,Social Media,Non-Eco-Friendly,1,0.75,1,1,0.65,Eco_Conscious
+42,6,2,2,2,7,10,1,2,Social Media,Eco-Friendly,1,0.37,0,0,0.37,Low_Interest
+43,1,8,7,5,2,6,4,1,Email,Non-Eco-Friendly,2,0.45,0,0,0.51,Low_Interest
+45,10,10,10,8,7,15,4,3,Organic Search,Eco-Friendly,3,0.88,1,1,0.8,Eco_Warrior
+46,7,10,1,4,5,7,3,3,Social Media,Eco-Friendly,4,0.53,1,1,0.58,Eco_Conscious
+48,1,10,10,5,4,15,2,2,Ads,Non-Eco-Friendly,2,0.61,1,1,0.59,Eco_Conscious
+49,2,7,4,2,4,8,2,2,Organic Search,Non-Eco-Friendly,2,0.39,0,0,0.4,Low_Interest
+51,9,9,2,2,7,10,4,3,Email,Non-Eco-Friendly,5,0.59,1,1,0.54,Eco_Conscious
+52,6,3,1,9,9,13,2,2,Email,Eco-Friendly,3,0.48,0,0,0.45,Low_Interest
+53,6,4,9,9,2,13,4,2,Organic Search,Non-Eco-Friendly,2,0.59,1,1,0.56,Eco_Conscious
+54,4,2,1,3,1,9,2,1,Email,Non-Eco-Friendly,4,0.24,0,0,0.37,Low_Interest
+55,4,10,4,4,2,10,7,3,Social Media,Non-Eco-Friendly,2,0.54,1,0,0.46,Low_Interest
+56,5,3,2,8,7,8,5,5,Social Media,Non-Eco-Friendly,5,0.47,0,0,0.45,Low_Interest
+57,3,5,4,9,10,3,3,0,Ads,Eco-Friendly,1,0.46,0,1,0.48,Eco_Conscious
+58,1,5,8,3,6,11,1,0,Email,Eco-Friendly,1,0.43,0,0,0.51,Low_Interest
+59,1,6,8,5,4,19,4,1,Email,Eco-Friendly,3,0.52,1,0,0.51,Low_Interest
+60,7,7,9,8,1,6,1,2,Ads,Non-Eco-Friendly,1,0.6,1,1,0.67,Eco_Conscious
+61,1,7,5,3,1,6,2,2,Organic Search,Non-Eco-Friendly,2,0.36,0,0,0.4,Low_Interest
+62,1,1,7,7,5,6,2,1,Ads,Eco-Friendly,5,0.35,0,0,0.4,Low_Interest
+63,3,2,3,8,1,14,4,5,Email,Eco-Friendly,3,0.39,0,0,0.37,Low_Interest
+64,10,9,10,10,7,12,5,0,Organic Search,Eco-Friendly,2,0.84,1,1,0.8,Eco_Warrior
+68,1,1,10,7,10,2,3,3,Social Media,Eco-Friendly,4,0.47,0,1,0.47,Eco_Conscious
+70,4,2,1,1,1,14,1,2,Ads,Eco-Friendly,3,0.26,0,0,0.37,Low_Interest
+71,3,3,2,3,9,4,4,0,Email,Eco-Friendly,5,0.32,0,0,0.3,Low_Interest
+72,8,5,5,5,10,2,5,1,Email,Eco-Friendly,1,0.56,1,1,0.57,Eco_Conscious
+73,10,10,3,3,8,18,1,4,Organic Search,Eco-Friendly,1,0.7,1,1,0.65,Eco_Conscious
+74,1,6,2,1,5,7,2,6,Organic Search,Eco-Friendly,2,0.34,0,0,0.4,Low_Interest
+75,2,9,1,7,2,16,3,0,Organic Search,Non-Eco-Friendly,1,0.42,0,0,0.4,Low_Interest
+76,7,10,10,7,5,9,1,3,Social Media,Eco-Friendly,3,0.74,1,1,0.75,Eco_Warrior
+77,4,4,3,10,6,9,3,0,Organic Search,Eco-Friendly,1,0.44,0,0,0.45,Low_Interest
+78,8,7,1,8,1,12,4,0,Email,Eco-Friendly,2,0.49,0,0,0.58,Low_Interest
+79,3,6,1,5,4,6,4,1,Ads,Non-Eco-Friendly,1,0.35,0,0,0.46,Low_Interest
+80,6,2,1,10,9,11,3,4,Ads,Non-Eco-Friendly,5,0.48,0,0,0.45,Low_Interest
+82,1,8,3,5,5,3,1,0,Social Media,Non-Eco-Friendly,4,0.36,0,0,0.4,Low_Interest
+83,1,7,1,1,1,12,4,0,Ads,Non-Eco-Friendly,4,0.28,0,0,0.4,Low_Interest
+84,8,7,7,10,4,9,2,0,Email,Eco-Friendly,5,0.63,1,1,0.67,Eco_Conscious
+85,3,8,10,5,4,9,1,2,Email,Non-Eco-Friendly,3,0.58,1,1,0.58,Eco_Conscious
+86,5,1,3,6,6,4,4,4,Email,Non-Eco-Friendly,2,0.38,0,0,0.45,Low_Interest
+88,5,8,4,7,9,14,2,3,Ads,Eco-Friendly,2,0.61,1,1,0.55,Eco_Conscious
+89,6,4,4,1,3,15,2,0,Organic Search,Non-Eco-Friendly,3,0.4,0,1,0.37,Low_Interest
+90,8,5,5,2,9,8,1,3,Organic Search,Eco-Friendly,5,0.55,1,1,0.57,Eco_Conscious
+91,3,8,6,2,6,1,2,5,Email,Eco-Friendly,1,0.49,0,0,0.58,Low_Interest
+92,3,5,7,5,7,20,4,2,Email,Eco-Friendly,3,0.56,1,0,0.63,Low_Interest
+93,10,10,4,10,10,10,4,4,Email,Non-Eco-Friendly,4,0.79,1,1,0.65,Eco_Conscious
+94,9,4,8,7,2,6,6,2,Email,Eco-Friendly,5,0.59,1,1,0.58,Eco_Conscious
+95,4,6,6,1,10,12,1,3,Ads,Non-Eco-Friendly,3,0.53,1,1,0.63,Eco_Conscious
+96,4,5,1,10,6,16,4,1,Organic Search,Non-Eco-Friendly,3,0.47,0,0,0.48,Low_Interest
+97,7,7,1,1,6,10,0,1,Social Media,Eco-Friendly,5,0.43,0,0,0.54,Low_Interest
+98,2,10,9,1,2,16,2,1,Email,Non-Eco-Friendly,4,0.55,1,1,0.59,Eco_Conscious
+100,6,4,6,2,2,5,2,2,Email,Eco-Friendly,3,0.41,0,1,0.48,Eco_Conscious
+101,3,5,10,1,10,7,1,3,Ads,Eco-Friendly,2,0.54,1,1,0.63,Eco_Conscious
+103,5,4,7,2,5,0,5,1,Organic Search,Eco-Friendly,5,0.42,0,1,0.48,Eco_Conscious
+104,8,4,6,6,8,9,1,3,Organic Search,Non-Eco-Friendly,5,0.58,1,1,0.61,Eco_Conscious
+106,8,10,7,8,5,8,5,1,Ads,Eco-Friendly,4,0.7,1,1,0.67,Eco_Conscious
+107,7,5,9,2,8,9,2,1,Social Media,Non-Eco-Friendly,1,0.58,1,1,0.61,Eco_Conscious
+108,3,5,10,9,10,8,2,1,Organic Search,Non-Eco-Friendly,5,0.61,1,1,0.63,Eco_Conscious
+109,2,7,10,8,5,7,4,1,Social Media,Non-Eco-Friendly,5,0.58,1,1,0.51,Eco_Conscious
+110,7,4,7,10,2,5,2,1,Ads,Non-Eco-Friendly,2,0.52,1,1,0.58,Eco_Conscious
+111,3,4,1,1,3,21,2,2,Ads,Eco-Friendly,2,0.34,0,0,0.37,Low_Interest
+113,2,6,9,10,5,4,4,0,Social Media,Eco-Friendly,3,0.53,1,0,0.51,Low_Interest
+114,4,4,4,6,4,18,4,1,Social Media,Non-Eco-Friendly,3,0.46,0,0,0.45,Low_Interest
+115,8,2,3,6,4,8,4,1,Organic Search,Non-Eco-Friendly,5,0.43,0,0,0.45,Low_Interest
+116,1,6,4,6,5,11,5,4,Ads,Eco-Friendly,2,0.45,0,0,0.4,Low_Interest
+118,5,5,10,10,9,7,0,1,Organic Search,Non-Eco-Friendly,2,0.63,1,1,0.63,Eco_Conscious
+119,5,6,2,7,2,15,3,0,Email,Eco-Friendly,5,0.44,0,0,0.46,Low_Interest
+120,1,4,1,3,10,11,3,0,Social Media,Non-Eco-Friendly,5,0.32,0,0,0.37,Low_Interest
+121,6,3,10,6,2,8,2,1,Social Media,Eco-Friendly,3,0.52,1,1,0.48,Eco_Conscious
+122,1,7,1,3,10,3,3,4,Organic Search,Eco-Friendly,5,0.38,0,0,0.48,Low_Interest
+123,5,2,8,7,9,6,5,1,Organic Search,Non-Eco-Friendly,5,0.52,1,1,0.48,Eco_Conscious
+124,9,6,2,7,3,2,1,1,Ads,Eco-Friendly,2,0.46,0,0,0.48,Low_Interest
+125,5,4,10,8,10,10,2,1,Ads,Eco-Friendly,1,0.63,1,1,0.56,Eco_Conscious
+126,6,6,5,2,7,4,4,1,Ads,Eco-Friendly,4,0.48,0,1,0.55,Eco_Conscious
+127,8,4,4,9,4,9,2,1,Social Media,Eco-Friendly,3,0.51,1,1,0.45,Eco_Conscious
+128,1,4,8,5,6,17,0,0,Organic Search,Eco-Friendly,1,0.45,0,0,0.47,Low_Interest
+129,2,4,2,9,4,16,5,1,Ads,Eco-Friendly,3,0.4,0,0,0.37,Low_Interest
+131,3,7,9,5,7,10,2,3,Ads,Non-Eco-Friendly,5,0.59,1,1,0.63,Eco_Conscious
+132,6,3,7,7,1,19,3,5,Email,Non-Eco-Friendly,3,0.56,1,1,0.48,Eco_Conscious
+133,5,3,7,9,3,13,2,7,Social Media,Non-Eco-Friendly,1,0.56,1,1,0.56,Eco_Conscious
+136,4,4,4,9,6,12,3,3,Email,Eco-Friendly,3,0.49,0,0,0.45,Low_Interest
+137,1,9,4,2,9,14,4,4,Email,Non-Eco-Friendly,3,0.52,1,1,0.48,Eco_Conscious
+138,4,4,3,3,8,7,5,1,Ads,Eco-Friendly,1,0.4,0,0,0.37,Low_Interest
+139,6,9,7,10,7,11,2,1,Ads,Eco-Friendly,3,0.69,1,1,0.63,Eco_Conscious
+141,7,2,2,3,8,9,4,1,Ads,Eco-Friendly,2,0.41,0,0,0.45,Low_Interest
+142,7,2,4,6,6,0,4,0,Ads,Eco-Friendly,1,0.4,0,1,0.45,Eco_Conscious
+144,6,4,2,10,3,15,6,2,Organic Search,Non-Eco-Friendly,3,0.49,0,0,0.45,Low_Interest
+145,8,7,6,8,10,7,4,0,Ads,Eco-Friendly,5,0.65,1,1,0.65,Eco_Conscious
+146,4,5,4,6,10,10,3,3,Organic Search,Non-Eco-Friendly,3,0.52,1,1,0.48,Eco_Conscious
+147,8,6,6,7,9,6,5,2,Social Media,Non-Eco-Friendly,4,0.64,1,1,0.61,Eco_Conscious
+148,2,10,2,1,4,12,2,5,Email,Non-Eco-Friendly,5,0.45,0,0,0.4,Low_Interest
+149,10,4,4,3,7,9,6,3,Social Media,Non-Eco-Friendly,4,0.56,1,1,0.5,Eco_Conscious
+150,9,2,6,3,9,5,2,3,Email,Eco-Friendly,5,0.53,1,0,0.61,Low_Interest
+152,8,9,3,7,2,15,3,2,Ads,Eco-Friendly,5,0.6,1,1,0.65,Eco_Conscious
+153,10,10,8,9,9,7,2,4,Email,Non-Eco-Friendly,4,0.82,1,1,0.8,Eco_Warrior
+154,10,7,7,4,3,12,5,2,Social Media,Non-Eco-Friendly,1,0.66,1,1,0.67,Eco_Conscious
+155,1,4,3,5,9,13,3,1,Ads,Eco-Friendly,2,0.39,0,0,0.37,Low_Interest
+156,2,3,6,3,5,13,2,2,Organic Search,Eco-Friendly,3,0.4,0,0,0.4,Low_Interest
+157,6,10,4,9,6,2,2,5,Social Media,Non-Eco-Friendly,2,0.62,1,1,0.55,Eco_Conscious
+158,10,3,5,4,2,15,1,3,Ads,Non-Eco-Friendly,2,0.53,1,1,0.5,Eco_Conscious
+159,5,9,5,5,8,7,4,1,Email,Eco-Friendly,3,0.58,1,1,0.55,Eco_Conscious
+160,9,5,7,1,9,8,2,4,Social Media,Non-Eco-Friendly,5,0.61,1,1,0.61,Eco_Conscious
+161,5,3,5,2,2,23,3,0,Email,Eco-Friendly,2,0.43,0,1,0.37,Low_Interest
+162,2,5,3,9,6,12,2,2,Ads,Eco-Friendly,2,0.44,0,0,0.48,Low_Interest
+164,4,4,5,5,8,0,2,2,Organic Search,Non-Eco-Friendly,1,0.42,0,0,0.45,Low_Interest
+166,1,2,5,3,5,3,2,1,Social Media,Eco-Friendly,3,0.28,0,0,0.3,Low_Interest
+167,1,2,5,6,9,5,3,1,Organic Search,Non-Eco-Friendly,5,0.36,0,0,0.3,Low_Interest
+169,3,1,3,7,9,17,2,1,Email,Non-Eco-Friendly,4,0.41,0,0,0.37,Low_Interest
+170,10,7,6,10,10,14,3,2,Organic Search,Non-Eco-Friendly,5,0.76,1,1,0.65,Eco_Conscious
+171,2,5,1,3,7,9,1,3,Organic Search,Eco-Friendly,5,0.34,0,0,0.48,Low_Interest
+173,3,1,5,10,3,7,1,2,Social Media,Non-Eco-Friendly,5,0.37,0,0,0.3,Low_Interest
+174,2,7,8,9,10,11,5,1,Social Media,Non-Eco-Friendly,5,0.62,1,1,0.51,Eco_Conscious
+175,8,5,5,10,6,10,1,1,Email,Eco-Friendly,4,0.59,1,1,0.57,Eco_Conscious
+176,10,4,9,1,1,15,1,4,Social Media,Eco-Friendly,4,0.6,1,1,0.58,Eco_Conscious
+177,6,7,6,3,3,15,5,2,Social Media,Eco-Friendly,2,0.56,1,1,0.58,Eco_Conscious
+178,6,10,8,2,2,12,0,1,Ads,Non-Eco-Friendly,5,0.59,1,1,0.58,Eco_Conscious
+180,7,1,8,7,3,14,2,5,Email,Eco-Friendly,5,0.55,1,1,0.52,Eco_Conscious
+181,7,1,3,2,2,10,4,1,Organic Search,Non-Eco-Friendly,1,0.34,0,0,0.45,Low_Interest
+183,4,5,7,3,2,8,4,4,Organic Search,Non-Eco-Friendly,1,0.47,0,0,0.58,Low_Interest
+184,9,10,10,8,1,10,5,2,Social Media,Eco-Friendly,2,0.77,1,1,0.67,Eco_Conscious
+185,6,7,6,10,6,15,2,2,Email,Non-Eco-Friendly,3,0.64,1,1,0.58,Eco_Conscious
+186,4,2,7,3,10,9,3,1,Social Media,Non-Eco-Friendly,5,0.46,0,1,0.48,Eco_Conscious
+187,3,10,2,10,8,4,4,1,Social Media,Non-Eco-Friendly,4,0.53,1,1,0.48,Eco_Conscious
+188,4,8,9,9,10,10,5,1,Ads,Non-Eco-Friendly,4,0.7,1,1,0.63,Eco_Conscious
+189,3,4,10,1,10,11,2,2,Ads,Eco-Friendly,5,0.53,1,1,0.47,Eco_Conscious
+190,2,3,10,5,2,11,4,2,Email,Non-Eco-Friendly,1,0.46,0,0,0.4,Low_Interest
+191,5,10,1,3,9,15,4,0,Email,Non-Eco-Friendly,4,0.53,1,1,0.55,Eco_Conscious
+192,2,8,1,6,3,15,2,3,Ads,Non-Eco-Friendly,4,0.43,0,0,0.4,Low_Interest
+193,6,2,3,10,8,7,3,3,Ads,Non-Eco-Friendly,2,0.48,0,0,0.45,Low_Interest
+194,3,3,3,2,8,7,0,1,Ads,Non-Eco-Friendly,2,0.32,0,0,0.3,Low_Interest
+195,6,3,1,9,3,5,7,3,Ads,Non-Eco-Friendly,2,0.41,0,0,0.45,Low_Interest
+197,9,1,4,7,6,17,0,4,Email,Non-Eco-Friendly,4,0.54,1,0,0.5,Low_Interest
+198,1,6,10,5,1,8,1,2,Social Media,Eco-Friendly,5,0.47,0,0,0.51,Low_Interest
+200,9,1,10,1,1,17,0,0,Social Media,Non-Eco-Friendly,1,0.51,1,1,0.52,Eco_Conscious
+201,4,2,5,5,3,13,1,3,Email,Eco-Friendly,4,0.4,0,0,0.45,Low_Interest
+202,2,6,6,10,9,12,5,2,Organic Search,Non-Eco-Friendly,5,0.58,1,0,0.51,Low_Interest
+203,4,4,9,6,5,4,0,0,Social Media,Non-Eco-Friendly,5,0.47,0,0,0.48,Low_Interest
+204,1,6,4,7,5,13,6,5,Organic Search,Eco-Friendly,2,0.49,0,0,0.4,Low_Interest
+205,3,9,2,4,4,5,3,4,Organic Search,Eco-Friendly,2,0.44,0,0,0.46,Low_Interest
+206,10,10,5,1,3,4,4,1,Organic Search,Eco-Friendly,2,0.59,1,1,0.64,Eco_Conscious
+208,10,8,2,10,4,7,7,3,Email,Non-Eco-Friendly,5,0.64,1,1,0.65,Eco_Conscious
+210,6,8,10,3,4,3,0,3,Social Media,Eco-Friendly,2,0.59,1,1,0.58,Eco_Conscious
+211,3,9,2,7,8,15,2,1,Social Media,Eco-Friendly,4,0.52,1,1,0.48,Eco_Conscious
+212,5,6,6,2,6,16,8,3,Email,Non-Eco-Friendly,2,0.57,1,1,0.58,Eco_Conscious
+213,8,10,8,8,5,0,3,2,Ads,Eco-Friendly,4,0.69,1,1,0.67,Eco_Conscious
+214,6,5,3,6,4,15,2,2,Email,Non-Eco-Friendly,1,0.48,0,0,0.46,Low_Interest
+215,4,6,9,7,4,6,3,2,Organic Search,Non-Eco-Friendly,2,0.55,1,0,0.58,Low_Interest
+216,2,6,9,5,4,14,4,1,Email,Non-Eco-Friendly,4,0.53,1,0,0.51,Low_Interest
+217,9,9,2,9,9,10,1,5,Ads,Non-Eco-Friendly,2,0.68,1,1,0.65,Eco_Conscious
+220,4,9,5,3,10,16,5,3,Email,Non-Eco-Friendly,4,0.63,1,1,0.48,Eco_Conscious
+221,7,2,4,1,6,4,2,3,Organic Search,Eco-Friendly,1,0.39,0,0,0.5,Low_Interest
+222,1,10,10,2,10,13,1,4,Social Media,Eco-Friendly,1,0.65,1,1,0.59,Eco_Conscious
+224,4,2,4,1,10,14,2,1,Organic Search,Eco-Friendly,3,0.4,0,1,0.37,Low_Interest
+225,3,8,8,7,3,22,1,2,Email,Non-Eco-Friendly,4,0.61,1,1,0.58,Eco_Conscious
+226,1,9,4,5,8,7,2,1,Email,Eco-Friendly,3,0.47,0,1,0.48,Eco_Conscious
+227,10,10,10,3,3,15,0,1,Social Media,Eco-Friendly,1,0.74,1,1,0.67,Eco_Conscious
+228,4,9,6,7,1,9,3,0,Social Media,Non-Eco-Friendly,3,0.52,1,0,0.58,Low_Interest
+229,9,10,2,9,10,16,6,2,Social Media,Eco-Friendly,2,0.74,1,1,0.65,Eco_Conscious
+230,10,9,5,2,5,10,2,2,Organic Search,Eco-Friendly,3,0.63,1,1,0.64,Eco_Conscious
+231,6,2,6,8,2,8,0,1,Ads,Eco-Friendly,5,0.43,0,1,0.56,Eco_Conscious
+232,6,4,5,9,10,17,2,1,Social Media,Non-Eco-Friendly,1,0.59,1,1,0.45,Eco_Conscious
+233,1,7,2,3,6,8,1,3,Email,Eco-Friendly,1,0.36,0,0,0.48,Low_Interest
+234,10,2,7,2,10,3,6,2,Ads,Eco-Friendly,4,0.56,1,1,0.69,Eco_Conscious
+235,2,1,4,7,9,7,4,1,Email,Non-Eco-Friendly,2,0.37,0,0,0.3,Low_Interest
+236,6,3,8,5,1,13,1,1,Email,Eco-Friendly,4,0.48,0,1,0.48,Eco_Conscious
+237,2,4,7,5,4,17,2,1,Ads,Non-Eco-Friendly,3,0.45,0,0,0.4,Low_Interest
+238,3,8,7,10,1,11,5,2,Organic Search,Non-Eco-Friendly,5,0.57,1,0,0.58,Low_Interest
+239,4,6,9,5,1,17,2,4,Ads,Non-Eco-Friendly,5,0.57,1,0,0.58,Low_Interest
+240,5,2,1,4,8,3,3,1,Social Media,Eco-Friendly,5,0.32,0,0,0.37,Low_Interest
+242,4,2,6,4,1,9,1,1,Social Media,Eco-Friendly,2,0.35,0,0,0.48,Low_Interest
+243,9,5,6,6,8,9,5,2,Social Media,Eco-Friendly,3,0.63,1,1,0.61,Eco_Conscious
+244,10,4,6,4,4,10,3,0,Ads,Eco-Friendly,5,0.55,1,1,0.58,Eco_Conscious
+245,3,7,6,2,3,13,3,3,Ads,Non-Eco-Friendly,1,0.48,0,0,0.58,Low_Interest
+246,8,8,10,9,4,8,2,1,Social Media,Non-Eco-Friendly,3,0.71,1,1,0.67,Eco_Conscious
+247,1,5,7,2,5,11,5,1,Email,Non-Eco-Friendly,2,0.42,0,0,0.51,Low_Interest
+249,9,5,6,10,1,5,2,1,Organic Search,Eco-Friendly,2,0.56,1,1,0.58,Eco_Conscious
+250,10,2,1,6,3,9,2,1,Social Media,Non-Eco-Friendly,5,0.42,0,0,0.45,Low_Interest
+253,8,10,6,3,2,10,5,1,Ads,Non-Eco-Friendly,1,0.62,1,1,0.65,Eco_Conscious
+254,7,6,8,1,7,10,2,2,Email,Eco-Friendly,5,0.58,1,1,0.61,Eco_Conscious
+255,1,8,3,1,1,8,2,0,Organic Search,Eco-Friendly,4,0.31,0,0,0.4,Low_Interest
+256,5,6,10,3,7,16,4,2,Social Media,Eco-Friendly,3,0.64,1,1,0.63,Eco_Conscious
+257,7,4,8,5,4,4,5,2,Ads,Non-Eco-Friendly,2,0.54,1,1,0.58,Eco_Conscious
+258,4,4,8,3,10,6,4,4,Organic Search,Non-Eco-Friendly,5,0.54,1,1,0.48,Eco_Conscious
+259,1,6,5,9,6,24,2,2,Social Media,Non-Eco-Friendly,1,0.54,1,0,0.48,Low_Interest
+260,9,4,8,9,8,5,2,2,Organic Search,Non-Eco-Friendly,4,0.64,1,1,0.61,Eco_Conscious
+261,5,8,6,3,9,3,2,2,Social Media,Non-Eco-Friendly,5,0.55,1,1,0.63,Eco_Conscious
+262,2,9,5,3,6,14,2,0,Social Media,Non-Eco-Friendly,2,0.49,0,0,0.48,Low_Interest
+264,2,4,7,2,4,9,3,1,Social Media,Eco-Friendly,3,0.39,0,0,0.4,Low_Interest
+265,3,4,8,6,6,21,5,6,Ads,Non-Eco-Friendly,4,0.61,1,0,0.47,Low_Interest
+269,7,7,9,3,2,14,4,1,Social Media,Eco-Friendly,5,0.61,1,1,0.67,Eco_Conscious
+270,10,5,4,5,6,16,1,5,Social Media,Non-Eco-Friendly,1,0.62,1,1,0.57,Eco_Conscious
+271,2,4,10,4,4,7,2,0,Organic Search,Non-Eco-Friendly,3,0.45,0,0,0.4,Low_Interest
+272,6,5,10,5,1,13,1,2,Email,Non-Eco-Friendly,2,0.57,1,1,0.58,Eco_Conscious
+273,3,8,9,8,8,17,5,3,Organic Search,Eco-Friendly,4,0.7,1,1,0.63,Eco_Conscious
+275,8,7,10,6,9,9,5,2,Email,Non-Eco-Friendly,5,0.74,1,1,0.72,Eco_Warrior
+276,3,6,10,1,2,0,4,1,Organic Search,Non-Eco-Friendly,3,0.44,0,0,0.58,Low_Interest
+277,10,1,10,8,9,6,3,2,Organic Search,Non-Eco-Friendly,3,0.65,1,1,0.69,Eco_Conscious
+278,6,7,9,8,7,8,3,1,Organic Search,Non-Eco-Friendly,1,0.65,1,1,0.63,Eco_Conscious
+279,1,7,7,2,5,9,3,1,Email,Non-Eco-Friendly,1,0.44,0,0,0.51,Low_Interest
+280,7,1,2,4,7,9,1,4,Ads,Eco-Friendly,1,0.4,0,0,0.5,Low_Interest
+281,8,9,9,2,9,16,1,3,Ads,Non-Eco-Friendly,4,0.74,1,1,0.72,Eco_Warrior
+282,8,6,4,4,8,16,2,3,Organic Search,Eco-Friendly,1,0.6,1,1,0.57,Eco_Conscious
+283,3,2,8,10,6,9,3,1,Organic Search,Eco-Friendly,5,0.49,0,0,0.47,Low_Interest
+284,10,5,7,7,4,15,3,1,Social Media,Eco-Friendly,1,0.65,1,1,0.58,Eco_Conscious
+285,1,4,7,9,1,12,3,3,Social Media,Non-Eco-Friendly,4,0.44,0,0,0.4,Low_Interest
+286,9,7,8,8,6,10,4,5,Social Media,Non-Eco-Friendly,1,0.74,1,1,0.75,Eco_Warrior
+288,9,1,5,8,6,10,2,5,Ads,Non-Eco-Friendly,5,0.55,1,1,0.5,Eco_Conscious
+289,7,5,2,2,6,20,2,1,Ads,Eco-Friendly,5,0.48,0,0,0.48,Low_Interest
+290,1,3,2,7,4,3,3,2,Organic Search,Non-Eco-Friendly,5,0.28,0,0,0.3,Low_Interest
+291,1,1,1,2,2,7,2,2,Organic Search,Eco-Friendly,1,0.17,0,0,0.3,Low_Interest
+292,6,3,5,2,9,9,4,1,Email,Non-Eco-Friendly,5,0.47,0,1,0.37,Low_Interest
+293,5,6,2,4,2,12,5,2,Email,Non-Eco-Friendly,3,0.43,0,0,0.46,Low_Interest
+294,9,7,4,1,3,16,4,2,Ads,Eco-Friendly,2,0.56,1,1,0.54,Eco_Conscious
+295,2,8,3,5,10,10,4,2,Social Media,Eco-Friendly,2,0.5,0,0,0.48,Low_Interest
+296,8,4,3,6,1,3,5,2,Ads,Eco-Friendly,5,0.43,0,0,0.45,Low_Interest
+297,5,3,2,9,7,14,2,3,Email,Non-Eco-Friendly,4,0.47,0,0,0.45,Low_Interest
+298,2,5,6,10,1,14,5,0,Ads,Eco-Friendly,5,0.46,0,0,0.51,Low_Interest
+300,6,6,8,2,1,10,2,1,Email,Eco-Friendly,1,0.5,0,1,0.58,Eco_Conscious
+301,10,9,8,1,5,2,3,0,Social Media,Non-Eco-Friendly,4,0.63,1,1,0.67,Eco_Conscious
+302,8,6,5,2,7,7,3,1,Social Media,Eco-Friendly,5,0.53,1,1,0.57,Eco_Conscious
+303,4,2,10,7,3,5,3,0,Email,Eco-Friendly,3,0.46,0,0,0.48,Low_Interest
+305,5,9,4,10,8,11,5,1,Social Media,Eco-Friendly,3,0.63,1,1,0.55,Eco_Conscious
+306,2,8,1,5,3,4,3,2,Email,Eco-Friendly,3,0.35,0,0,0.4,Low_Interest
+307,2,7,2,7,5,14,2,2,Organic Search,Eco-Friendly,3,0.44,0,0,0.4,Low_Interest
+308,6,1,10,3,7,3,3,0,Organic Search,Non-Eco-Friendly,4,0.47,0,1,0.48,Eco_Conscious
+310,9,7,4,2,5,6,8,2,Ads,Eco-Friendly,4,0.56,1,1,0.54,Eco_Conscious
+311,4,7,1,7,3,8,3,3,Social Media,Eco-Friendly,2,0.43,0,0,0.46,Low_Interest
+312,6,6,8,5,9,13,0,5,Organic Search,Eco-Friendly,1,0.65,1,1,0.63,Eco_Conscious
+313,7,8,9,1,10,13,5,2,Social Media,Eco-Friendly,5,0.7,1,1,0.72,Eco_Warrior
+314,6,6,4,1,9,17,3,1,Email,Eco-Friendly,5,0.53,1,1,0.55,Eco_Conscious
+315,8,10,10,9,7,10,4,2,Social Media,Eco-Friendly,1,0.81,1,1,0.8,Eco_Warrior
+316,4,3,3,5,10,12,3,0,Organic Search,Non-Eco-Friendly,5,0.42,0,0,0.45,Low_Interest
+317,1,4,2,1,2,8,2,5,Ads,Non-Eco-Friendly,3,0.27,0,0,0.3,Low_Interest
+318,7,3,5,7,7,11,3,1,Social Media,Non-Eco-Friendly,2,0.52,1,1,0.45,Eco_Conscious
+320,6,10,10,1,5,10,3,1,Social Media,Non-Eco-Friendly,2,0.65,1,1,0.58,Eco_Conscious
+321,2,5,7,10,9,1,0,2,Email,Eco-Friendly,1,0.49,0,0,0.51,Low_Interest
+322,9,1,6,4,3,12,1,1,Organic Search,Eco-Friendly,5,0.46,0,0,0.52,Low_Interest
+324,6,2,8,5,1,7,1,4,Email,Non-Eco-Friendly,3,0.46,0,1,0.48,Eco_Conscious
+325,6,4,2,7,6,4,0,2,Email,Non-Eco-Friendly,3,0.41,0,0,0.45,Low_Interest
+326,5,6,5,8,4,17,0,2,Email,Eco-Friendly,1,0.55,1,1,0.46,Eco_Conscious
+327,5,8,9,2,1,12,4,2,Ads,Eco-Friendly,4,0.57,1,1,0.58,Eco_Conscious
+328,1,3,8,7,2,9,3,2,Ads,Non-Eco-Friendly,5,0.41,0,0,0.4,Low_Interest
+329,10,1,2,1,3,4,4,1,Email,Non-Eco-Friendly,3,0.35,0,0,0.45,Low_Interest
+330,5,3,9,7,9,6,7,2,Email,Non-Eco-Friendly,3,0.58,1,1,0.48,Eco_Conscious
+331,2,3,5,8,8,17,3,2,Social Media,Non-Eco-Friendly,1,0.48,0,0,0.37,Low_Interest
+332,7,5,10,2,7,11,1,2,Social Media,Non-Eco-Friendly,3,0.61,1,1,0.61,Eco_Conscious
+334,4,4,3,1,1,13,3,2,Social Media,Non-Eco-Friendly,1,0.34,0,0,0.37,Low_Interest
+335,3,9,3,6,8,6,2,3,Organic Search,Eco-Friendly,2,0.51,1,1,0.48,Eco_Conscious
+336,3,7,10,1,4,18,7,0,Organic Search,Eco-Friendly,1,0.57,1,1,0.58,Eco_Conscious
+337,4,4,8,3,3,17,2,2,Organic Search,Non-Eco-Friendly,5,0.49,0,0,0.48,Low_Interest
+338,5,3,10,6,9,8,4,2,Ads,Non-Eco-Friendly,5,0.59,1,1,0.48,Eco_Conscious
+339,1,6,10,3,10,7,3,1,Social Media,Eco-Friendly,2,0.53,1,1,0.51,Eco_Conscious
+340,4,3,2,8,4,0,2,2,Email,Non-Eco-Friendly,1,0.33,0,0,0.45,Low_Interest
+341,8,6,2,5,4,3,0,1,Organic Search,Eco-Friendly,5,0.43,0,0,0.48,Low_Interest
+342,10,9,5,2,9,3,7,2,Email,Eco-Friendly,5,0.66,1,1,0.64,Eco_Conscious
+343,7,6,6,4,2,11,5,4,Organic Search,Non-Eco-Friendly,2,0.56,1,1,0.58,Eco_Conscious
+345,5,5,5,4,4,3,1,1,Organic Search,Non-Eco-Friendly,1,0.41,0,1,0.46,Eco_Conscious
+347,4,3,10,10,5,13,4,3,Email,Eco-Friendly,3,0.6,1,0,0.56,Low_Interest
+348,8,8,10,8,9,13,2,4,Social Media,Eco-Friendly,2,0.8,1,1,0.8,Eco_Warrior
+349,9,4,8,5,9,0,1,3,Email,Eco-Friendly,4,0.6,1,1,0.61,Eco_Conscious
+352,5,10,9,7,3,15,5,2,Organic Search,Non-Eco-Friendly,4,0.7,1,1,0.58,Eco_Conscious
+353,4,3,5,3,4,14,2,2,Social Media,Non-Eco-Friendly,5,0.41,0,0,0.37,Low_Interest
+354,10,10,5,10,1,6,6,3,Email,Non-Eco-Friendly,4,0.7,1,1,0.65,Eco_Conscious
+355,1,7,10,8,1,6,3,2,Email,Non-Eco-Friendly,1,0.52,1,1,0.51,Eco_Conscious
+356,10,9,4,3,1,8,4,0,Email,Non-Eco-Friendly,3,0.56,1,1,0.65,Eco_Conscious
+357,10,4,9,1,9,0,4,1,Social Media,Eco-Friendly,5,0.59,1,1,0.69,Eco_Conscious
+358,7,8,5,5,8,12,2,1,Social Media,Non-Eco-Friendly,2,0.61,1,1,0.65,Eco_Conscious
+359,1,3,2,2,5,9,10,1,Social Media,Eco-Friendly,3,0.29,0,0,0.3,Low_Interest
+360,1,7,10,4,5,15,4,1,Social Media,Eco-Friendly,5,0.55,1,1,0.51,Eco_Conscious
+361,5,3,8,1,9,5,3,3,Email,Non-Eco-Friendly,3,0.49,0,1,0.48,Eco_Conscious
+362,9,7,7,9,3,7,0,0,Email,Eco-Friendly,4,0.61,1,1,0.67,Eco_Conscious
+363,6,10,8,6,3,2,2,2,Ads,Eco-Friendly,2,0.61,1,1,0.58,Eco_Conscious
+365,3,6,4,4,9,4,1,2,Ads,Non-Eco-Friendly,1,0.44,0,0,0.48,Low_Interest
+366,7,2,5,9,6,15,4,1,Social Media,Eco-Friendly,4,0.53,1,0,0.45,Low_Interest
+367,6,3,6,2,2,7,4,1,Ads,Non-Eco-Friendly,1,0.4,0,1,0.48,Eco_Conscious
+368,9,6,1,9,1,11,2,1,Email,Non-Eco-Friendly,1,0.49,0,1,0.48,Eco_Conscious
+370,5,6,10,6,1,4,6,2,Ads,Eco-Friendly,5,0.56,1,1,0.58,Eco_Conscious
+372,7,10,7,4,10,13,2,2,Social Media,Non-Eco-Friendly,3,0.71,1,1,0.72,Eco_Warrior
+373,1,1,5,6,9,4,4,1,Ads,Non-Eco-Friendly,5,0.34,0,0,0.3,Low_Interest
+374,7,3,1,7,10,14,5,1,Ads,Non-Eco-Friendly,4,0.5,0,0,0.45,Low_Interest
+375,3,8,7,1,8,6,2,2,Organic Search,Eco-Friendly,2,0.51,1,1,0.63,Eco_Conscious
+376,9,8,8,7,7,8,2,2,Email,Eco-Friendly,5,0.71,1,1,0.72,Eco_Warrior
+377,6,4,7,1,3,13,4,3,Ads,Eco-Friendly,1,0.49,0,1,0.48,Eco_Conscious
+378,9,6,4,5,8,7,3,2,Email,Eco-Friendly,3,0.58,1,1,0.57,Eco_Conscious
+380,7,7,5,2,2,8,3,2,Organic Search,Eco-Friendly,2,0.5,0,1,0.54,Eco_Conscious
+381,4,7,10,10,10,11,2,2,Email,Eco-Friendly,3,0.7,1,1,0.63,Eco_Conscious
+382,7,4,9,9,3,0,5,2,Ads,Non-Eco-Friendly,2,0.57,1,1,0.58,Eco_Conscious
+383,1,9,10,10,7,1,0,2,Organic Search,Eco-Friendly,4,0.59,1,1,0.59,Eco_Conscious
+384,7,10,5,6,1,13,4,2,Organic Search,Non-Eco-Friendly,5,0.62,1,1,0.65,Eco_Conscious
+386,5,3,9,10,7,5,1,0,Organic Search,Non-Eco-Friendly,4,0.54,1,1,0.56,Eco_Conscious
+387,2,5,5,8,4,9,4,1,Organic Search,Eco-Friendly,3,0.43,0,0,0.4,Low_Interest
+388,5,5,6,10,5,11,4,5,Social Media,Eco-Friendly,5,0.6,1,1,0.58,Eco_Conscious
+390,2,8,6,8,1,0,0,3,Organic Search,Non-Eco-Friendly,5,0.44,0,0,0.51,Low_Interest
+391,6,9,8,4,4,6,3,2,Ads,Eco-Friendly,5,0.6,1,1,0.58,Eco_Conscious
+392,6,9,3,10,1,8,5,2,Ads,Eco-Friendly,3,0.56,1,0,0.46,Low_Interest
+393,1,6,5,8,1,14,1,2,Social Media,Non-Eco-Friendly,1,0.42,0,0,0.4,Low_Interest
+394,1,6,2,6,10,22,5,2,Email,Eco-Friendly,5,0.5,0,0,0.48,Low_Interest
+395,10,9,2,9,1,9,2,0,Organic Search,Eco-Friendly,5,0.57,1,1,0.65,Eco_Conscious
+396,3,4,7,4,7,3,2,1,Ads,Non-Eco-Friendly,1,0.42,0,0,0.47,Low_Interest
+397,10,6,10,2,7,12,2,1,Social Media,Eco-Friendly,1,0.69,1,1,0.69,Eco_Conscious
+398,10,4,10,2,4,17,3,0,Social Media,Non-Eco-Friendly,2,0.64,1,1,0.58,Eco_Conscious
+399,3,1,10,5,2,11,5,4,Email,Non-Eco-Friendly,2,0.47,0,0,0.4,Low_Interest
+400,4,7,6,10,3,5,5,2,Email,Non-Eco-Friendly,1,0.54,1,0,0.58,Low_Interest
+401,2,10,4,9,8,15,2,0,Ads,Eco-Friendly,4,0.57,1,1,0.48,Eco_Conscious
+402,9,6,5,3,8,13,3,2,Email,Eco-Friendly,1,0.61,1,1,0.57,Eco_Conscious
+403,10,9,1,8,6,5,0,0,Email,Non-Eco-Friendly,2,0.56,1,1,0.58,Eco_Conscious
+404,7,7,7,4,10,12,4,3,Organic Search,Non-Eco-Friendly,3,0.67,1,1,0.72,Eco_Warrior
+405,7,7,8,6,9,15,2,2,Social Media,Eco-Friendly,3,0.69,1,1,0.72,Eco_Warrior
+406,6,2,9,10,9,16,8,1,Social Media,Eco-Friendly,5,0.66,1,1,0.56,Eco_Conscious
+407,3,9,8,6,4,10,5,1,Email,Eco-Friendly,3,0.58,1,1,0.58,Eco_Conscious
+410,8,6,10,3,10,4,3,3,Ads,Non-Eco-Friendly,4,0.67,1,1,0.61,Eco_Conscious
+411,9,3,9,1,5,12,1,0,Social Media,Non-Eco-Friendly,1,0.55,1,1,0.58,Eco_Conscious
+412,1,1,6,7,2,3,1,0,Email,Eco-Friendly,1,0.27,0,0,0.4,Low_Interest
+413,1,4,5,4,6,15,3,3,Ads,Eco-Friendly,2,0.42,0,0,0.37,Low_Interest
+415,3,1,6,3,1,16,2,1,Social Media,Non-Eco-Friendly,1,0.34,0,0,0.4,Low_Interest
+416,10,3,3,5,6,12,2,4,Ads,Eco-Friendly,3,0.54,1,1,0.5,Eco_Conscious
+417,8,4,10,5,8,4,4,0,Ads,Non-Eco-Friendly,4,0.61,1,1,0.61,Eco_Conscious
+418,10,8,6,2,5,17,2,1,Social Media,Eco-Friendly,5,0.66,1,1,0.64,Eco_Conscious
+419,1,9,4,10,7,18,3,3,Organic Search,Eco-Friendly,5,0.58,1,1,0.48,Eco_Conscious
+420,2,3,2,2,10,14,2,2,Organic Search,Non-Eco-Friendly,5,0.36,0,0,0.37,Low_Interest
+421,2,6,8,4,6,6,1,2,Social Media,Non-Eco-Friendly,1,0.48,0,0,0.51,Low_Interest
+422,3,10,4,4,4,8,4,1,Social Media,Eco-Friendly,5,0.49,0,0,0.46,Low_Interest
+423,6,5,9,4,7,11,3,4,Ads,Non-Eco-Friendly,2,0.62,1,1,0.63,Eco_Conscious
+424,1,6,7,6,10,6,2,2,Ads,Non-Eco-Friendly,3,0.5,1,1,0.51,Eco_Conscious
+425,2,4,2,2,9,18,4,2,Social Media,Eco-Friendly,4,0.4,0,0,0.37,Low_Interest
+426,1,10,4,6,10,11,2,1,Social Media,Non-Eco-Friendly,3,0.53,1,1,0.48,Eco_Conscious
+428,7,7,3,10,7,12,0,5,Social Media,Non-Eco-Friendly,2,0.62,1,1,0.65,Eco_Conscious
+429,8,9,9,3,5,8,4,2,Organic Search,Eco-Friendly,3,0.68,1,1,0.67,Eco_Conscious
+430,10,10,5,8,7,10,4,2,Ads,Non-Eco-Friendly,1,0.74,1,1,0.65,Eco_Conscious
+431,1,7,2,2,3,8,3,0,Email,Non-Eco-Friendly,2,0.31,0,0,0.4,Low_Interest
+432,7,6,3,8,2,14,0,3,Social Media,Non-Eco-Friendly,5,0.52,1,0,0.57,Low_Interest
+434,10,2,7,2,4,11,3,5,Social Media,Non-Eco-Friendly,4,0.56,1,1,0.52,Eco_Conscious
+436,3,9,9,2,8,10,3,3,Ads,Non-Eco-Friendly,5,0.61,1,1,0.63,Eco_Conscious
+437,7,10,4,6,4,10,2,3,Ads,Non-Eco-Friendly,3,0.61,1,1,0.65,Eco_Conscious
+438,10,10,9,10,9,6,6,3,Social Media,Eco-Friendly,4,0.86,1,1,0.8,Eco_Warrior
+439,1,9,2,3,7,13,4,2,Social Media,Non-Eco-Friendly,5,0.44,0,0,0.48,Low_Interest
+440,7,7,10,9,10,12,3,3,Ads,Non-Eco-Friendly,5,0.78,1,1,0.8,Eco_Warrior
+441,5,2,4,3,7,18,4,2,Email,Non-Eco-Friendly,1,0.45,0,0,0.37,Low_Interest
+442,1,6,5,3,8,16,6,0,Social Media,Non-Eco-Friendly,2,0.46,0,0,0.48,Low_Interest
+443,1,4,2,5,6,7,3,2,Email,Non-Eco-Friendly,5,0.32,0,0,0.3,Low_Interest
+444,1,1,10,7,8,14,0,2,Email,Eco-Friendly,3,0.48,0,0,0.47,Low_Interest
+445,9,1,1,8,3,5,0,2,Ads,Eco-Friendly,4,0.38,0,0,0.45,Low_Interest
+446,3,5,7,7,10,13,7,2,Social Media,Non-Eco-Friendly,1,0.59,1,1,0.63,Eco_Conscious
+447,5,2,10,9,10,7,5,1,Organic Search,Non-Eco-Friendly,3,0.6,1,1,0.56,Eco_Conscious
+448,10,4,1,5,1,5,2,2,Ads,Non-Eco-Friendly,4,0.41,0,0,0.45,Low_Interest
+449,9,1,8,10,6,11,6,5,Ads,Non-Eco-Friendly,2,0.66,1,1,0.61,Eco_Conscious
+450,6,4,3,3,1,0,6,1,Organic Search,Eco-Friendly,3,0.34,0,0,0.37,Low_Interest
+451,9,6,10,6,9,1,2,0,Social Media,Non-Eco-Friendly,4,0.67,1,1,0.61,Eco_Conscious
+452,8,10,6,5,2,9,4,2,Email,Eco-Friendly,1,0.64,1,1,0.65,Eco_Conscious
+453,8,4,7,4,2,10,2,0,Email,Non-Eco-Friendly,4,0.5,1,1,0.58,Eco_Conscious
+454,1,1,10,2,7,8,1,3,Email,Eco-Friendly,5,0.41,0,0,0.47,Low_Interest
+456,6,2,6,5,10,6,7,3,Ads,Eco-Friendly,3,0.52,1,1,0.48,Eco_Conscious
+457,9,9,7,4,8,12,0,4,Ads,Non-Eco-Friendly,2,0.72,1,1,0.72,Eco_Warrior
+458,3,3,6,8,6,13,2,1,Ads,Non-Eco-Friendly,1,0.46,0,0,0.47,Low_Interest
+460,6,8,1,9,7,16,4,1,Ads,Non-Eco-Friendly,1,0.57,1,0,0.55,Low_Interest
+461,9,3,9,3,6,12,5,2,Organic Search,Non-Eco-Friendly,4,0.61,1,1,0.61,Eco_Conscious
+462,7,4,4,3,10,6,2,1,Email,Eco-Friendly,5,0.48,0,1,0.45,Eco_Conscious
+463,3,2,7,5,9,9,1,3,Email,Eco-Friendly,2,0.46,0,0,0.47,Low_Interest
+464,3,4,7,5,9,3,3,4,Social Media,Eco-Friendly,2,0.49,0,0,0.47,Low_Interest
+465,2,9,2,10,7,9,2,2,Organic Search,Non-Eco-Friendly,5,0.51,1,0,0.48,Low_Interest
+466,9,2,1,2,9,16,3,3,Ads,Eco-Friendly,4,0.47,0,1,0.5,Eco_Conscious
+467,3,3,8,1,10,13,3,1,Ads,Non-Eco-Friendly,4,0.48,0,1,0.47,Eco_Conscious
+468,5,4,8,8,3,17,5,1,Ads,Eco-Friendly,5,0.57,1,1,0.56,Eco_Conscious
+469,9,5,7,3,3,8,4,4,Organic Search,Non-Eco-Friendly,5,0.58,1,1,0.58,Eco_Conscious
+471,2,7,3,1,5,9,7,1,Organic Search,Non-Eco-Friendly,4,0.39,0,0,0.4,Low_Interest
+472,3,10,2,2,4,17,3,3,Social Media,Eco-Friendly,1,0.49,0,0,0.46,Low_Interest
+473,2,7,7,6,2,10,3,2,Email,Eco-Friendly,2,0.48,0,0,0.51,Low_Interest
+474,8,9,8,6,9,14,0,2,Social Media,Eco-Friendly,4,0.74,1,1,0.72,Eco_Warrior
+475,6,4,1,3,3,17,6,4,Email,Non-Eco-Friendly,5,0.44,0,0,0.37,Low_Interest
+476,6,6,10,4,8,9,3,2,Social Media,Eco-Friendly,1,0.64,1,1,0.63,Eco_Conscious
+477,9,2,9,2,6,11,0,2,Email,Eco-Friendly,3,0.56,1,1,0.61,Eco_Conscious
+478,8,4,4,2,5,16,6,4,Email,Eco-Friendly,3,0.54,1,1,0.5,Eco_Conscious
+479,4,2,4,7,1,9,3,4,Ads,Non-Eco-Friendly,1,0.38,0,0,0.45,Low_Interest
+481,9,5,6,7,3,21,1,1,Ads,Non-Eco-Friendly,5,0.62,1,1,0.58,Eco_Conscious
+482,1,7,1,1,1,8,5,1,Email,Eco-Friendly,5,0.27,0,0,0.4,Low_Interest
+483,2,1,6,6,5,11,4,2,Ads,Eco-Friendly,2,0.38,0,0,0.4,Low_Interest
+484,2,10,2,3,6,16,4,2,Organic Search,Non-Eco-Friendly,2,0.49,0,0,0.48,Low_Interest
+487,10,10,7,2,6,11,1,2,Ads,Non-Eco-Friendly,3,0.7,1,1,0.67,Eco_Conscious
+488,3,6,1,8,4,1,9,2,Organic Search,Non-Eco-Friendly,5,0.39,0,0,0.46,Low_Interest
+489,3,6,7,5,9,9,6,2,Ads,Non-Eco-Friendly,4,0.55,1,0,0.63,Low_Interest
+490,3,8,5,8,5,11,4,2,Email,Eco-Friendly,5,0.55,1,0,0.46,Low_Interest
+491,6,8,8,8,4,9,2,6,Email,Eco-Friendly,4,0.67,1,1,0.58,Eco_Conscious
+492,8,6,4,6,2,2,3,2,Email,Eco-Friendly,1,0.49,0,1,0.57,Eco_Conscious
+493,7,3,10,2,6,18,4,1,Social Media,Non-Eco-Friendly,1,0.6,1,1,0.61,Eco_Conscious
+494,4,5,7,8,10,11,4,3,Ads,Non-Eco-Friendly,1,0.6,1,1,0.63,Eco_Conscious
+495,4,2,6,6,2,17,2,1,Email,Non-Eco-Friendly,2,0.43,0,0,0.48,Low_Interest
+496,10,5,5,6,7,9,1,5,Ads,Non-Eco-Friendly,2,0.63,1,1,0.57,Eco_Conscious
+497,2,9,4,8,3,6,4,2,Organic Search,Eco-Friendly,4,0.48,0,0,0.4,Low_Interest
+498,1,10,7,1,9,11,1,1,Organic Search,Non-Eco-Friendly,3,0.53,1,1,0.59,Eco_Conscious
+499,9,1,5,2,5,9,4,2,Social Media,Eco-Friendly,3,0.45,0,0,0.45,Low_Interest
+503,4,7,5,7,8,1,2,3,Social Media,Non-Eco-Friendly,4,0.51,1,1,0.48,Eco_Conscious
+504,8,9,3,5,3,17,3,1,Email,Non-Eco-Friendly,3,0.59,1,1,0.65,Eco_Conscious
+505,9,6,2,2,3,7,4,4,Organic Search,Non-Eco-Friendly,4,0.49,0,0,0.48,Low_Interest
+506,10,5,4,6,5,7,4,0,Ads,Eco-Friendly,4,0.54,1,1,0.57,Eco_Conscious
+511,4,4,7,2,8,15,1,2,Email,Non-Eco-Friendly,4,0.5,0,0,0.48,Low_Interest
+514,5,6,4,8,10,1,4,1,Ads,Eco-Friendly,1,0.52,1,1,0.55,Eco_Conscious
+515,3,2,2,10,1,6,5,4,Organic Search,Non-Eco-Friendly,4,0.34,0,0,0.3,Low_Interest
+516,7,3,2,6,4,11,0,0,Ads,Eco-Friendly,3,0.39,0,0,0.45,Low_Interest
+518,6,2,7,8,10,11,2,0,Organic Search,Eco-Friendly,2,0.55,1,1,0.56,Eco_Conscious
+520,1,5,10,4,3,15,1,6,Organic Search,Non-Eco-Friendly,2,0.53,1,0,0.51,Low_Interest
+521,7,10,9,5,2,4,2,2,Email,Eco-Friendly,1,0.64,1,1,0.67,Eco_Conscious
+522,3,1,7,1,9,21,2,1,Social Media,Eco-Friendly,5,0.44,0,0,0.47,Low_Interest
+523,5,10,5,1,9,14,7,2,Ads,Non-Eco-Friendly,2,0.62,1,1,0.55,Eco_Conscious
+524,10,4,10,2,1,10,2,4,Organic Search,Eco-Friendly,4,0.61,1,1,0.58,Eco_Conscious
+526,10,4,10,7,10,22,1,5,Social Media,Non-Eco-Friendly,4,0.81,1,1,0.69,Eco_Conscious
+527,5,1,6,10,8,3,4,1,Email,Non-Eco-Friendly,2,0.46,0,0,0.56,Low_Interest
+528,5,2,3,9,3,9,2,0,Ads,Non-Eco-Friendly,2,0.37,0,0,0.45,Low_Interest
+530,10,6,8,2,2,11,5,1,Email,Non-Eco-Friendly,1,0.61,1,1,0.58,Eco_Conscious
+531,10,2,1,7,6,12,3,0,Email,Non-Eco-Friendly,5,0.46,0,1,0.45,Eco_Conscious
+532,6,6,1,8,1,10,3,4,Organic Search,Non-Eco-Friendly,5,0.45,0,0,0.46,Low_Interest
+533,8,10,7,7,7,7,3,1,Social Media,Non-Eco-Friendly,1,0.7,1,1,0.72,Eco_Warrior
+534,8,9,5,7,3,0,4,2,Social Media,Eco-Friendly,2,0.58,1,1,0.65,Eco_Conscious
+535,9,7,5,5,7,12,6,4,Social Media,Non-Eco-Friendly,5,0.67,1,1,0.65,Eco_Conscious
+536,8,9,1,2,4,17,5,2,Email,Non-Eco-Friendly,1,0.55,1,1,0.54,Eco_Conscious
+539,1,7,5,10,3,2,1,4,Social Media,Eco-Friendly,4,0.45,0,0,0.4,Low_Interest
+540,10,3,10,2,8,12,3,4,Organic Search,Eco-Friendly,3,0.68,1,1,0.69,Eco_Conscious
+541,2,7,9,9,6,8,4,3,Email,Eco-Friendly,4,0.6,1,1,0.51,Eco_Conscious
+542,2,1,4,7,2,6,4,3,Organic Search,Eco-Friendly,2,0.31,0,0,0.3,Low_Interest
+543,3,9,8,6,3,6,5,1,Social Media,Eco-Friendly,4,0.56,1,1,0.58,Eco_Conscious
+544,10,10,6,5,8,8,3,1,Email,Non-Eco-Friendly,3,0.72,1,1,0.65,Eco_Conscious
+545,7,6,3,3,10,12,1,3,Organic Search,Eco-Friendly,3,0.54,1,0,0.57,Low_Interest
+546,2,5,4,10,7,3,1,2,Email,Eco-Friendly,1,0.43,0,0,0.48,Low_Interest
+547,1,7,2,10,10,8,4,3,Social Media,Eco-Friendly,2,0.49,0,0,0.48,Low_Interest
+548,6,5,1,4,6,10,5,1,Ads,Eco-Friendly,1,0.42,0,0,0.55,Low_Interest
+549,9,10,8,3,1,4,2,2,Social Media,Eco-Friendly,4,0.63,1,1,0.67,Eco_Conscious
+550,3,5,1,8,9,19,4,2,Ads,Non-Eco-Friendly,4,0.48,0,0,0.48,Low_Interest
+551,6,10,1,3,3,6,6,2,Ads,Non-Eco-Friendly,5,0.48,0,0,0.46,Low_Interest
+552,3,7,4,7,5,7,3,1,Social Media,Eco-Friendly,1,0.46,0,0,0.46,Low_Interest
+553,1,10,10,7,7,5,3,2,Organic Search,Non-Eco-Friendly,1,0.62,1,1,0.59,Eco_Conscious
+554,5,7,10,7,7,19,3,2,Email,Eco-Friendly,1,0.71,1,1,0.63,Eco_Conscious
+555,10,3,6,7,3,13,2,1,Email,Non-Eco-Friendly,1,0.56,1,1,0.58,Eco_Conscious
+556,4,3,9,2,4,5,4,2,Email,Non-Eco-Friendly,3,0.45,0,0,0.48,Low_Interest
+557,7,10,1,10,10,16,2,4,Ads,Eco-Friendly,5,0.69,1,1,0.58,Eco_Conscious
+558,6,3,7,3,7,11,1,3,Ads,Eco-Friendly,2,0.51,1,1,0.48,Eco_Conscious
+559,10,6,10,10,8,11,2,0,Social Media,Eco-Friendly,2,0.77,1,1,0.69,Eco_Conscious
+560,7,6,5,9,2,8,2,4,Organic Search,Non-Eco-Friendly,2,0.56,1,1,0.57,Eco_Conscious
+561,5,3,8,3,9,6,4,2,Social Media,Non-Eco-Friendly,3,0.51,1,1,0.48,Eco_Conscious
+562,4,3,7,2,7,12,4,2,Social Media,Eco-Friendly,5,0.47,0,0,0.48,Low_Interest
+564,7,8,4,10,6,19,4,3,Ads,Non-Eco-Friendly,3,0.69,1,1,0.65,Eco_Conscious
+565,6,7,6,9,6,4,4,0,Social Media,Eco-Friendly,1,0.57,1,1,0.58,Eco_Conscious
+566,8,10,6,4,9,18,1,1,Social Media,Non-Eco-Friendly,4,0.71,1,1,0.65,Eco_Conscious
+567,4,4,9,9,4,9,5,1,Ads,Non-Eco-Friendly,1,0.55,1,0,0.56,Low_Interest
+568,10,4,5,3,5,12,4,1,Email,Eco-Friendly,2,0.55,1,1,0.45,Eco_Conscious
+569,5,3,8,7,9,14,1,2,Organic Search,Non-Eco-Friendly,1,0.58,1,1,0.48,Eco_Conscious
+570,4,5,5,7,1,7,5,1,Organic Search,Non-Eco-Friendly,3,0.43,0,0,0.46,Low_Interest
+571,1,3,2,8,4,14,4,1,Email,Non-Eco-Friendly,2,0.34,0,0,0.37,Low_Interest
+572,8,8,6,10,7,0,1,1,Organic Search,Non-Eco-Friendly,4,0.62,1,1,0.65,Eco_Conscious
+573,1,7,9,4,9,6,2,3,Email,Eco-Friendly,2,0.54,1,1,0.51,Eco_Conscious
+574,5,3,3,3,10,5,4,0,Social Media,Non-Eco-Friendly,1,0.4,0,0,0.37,Low_Interest
+575,6,9,1,3,6,4,2,1,Organic Search,Eco-Friendly,5,0.45,0,0,0.55,Low_Interest
+576,6,5,1,5,8,9,6,1,Organic Search,Non-Eco-Friendly,5,0.45,0,0,0.55,Low_Interest
+577,5,9,3,1,9,12,4,3,Social Media,Eco-Friendly,5,0.55,1,1,0.55,Eco_Conscious
+578,3,7,10,10,10,14,6,4,Ads,Non-Eco-Friendly,2,0.74,1,1,0.63,Eco_Conscious
+579,5,7,5,3,4,11,4,1,Ads,Non-Eco-Friendly,5,0.5,0,1,0.46,Eco_Conscious
+580,8,6,3,6,1,7,4,2,Social Media,Eco-Friendly,3,0.48,0,0,0.57,Low_Interest
+583,9,6,3,9,1,15,3,0,Organic Search,Non-Eco-Friendly,3,0.55,1,1,0.57,Eco_Conscious
+584,8,8,9,2,7,14,2,0,Email,Eco-Friendly,3,0.67,1,1,0.72,Eco_Warrior
+586,8,5,7,6,9,6,5,4,Organic Search,Non-Eco-Friendly,2,0.64,1,1,0.61,Eco_Conscious
+587,7,1,4,6,9,7,0,0,Ads,Non-Eco-Friendly,4,0.42,0,1,0.45,Eco_Conscious
+588,8,10,4,8,3,7,5,0,Ads,Non-Eco-Friendly,4,0.61,1,1,0.65,Eco_Conscious
+589,6,8,2,2,6,8,3,0,Organic Search,Non-Eco-Friendly,1,0.46,0,0,0.55,Low_Interest
+591,2,1,8,2,10,14,5,1,Social Media,Non-Eco-Friendly,2,0.44,0,1,0.47,Eco_Conscious
+593,1,2,7,10,2,10,3,1,Email,Non-Eco-Friendly,1,0.4,0,0,0.4,Low_Interest
+594,6,9,6,2,8,11,1,3,Ads,Non-Eco-Friendly,4,0.61,1,1,0.63,Eco_Conscious
+595,6,1,3,7,7,7,2,2,Ads,Eco-Friendly,3,0.41,0,0,0.45,Low_Interest
+596,4,10,5,8,4,5,3,1,Social Media,Eco-Friendly,2,0.55,1,0,0.46,Low_Interest
+597,10,9,1,5,2,1,1,2,Organic Search,Eco-Friendly,5,0.5,1,1,0.58,Eco_Conscious
+599,3,9,9,1,5,12,4,1,Email,Eco-Friendly,3,0.57,1,1,0.58,Eco_Conscious
+600,1,7,1,6,6,6,5,3,Social Media,Non-Eco-Friendly,2,0.39,0,0,0.48,Low_Interest
+601,3,6,2,8,7,9,5,1,Social Media,Non-Eco-Friendly,2,0.45,0,0,0.48,Low_Interest
+602,4,5,3,3,10,12,2,1,Ads,Non-Eco-Friendly,1,0.45,0,0,0.48,Low_Interest
+603,5,9,3,1,1,13,2,1,Social Media,Non-Eco-Friendly,1,0.44,0,0,0.46,Low_Interest
+605,6,2,7,1,4,15,5,2,Email,Eco-Friendly,4,0.47,0,1,0.48,Eco_Conscious
+606,5,9,6,8,9,16,6,2,Social Media,Eco-Friendly,1,0.7,1,1,0.63,Eco_Conscious
+608,6,8,10,1,2,6,1,2,Ads,Non-Eco-Friendly,3,0.56,1,1,0.58,Eco_Conscious
+609,6,9,4,8,6,16,2,0,Social Media,Eco-Friendly,4,0.61,1,1,0.55,Eco_Conscious
+610,8,8,9,9,10,9,2,3,Organic Search,Non-Eco-Friendly,2,0.78,1,1,0.8,Eco_Warrior
+611,2,4,1,10,1,0,2,2,Email,Eco-Friendly,4,0.28,0,0,0.3,Low_Interest
+612,1,1,2,2,4,3,2,1,Organic Search,Eco-Friendly,4,0.18,0,0,0.3,Low_Interest
+614,7,9,3,8,10,4,3,1,Ads,Non-Eco-Friendly,1,0.61,1,1,0.65,Eco_Conscious
+615,10,2,1,7,5,8,4,2,Ads,Eco-Friendly,4,0.46,0,0,0.45,Low_Interest
+616,3,3,5,3,9,10,3,2,Email,Non-Eco-Friendly,5,0.43,0,0,0.37,Low_Interest
+617,3,10,7,2,6,17,2,0,Social Media,Eco-Friendly,5,0.58,1,0,0.58,Low_Interest
+618,5,8,2,7,1,9,2,6,Organic Search,Non-Eco-Friendly,4,0.49,0,0,0.46,Low_Interest
+619,5,6,5,5,6,15,5,2,Social Media,Non-Eco-Friendly,5,0.55,1,1,0.55,Eco_Conscious
+620,10,8,6,6,6,17,3,0,Ads,Eco-Friendly,4,0.7,1,1,0.65,Eco_Conscious
+621,3,7,7,4,6,17,2,3,Social Media,Non-Eco-Friendly,1,0.57,1,0,0.58,Low_Interest
+622,9,5,1,2,8,11,1,1,Email,Non-Eco-Friendly,1,0.47,0,1,0.48,Eco_Conscious
+623,4,9,7,9,6,0,5,1,Ads,Non-Eco-Friendly,1,0.59,1,0,0.58,Low_Interest
+624,3,4,4,3,5,12,2,2,Social Media,Eco-Friendly,2,0.39,0,0,0.37,Low_Interest
+626,10,2,4,8,4,10,5,1,Ads,Eco-Friendly,1,0.52,1,1,0.45,Eco_Conscious
+627,9,2,6,2,10,19,2,3,Ads,Eco-Friendly,4,0.59,1,1,0.61,Eco_Conscious
+628,4,2,9,6,5,14,3,0,Email,Non-Eco-Friendly,5,0.5,0,0,0.48,Low_Interest
+629,3,10,5,8,10,13,0,4,Email,Eco-Friendly,5,0.64,1,1,0.48,Eco_Conscious
+631,8,2,8,3,2,12,1,4,Social Media,Eco-Friendly,1,0.51,1,1,0.52,Eco_Conscious
+633,7,9,4,6,10,8,6,0,Ads,Eco-Friendly,4,0.63,1,1,0.65,Eco_Conscious
+634,5,7,3,8,10,16,3,1,Ads,Non-Eco-Friendly,4,0.58,1,0,0.55,Low_Interest
+635,5,3,8,6,2,6,1,2,Social Media,Non-Eco-Friendly,4,0.45,0,1,0.48,Eco_Conscious
+636,3,3,5,5,1,9,0,2,Social Media,Eco-Friendly,5,0.34,0,0,0.3,Low_Interest
+638,2,5,10,2,1,19,0,3,Ads,Non-Eco-Friendly,5,0.49,0,0,0.51,Low_Interest
+639,4,10,9,1,1,18,1,3,Email,Non-Eco-Friendly,4,0.61,1,1,0.58,Eco_Conscious
+640,6,6,3,1,1,6,3,0,Email,Non-Eco-Friendly,3,0.36,0,0,0.46,Low_Interest
+641,1,8,2,4,6,11,5,1,Organic Search,Eco-Friendly,2,0.41,0,0,0.48,Low_Interest
+643,4,1,8,9,10,13,0,1,Social Media,Non-Eco-Friendly,5,0.53,1,1,0.56,Eco_Conscious
+644,6,3,3,1,1,13,4,1,Social Media,Eco-Friendly,2,0.35,0,0,0.37,Low_Interest
+646,2,6,1,5,9,12,2,3,Social Media,Non-Eco-Friendly,2,0.42,0,0,0.48,Low_Interest
+647,7,7,1,10,9,25,4,2,Email,Eco-Friendly,5,0.65,1,1,0.58,Eco_Conscious
+648,6,8,9,5,1,5,0,5,Social Media,Non-Eco-Friendly,4,0.59,1,1,0.58,Eco_Conscious
+651,7,2,6,6,8,2,3,1,Ads,Non-Eco-Friendly,4,0.48,0,1,0.61,Eco_Conscious
+652,5,7,3,8,1,3,6,0,Email,Non-Eco-Friendly,5,0.43,0,0,0.46,Low_Interest
+653,5,1,4,3,5,5,3,2,Email,Eco-Friendly,4,0.34,0,0,0.37,Low_Interest
+654,7,3,1,9,8,5,5,1,Email,Non-Eco-Friendly,4,0.45,0,0,0.45,Low_Interest
+655,9,4,5,1,6,5,2,1,Ads,Eco-Friendly,5,0.48,0,1,0.45,Eco_Conscious
+656,9,1,1,4,9,13,1,2,Social Media,Eco-Friendly,5,0.44,0,1,0.45,Eco_Conscious
+657,9,5,1,9,1,7,4,2,Organic Search,Non-Eco-Friendly,3,0.48,0,0,0.48,Low_Interest
+658,6,10,10,8,9,9,7,2,Organic Search,Non-Eco-Friendly,4,0.79,1,1,0.63,Eco_Conscious
+659,10,3,7,10,1,14,2,4,Social Media,Non-Eco-Friendly,2,0.63,1,1,0.58,Eco_Conscious
+661,3,3,2,1,10,9,4,1,Ads,Eco-Friendly,1,0.34,0,0,0.3,Low_Interest
+663,7,6,7,3,1,0,5,3,Email,Non-Eco-Friendly,5,0.5,0,1,0.58,Eco_Conscious
+664,4,7,1,10,3,0,7,2,Email,Non-Eco-Friendly,3,0.42,0,0,0.46,Low_Interest
+666,8,6,8,1,2,12,2,1,Organic Search,Non-Eco-Friendly,5,0.55,1,1,0.58,Eco_Conscious
+667,6,3,6,1,9,20,3,4,Social Media,Non-Eco-Friendly,5,0.56,1,1,0.48,Eco_Conscious
+668,6,8,2,9,8,11,1,2,Social Media,Eco-Friendly,1,0.57,1,0,0.55,Low_Interest
+669,2,7,7,6,1,14,2,5,Social Media,Eco-Friendly,4,0.52,1,0,0.51,Low_Interest
+670,1,7,4,4,4,9,2,3,Social Media,Eco-Friendly,3,0.41,0,0,0.4,Low_Interest
+671,2,6,2,7,1,11,1,3,Social Media,Non-Eco-Friendly,5,0.37,0,0,0.4,Low_Interest
+672,4,5,6,5,1,18,7,1,Social Media,Non-Eco-Friendly,5,0.5,0,0,0.58,Low_Interest
+673,2,10,9,10,4,0,0,4,Email,Eco-Friendly,5,0.6,1,1,0.59,Eco_Conscious
+675,7,5,8,8,3,21,3,1,Ads,Eco-Friendly,5,0.64,1,1,0.58,Eco_Conscious
+676,8,9,3,8,9,11,3,2,Social Media,Non-Eco-Friendly,5,0.66,1,1,0.65,Eco_Conscious
+677,6,9,3,1,2,18,0,0,Email,Non-Eco-Friendly,1,0.48,0,0,0.46,Low_Interest
+678,4,1,2,8,4,7,3,2,Organic Search,Non-Eco-Friendly,5,0.33,0,0,0.45,Low_Interest
+679,6,6,5,6,1,10,1,1,Organic Search,Non-Eco-Friendly,4,0.47,0,1,0.46,Eco_Conscious
+680,3,7,4,4,2,10,3,2,Organic Search,Eco-Friendly,4,0.43,0,0,0.46,Low_Interest
+681,8,3,7,8,5,0,1,6,Social Media,Non-Eco-Friendly,1,0.56,1,1,0.58,Eco_Conscious
+682,10,7,4,3,10,4,1,3,Social Media,Eco-Friendly,4,0.61,1,1,0.65,Eco_Conscious
+683,2,7,9,4,1,5,5,3,Ads,Eco-Friendly,3,0.49,0,1,0.51,Eco_Conscious
+684,5,2,2,6,7,14,4,2,Social Media,Eco-Friendly,5,0.42,0,0,0.45,Low_Interest
+685,1,7,6,7,4,14,9,3,Organic Search,Eco-Friendly,3,0.54,1,0,0.51,Low_Interest
+686,6,1,7,4,6,12,2,2,Organic Search,Eco-Friendly,4,0.47,0,1,0.48,Eco_Conscious
+687,2,5,4,4,8,14,2,1,Email,Non-Eco-Friendly,1,0.43,0,0,0.48,Low_Interest
+689,6,7,7,6,2,16,2,4,Ads,Eco-Friendly,3,0.61,1,1,0.58,Eco_Conscious
+690,10,7,4,8,1,10,4,5,Email,Eco-Friendly,4,0.63,1,1,0.65,Eco_Conscious
+692,8,8,9,10,8,9,2,1,Email,Eco-Friendly,4,0.74,1,1,0.8,Eco_Warrior
+693,6,3,1,7,9,13,2,0,Organic Search,Non-Eco-Friendly,4,0.44,0,0,0.45,Low_Interest
+694,4,8,7,7,6,8,3,1,Social Media,Eco-Friendly,1,0.57,1,0,0.58,Low_Interest
+695,8,3,9,7,1,15,1,1,Social Media,Non-Eco-Friendly,2,0.57,1,1,0.58,Eco_Conscious
+696,8,10,10,7,9,4,1,1,Ads,Eco-Friendly,5,0.76,1,1,0.72,Eco_Warrior
+697,10,7,5,10,3,5,5,0,Social Media,Non-Eco-Friendly,5,0.62,1,1,0.65,Eco_Conscious
+698,1,2,2,10,6,13,4,3,Social Media,Non-Eco-Friendly,1,0.38,0,0,0.37,Low_Interest
+699,4,4,10,8,10,10,7,2,Email,Non-Eco-Friendly,4,0.64,1,1,0.56,Eco_Conscious
+701,7,9,7,9,9,14,2,1,Social Media,Non-Eco-Friendly,4,0.73,1,1,0.8,Eco_Warrior
+702,7,5,2,2,3,7,5,2,Organic Search,Non-Eco-Friendly,2,0.41,0,0,0.48,Low_Interest
+703,8,9,2,7,5,9,4,7,Email,Non-Eco-Friendly,2,0.63,1,1,0.65,Eco_Conscious
+705,7,10,10,4,10,18,4,3,Social Media,Non-Eco-Friendly,4,0.82,1,1,0.72,Eco_Warrior
+706,8,8,1,9,7,18,3,0,Social Media,Eco-Friendly,1,0.6,1,1,0.58,Eco_Conscious
+707,9,1,4,8,4,9,4,1,Email,Eco-Friendly,1,0.47,0,0,0.45,Low_Interest
+708,3,7,7,1,4,16,6,2,Email,Eco-Friendly,1,0.52,1,0,0.58,Low_Interest
+710,4,5,3,2,9,5,6,1,Ads,Eco-Friendly,5,0.42,0,0,0.48,Low_Interest
+711,5,6,7,8,4,0,2,1,Organic Search,Non-Eco-Friendly,1,0.5,0,1,0.58,Eco_Conscious
+712,10,5,7,1,4,18,4,5,Email,Non-Eco-Friendly,2,0.65,1,1,0.58,Eco_Conscious
+714,7,9,2,10,6,9,3,1,Email,Eco-Friendly,1,0.59,1,1,0.65,Eco_Conscious
+716,8,9,2,9,1,13,4,5,Ads,Non-Eco-Friendly,5,0.62,1,1,0.65,Eco_Conscious
+717,5,10,6,7,3,8,2,1,Email,Non-Eco-Friendly,1,0.58,1,1,0.58,Eco_Conscious
+719,7,9,3,9,6,12,4,1,Organic Search,Non-Eco-Friendly,5,0.62,1,1,0.65,Eco_Conscious
+722,1,6,2,5,3,0,4,2,Social Media,Eco-Friendly,1,0.3,0,0,0.4,Low_Interest
+723,1,6,5,10,5,3,5,1,Ads,Eco-Friendly,1,0.44,0,0,0.4,Low_Interest
+724,10,2,2,6,1,11,4,0,Email,Eco-Friendly,1,0.42,0,0,0.45,Low_Interest
+725,3,8,3,5,3,0,5,1,Email,Non-Eco-Friendly,5,0.4,0,0,0.46,Low_Interest
+726,2,3,3,9,4,3,1,3,Organic Search,Non-Eco-Friendly,4,0.34,0,0,0.3,Low_Interest
+727,2,7,6,3,5,10,3,4,Ads,Eco-Friendly,2,0.48,0,0,0.51,Low_Interest
+728,7,5,6,3,10,7,5,1,Email,Non-Eco-Friendly,1,0.56,1,1,0.61,Eco_Conscious
+730,2,1,3,7,4,19,0,2,Social Media,Non-Eco-Friendly,4,0.35,0,0,0.37,Low_Interest
+731,4,8,3,6,3,6,1,3,Organic Search,Non-Eco-Friendly,4,0.45,0,0,0.46,Low_Interest
+732,2,3,1,3,10,13,2,1,Email,Non-Eco-Friendly,2,0.33,0,0,0.37,Low_Interest
+733,6,2,7,7,1,14,3,3,Organic Search,Eco-Friendly,4,0.49,0,1,0.48,Eco_Conscious
+734,8,1,8,5,10,7,1,1,Social Media,Eco-Friendly,1,0.54,1,1,0.61,Eco_Conscious
+735,10,4,2,7,6,3,2,5,Ads,Eco-Friendly,1,0.52,1,1,0.5,Eco_Conscious
+737,5,3,10,6,10,9,5,2,Social Media,Non-Eco-Friendly,5,0.61,1,1,0.48,Eco_Conscious
+738,4,1,7,8,8,8,1,3,Social Media,Non-Eco-Friendly,4,0.47,0,0,0.56,Low_Interest
+739,3,4,8,1,1,12,3,1,Email,Non-Eco-Friendly,5,0.41,0,0,0.4,Low_Interest
+740,5,9,1,4,4,6,2,2,Email,Non-Eco-Friendly,5,0.44,0,0,0.46,Low_Interest
+741,9,1,4,1,5,4,4,1,Email,Eco-Friendly,5,0.39,0,0,0.45,Low_Interest
+742,8,2,6,1,2,11,5,5,Email,Eco-Friendly,5,0.48,0,0,0.52,Low_Interest
+744,8,2,5,8,8,4,3,2,Ads,Eco-Friendly,1,0.52,1,1,0.45,Eco_Conscious
+745,8,3,10,7,6,15,3,0,Email,Non-Eco-Friendly,2,0.64,1,1,0.61,Eco_Conscious
+746,7,7,9,10,5,1,2,1,Social Media,Non-Eco-Friendly,4,0.64,1,1,0.67,Eco_Conscious
+747,8,3,3,1,9,7,3,0,Social Media,Eco-Friendly,4,0.43,0,0,0.45,Low_Interest
+748,8,9,5,2,2,9,6,3,Email,Non-Eco-Friendly,1,0.58,1,1,0.54,Eco_Conscious
+749,8,6,8,4,10,7,2,0,Social Media,Eco-Friendly,1,0.62,1,1,0.61,Eco_Conscious
+751,7,9,4,3,10,19,3,1,Ads,Eco-Friendly,2,0.65,1,1,0.65,Eco_Conscious
+752,1,1,8,8,9,6,1,2,Ads,Non-Eco-Friendly,4,0.42,0,0,0.47,Low_Interest
+754,4,3,3,8,7,12,5,2,Organic Search,Non-Eco-Friendly,1,0.46,0,0,0.45,Low_Interest
+755,5,1,4,6,8,10,2,1,Email,Non-Eco-Friendly,3,0.41,0,0,0.45,Low_Interest
+756,10,2,9,6,3,12,3,2,Email,Non-Eco-Friendly,4,0.61,1,1,0.52,Eco_Conscious
+757,6,8,5,5,4,23,0,0,Social Media,Non-Eco-Friendly,1,0.58,1,1,0.46,Eco_Conscious
+758,4,7,8,9,3,5,1,5,Ads,Non-Eco-Friendly,4,0.58,1,1,0.58,Eco_Conscious
+759,2,2,6,4,7,4,7,4,Organic Search,Non-Eco-Friendly,1,0.41,0,0,0.47,Low_Interest
+760,6,2,3,10,9,6,6,4,Social Media,Non-Eco-Friendly,4,0.51,1,0,0.45,Low_Interest
+761,8,9,8,7,3,10,2,1,Ads,Non-Eco-Friendly,3,0.67,1,1,0.67,Eco_Conscious
+763,7,5,8,9,8,10,3,3,Email,Eco-Friendly,1,0.67,1,1,0.61,Eco_Conscious
+764,6,10,4,7,6,18,4,1,Organic Search,Non-Eco-Friendly,3,0.65,1,1,0.55,Eco_Conscious
+765,2,6,6,10,2,11,3,3,Email,Non-Eco-Friendly,4,0.5,0,0,0.51,Low_Interest
+766,7,9,1,9,7,9,4,0,Social Media,Eco-Friendly,3,0.56,1,1,0.58,Eco_Conscious
+768,6,10,8,2,2,14,4,3,Email,Eco-Friendly,3,0.64,1,1,0.58,Eco_Conscious
+769,10,10,1,6,2,6,3,2,Ads,Eco-Friendly,4,0.56,1,1,0.58,Eco_Conscious
+770,8,9,3,10,1,19,4,3,Ads,Eco-Friendly,5,0.66,1,1,0.65,Eco_Conscious
+771,8,4,1,4,1,20,4,2,Social Media,Eco-Friendly,2,0.45,0,0,0.45,Low_Interest
+772,3,2,9,3,7,11,4,1,Ads,Non-Eco-Friendly,2,0.47,0,0,0.47,Low_Interest
+773,7,8,2,2,5,10,3,2,Ads,Eco-Friendly,5,0.49,0,0,0.54,Low_Interest
+775,1,9,4,8,1,15,4,1,Email,Eco-Friendly,3,0.48,0,0,0.4,Low_Interest
+777,10,8,4,9,6,7,6,6,Social Media,Non-Eco-Friendly,5,0.72,1,1,0.65,Eco_Conscious
+778,9,9,10,5,1,3,1,1,Email,Non-Eco-Friendly,5,0.65,1,1,0.67,Eco_Conscious
+779,7,9,6,2,9,12,3,2,Social Media,Non-Eco-Friendly,4,0.65,1,1,0.54,Eco_Conscious
+780,10,10,7,8,2,13,3,5,Email,Non-Eco-Friendly,4,0.77,1,1,0.75,Eco_Warrior
+781,5,4,3,9,1,3,3,2,Social Media,Non-Eco-Friendly,2,0.39,0,0,0.45,Low_Interest
+782,8,1,3,10,7,8,3,0,Ads,Non-Eco-Friendly,1,0.46,0,0,0.45,Low_Interest
+784,9,9,8,6,6,6,3,1,Organic Search,Non-Eco-Friendly,5,0.69,1,1,0.67,Eco_Conscious
+785,6,4,5,10,5,13,3,1,Social Media,Eco-Friendly,2,0.54,1,1,0.45,Eco_Conscious
+787,2,7,7,9,4,8,2,1,Social Media,Non-Eco-Friendly,4,0.51,1,0,0.51,Low_Interest
+789,8,4,9,6,10,11,2,3,Social Media,Non-Eco-Friendly,1,0.67,1,1,0.61,Eco_Conscious
+790,1,2,9,4,8,10,5,2,Email,Eco-Friendly,2,0.45,0,0,0.47,Low_Interest
+791,10,2,5,5,7,6,2,0,Ads,Non-Eco-Friendly,4,0.5,1,1,0.45,Eco_Conscious
+792,7,4,8,7,9,9,6,2,Ads,Non-Eco-Friendly,4,0.64,1,1,0.61,Eco_Conscious
+793,7,10,10,9,1,11,4,1,Email,Non-Eco-Friendly,4,0.72,1,1,0.67,Eco_Conscious
+794,1,10,1,10,7,6,3,3,Ads,Non-Eco-Friendly,3,0.48,0,0,0.48,Low_Interest
+795,9,9,9,6,10,3,3,0,Ads,Eco-Friendly,2,0.73,1,1,0.72,Eco_Warrior
+797,4,3,6,8,7,7,5,3,Ads,Eco-Friendly,5,0.5,0,0,0.56,Low_Interest
+800,2,3,8,7,3,28,3,2,Ads,Eco-Friendly,3,0.53,1,0,0.4,Low_Interest
+801,9,5,5,5,5,4,4,1,Social Media,Non-Eco-Friendly,4,0.53,1,1,0.57,Eco_Conscious
+802,6,10,10,2,4,12,2,1,Ads,Eco-Friendly,2,0.66,1,1,0.58,Eco_Conscious
+803,3,4,7,2,2,6,5,2,Ads,Non-Eco-Friendly,4,0.4,0,0,0.4,Low_Interest
+805,9,5,8,8,3,6,4,4,Social Media,Eco-Friendly,2,0.64,1,1,0.58,Eco_Conscious
+806,3,10,10,1,1,4,0,3,Organic Search,Non-Eco-Friendly,1,0.53,1,1,0.58,Eco_Conscious
+807,2,8,10,6,10,10,6,3,Ads,Eco-Friendly,5,0.67,1,1,0.51,Eco_Conscious
+808,7,9,4,2,8,3,2,3,Organic Search,Non-Eco-Friendly,4,0.55,1,1,0.54,Eco_Conscious
+809,7,4,2,2,5,15,2,4,Organic Search,Non-Eco-Friendly,2,0.45,0,0,0.5,Low_Interest
+810,4,7,3,7,4,10,1,1,Email,Eco-Friendly,5,0.46,0,0,0.46,Low_Interest
+812,8,6,7,1,5,8,1,3,Organic Search,Non-Eco-Friendly,1,0.55,1,1,0.58,Eco_Conscious
+814,1,7,6,7,3,11,3,4,Ads,Non-Eco-Friendly,1,0.49,0,0,0.51,Low_Interest
+815,5,7,9,8,5,4,2,1,Ads,Eco-Friendly,4,0.59,1,1,0.58,Eco_Conscious
+816,6,8,4,7,4,8,3,1,Ads,Eco-Friendly,4,0.54,1,1,0.46,Eco_Conscious
+820,6,10,9,6,10,17,2,1,Organic Search,Eco-Friendly,2,0.76,1,1,0.63,Eco_Conscious
+821,4,3,7,4,8,7,4,3,Email,Eco-Friendly,2,0.48,0,0,0.48,Low_Interest
+822,7,5,7,2,7,16,2,1,Ads,Non-Eco-Friendly,3,0.57,1,1,0.61,Eco_Conscious
+823,8,7,1,1,2,15,5,2,Organic Search,Eco-Friendly,3,0.47,0,0,0.54,Low_Interest
+824,9,9,6,1,1,4,4,1,Ads,Non-Eco-Friendly,4,0.55,1,1,0.54,Eco_Conscious
+826,6,4,6,3,5,23,3,2,Social Media,Eco-Friendly,2,0.55,1,1,0.48,Eco_Conscious
+827,8,7,6,4,10,19,1,2,Social Media,Non-Eco-Friendly,4,0.68,1,1,0.65,Eco_Conscious
+829,3,2,6,1,3,11,2,2,Organic Search,Non-Eco-Friendly,3,0.35,0,0,0.4,Low_Interest
+831,6,10,9,7,5,12,1,2,Email,Eco-Friendly,5,0.71,1,1,0.58,Eco_Conscious
+832,2,7,1,10,3,6,4,4,Organic Search,Non-Eco-Friendly,5,0.42,0,0,0.4,Low_Interest
+833,6,10,8,6,9,0,1,1,Ads,Non-Eco-Friendly,4,0.64,1,1,0.63,Eco_Conscious
+834,6,7,5,6,1,3,3,1,Ads,Non-Eco-Friendly,4,0.47,0,1,0.46,Eco_Conscious
+835,8,6,1,9,4,10,5,2,Email,Non-Eco-Friendly,5,0.53,1,1,0.48,Eco_Conscious
+836,7,3,4,2,10,4,4,2,Ads,Eco-Friendly,3,0.46,0,1,0.45,Eco_Conscious
+837,8,10,1,4,10,10,5,3,Social Media,Non-Eco-Friendly,5,0.62,1,1,0.58,Eco_Conscious
+838,9,3,6,5,4,5,4,2,Social Media,Non-Eco-Friendly,5,0.51,1,1,0.58,Eco_Conscious
+840,3,6,5,8,2,14,2,3,Email,Eco-Friendly,4,0.49,0,0,0.46,Low_Interest
+841,10,4,7,8,1,11,0,5,Ads,Eco-Friendly,4,0.62,1,1,0.58,Eco_Conscious
+844,5,6,6,8,7,12,6,1,Social Media,Non-Eco-Friendly,5,0.59,1,1,0.63,Eco_Conscious
+845,4,3,5,3,5,17,1,4,Social Media,Non-Eco-Friendly,3,0.45,0,0,0.37,Low_Interest
+846,9,8,5,3,9,8,0,3,Organic Search,Eco-Friendly,4,0.63,1,1,0.65,Eco_Conscious
+847,9,9,3,2,7,8,4,2,Email,Eco-Friendly,1,0.59,1,1,0.54,Eco_Conscious
+848,5,4,10,5,4,3,4,3,Ads,Non-Eco-Friendly,4,0.54,1,1,0.48,Eco_Conscious
+850,4,7,2,3,5,15,3,1,Social Media,Non-Eco-Friendly,3,0.44,0,0,0.46,Low_Interest
+851,7,3,7,6,5,16,1,1,Email,Non-Eco-Friendly,4,0.55,1,1,0.58,Eco_Conscious
+852,6,7,1,8,10,15,5,3,Organic Search,Eco-Friendly,2,0.59,1,0,0.55,Low_Interest
+853,4,1,6,2,9,1,2,4,Ads,Eco-Friendly,5,0.39,0,0,0.48,Low_Interest
+854,10,3,6,4,10,15,4,5,Email,Eco-Friendly,5,0.67,1,1,0.69,Eco_Conscious
+855,2,6,3,7,3,1,1,3,Ads,Eco-Friendly,3,0.36,0,0,0.4,Low_Interest
+856,1,4,2,1,6,14,4,2,Ads,Non-Eco-Friendly,4,0.32,0,0,0.37,Low_Interest
+857,4,7,2,1,8,8,6,0,Social Media,Eco-Friendly,2,0.42,0,0,0.48,Low_Interest
+858,4,3,9,10,9,14,1,3,Email,Non-Eco-Friendly,1,0.61,1,0,0.56,Low_Interest
+859,1,1,5,7,7,3,3,3,Ads,Eco-Friendly,5,0.34,0,0,0.3,Low_Interest
+860,6,9,7,7,3,16,2,3,Social Media,Eco-Friendly,2,0.66,1,1,0.58,Eco_Conscious
+862,1,8,7,1,4,7,4,2,Organic Search,Eco-Friendly,4,0.44,0,0,0.51,Low_Interest
+863,1,3,4,4,6,5,5,3,Email,Eco-Friendly,5,0.34,0,0,0.3,Low_Interest
+864,1,8,8,5,3,1,1,1,Ads,Eco-Friendly,1,0.44,0,1,0.51,Eco_Conscious
+865,8,2,10,5,1,10,2,4,Email,Eco-Friendly,4,0.56,1,1,0.52,Eco_Conscious
+866,10,4,10,4,6,19,4,2,Ads,Non-Eco-Friendly,3,0.72,1,1,0.69,Eco_Conscious
+867,8,3,7,8,1,23,4,2,Social Media,Eco-Friendly,2,0.61,1,1,0.58,Eco_Conscious
+869,7,1,5,9,1,16,6,1,Organic Search,Eco-Friendly,4,0.48,0,0,0.45,Low_Interest
+871,8,10,5,10,1,12,4,1,Organic Search,Non-Eco-Friendly,5,0.66,1,1,0.65,Eco_Conscious
+875,1,6,10,7,7,7,1,2,Social Media,Non-Eco-Friendly,5,0.54,1,0,0.51,Low_Interest
+876,9,8,3,10,1,10,2,3,Organic Search,Eco-Friendly,4,0.6,1,1,0.65,Eco_Conscious
+877,7,2,9,8,1,10,1,3,Ads,Eco-Friendly,1,0.53,1,1,0.52,Eco_Conscious
+878,2,7,6,9,5,14,8,5,Email,Non-Eco-Friendly,1,0.6,1,0,0.51,Low_Interest
+879,6,6,10,3,6,5,2,1,Ads,Non-Eco-Friendly,4,0.57,1,1,0.58,Eco_Conscious
+880,2,9,3,4,9,10,2,0,Email,Non-Eco-Friendly,1,0.47,0,1,0.48,Eco_Conscious
+881,1,7,7,4,1,20,6,0,Ads,Eco-Friendly,3,0.48,0,0,0.51,Low_Interest
+882,7,1,4,9,4,16,2,4,Ads,Eco-Friendly,4,0.5,0,1,0.5,Eco_Conscious
+883,2,8,3,7,10,17,2,0,Organic Search,Eco-Friendly,3,0.52,1,0,0.48,Low_Interest
+884,2,10,8,3,8,10,0,1,Email,Non-Eco-Friendly,4,0.57,1,1,0.59,Eco_Conscious
+885,5,3,4,10,10,12,1,1,Social Media,Eco-Friendly,3,0.51,1,1,0.45,Eco_Conscious
+886,5,2,1,5,9,15,1,2,Ads,Eco-Friendly,3,0.4,0,0,0.45,Low_Interest
+887,7,3,6,7,3,18,4,1,Social Media,Non-Eco-Friendly,1,0.54,1,1,0.58,Eco_Conscious
+890,3,10,5,2,2,17,3,2,Ads,Non-Eco-Friendly,1,0.52,1,0,0.46,Low_Interest
+891,4,5,7,7,1,9,3,3,Ads,Eco-Friendly,3,0.49,0,0,0.58,Low_Interest
+892,9,6,6,2,3,7,5,2,Ads,Eco-Friendly,3,0.55,1,1,0.58,Eco_Conscious
+895,5,8,2,2,2,3,5,2,Email,Eco-Friendly,3,0.4,0,0,0.46,Low_Interest
+896,7,3,1,7,1,20,4,4,Ads,Non-Eco-Friendly,5,0.46,0,0,0.5,Low_Interest
+897,4,4,3,4,8,10,1,1,Ads,Non-Eco-Friendly,2,0.4,0,0,0.37,Low_Interest
+898,1,6,3,2,5,10,4,1,Organic Search,Non-Eco-Friendly,1,0.35,0,0,0.4,Low_Interest
+899,9,7,7,7,8,13,3,1,Organic Search,Non-Eco-Friendly,4,0.7,1,1,0.72,Eco_Warrior
+901,9,1,9,1,7,15,3,4,Email,Non-Eco-Friendly,5,0.59,1,1,0.61,Eco_Conscious
+902,6,8,6,5,8,15,2,1,Email,Eco-Friendly,2,0.63,1,1,0.63,Eco_Conscious
+903,1,8,4,3,6,7,3,2,Ads,Eco-Friendly,4,0.42,0,0,0.48,Low_Interest
+905,2,4,3,6,2,14,1,0,Email,Eco-Friendly,4,0.33,0,0,0.37,Low_Interest
+906,9,3,2,8,8,7,2,3,Ads,Non-Eco-Friendly,1,0.52,1,1,0.5,Eco_Conscious
+907,1,3,2,5,5,10,4,3,Organic Search,Non-Eco-Friendly,5,0.32,0,0,0.37,Low_Interest
+908,9,6,10,2,7,12,2,3,Ads,Eco-Friendly,1,0.69,1,1,0.61,Eco_Conscious
+910,8,7,9,8,5,1,4,2,Ads,Eco-Friendly,5,0.66,1,1,0.67,Eco_Conscious
+911,8,1,2,6,1,14,2,2,Social Media,Non-Eco-Friendly,2,0.39,0,0,0.45,Low_Interest
+912,1,6,2,10,8,9,3,1,Social Media,Non-Eco-Friendly,3,0.43,0,0,0.48,Low_Interest
+913,8,7,6,7,4,14,4,3,Email,Eco-Friendly,2,0.65,1,1,0.65,Eco_Conscious
+914,10,7,10,9,4,14,5,3,Ads,Eco-Friendly,3,0.79,1,1,0.75,Eco_Warrior
+915,3,9,2,7,2,18,3,2,Social Media,Eco-Friendly,2,0.5,0,0,0.46,Low_Interest
+917,1,5,6,6,1,17,5,2,Organic Search,Eco-Friendly,1,0.44,0,0,0.51,Low_Interest
+918,1,1,5,7,9,17,4,5,Email,Non-Eco-Friendly,3,0.46,0,0,0.37,Low_Interest
+919,10,2,1,2,5,11,1,3,Organic Search,Non-Eco-Friendly,4,0.42,0,0,0.5,Low_Interest
+920,5,4,6,3,6,10,5,2,Organic Search,Non-Eco-Friendly,1,0.49,0,1,0.48,Eco_Conscious
+921,5,5,1,4,2,14,2,3,Social Media,Eco-Friendly,1,0.39,0,0,0.46,Low_Interest
+922,8,9,3,10,10,14,3,4,Ads,Non-Eco-Friendly,5,0.72,1,1,0.65,Eco_Conscious
+924,8,3,5,1,1,12,10,1,Email,Eco-Friendly,5,0.46,0,1,0.45,Eco_Conscious
+925,6,5,10,9,4,10,4,0,Email,Eco-Friendly,3,0.62,1,1,0.58,Eco_Conscious
+926,6,3,5,5,7,6,3,7,Ads,Eco-Friendly,3,0.51,1,1,0.45,Eco_Conscious
+928,6,3,6,9,10,10,5,4,Organic Search,Non-Eco-Friendly,3,0.61,1,1,0.56,Eco_Conscious
+929,5,4,10,9,1,20,3,0,Ads,Eco-Friendly,1,0.6,1,1,0.56,Eco_Conscious
+930,3,1,8,1,1,2,1,1,Email,Non-Eco-Friendly,4,0.28,0,0,0.4,Low_Interest
+931,6,8,5,1,8,7,2,2,Email,Eco-Friendly,2,0.54,1,1,0.55,Eco_Conscious
+932,8,4,1,3,4,10,3,1,Organic Search,Eco-Friendly,1,0.41,0,0,0.45,Low_Interest
+933,9,7,5,6,5,16,2,0,Organic Search,Non-Eco-Friendly,1,0.62,1,1,0.65,Eco_Conscious
+934,1,2,3,2,7,12,4,1,Organic Search,Non-Eco-Friendly,4,0.3,0,0,0.37,Low_Interest
+935,3,2,4,10,8,12,5,1,Organic Search,Non-Eco-Friendly,5,0.45,0,0,0.37,Low_Interest
+937,8,2,7,1,7,4,2,2,Ads,Eco-Friendly,5,0.47,0,1,0.61,Eco_Conscious
+938,1,6,5,5,2,12,3,3,Ads,Eco-Friendly,1,0.41,0,0,0.4,Low_Interest
+939,5,2,2,4,4,3,4,2,Social Media,Non-Eco-Friendly,1,0.32,0,0,0.37,Low_Interest
+940,3,4,6,1,10,7,2,8,Organic Search,Non-Eco-Friendly,3,0.5,0,1,0.47,Eco_Conscious
+941,2,7,6,4,1,12,0,1,Organic Search,Non-Eco-Friendly,3,0.42,0,0,0.51,Low_Interest
+942,8,8,10,3,10,5,2,1,Ads,Eco-Friendly,2,0.7,1,1,0.72,Eco_Warrior
+944,7,9,6,9,3,16,4,2,Email,Non-Eco-Friendly,3,0.68,1,1,0.65,Eco_Conscious
+945,1,2,9,1,3,2,1,1,Organic Search,Eco-Friendly,1,0.31,0,0,0.4,Low_Interest
+947,3,8,8,4,9,0,1,2,Ads,Eco-Friendly,3,0.54,1,1,0.63,Eco_Conscious
+948,8,4,1,5,10,6,4,3,Organic Search,Eco-Friendly,1,0.49,0,0,0.5,Low_Interest
+949,6,1,5,10,3,14,1,3,Email,Non-Eco-Friendly,3,0.47,0,0,0.45,Low_Interest
+951,6,2,6,1,2,12,4,1,Organic Search,Non-Eco-Friendly,3,0.4,0,0,0.48,Low_Interest
+952,7,9,5,6,3,2,3,4,Ads,Non-Eco-Friendly,5,0.58,1,1,0.65,Eco_Conscious
+953,5,2,8,9,2,14,9,3,Ads,Eco-Friendly,1,0.55,1,1,0.56,Eco_Conscious
+954,3,2,3,2,1,7,1,2,Email,Non-Eco-Friendly,5,0.25,0,0,0.3,Low_Interest
+955,4,6,6,7,2,10,0,3,Ads,Non-Eco-Friendly,3,0.49,0,0,0.58,Low_Interest
+956,4,7,5,6,8,10,1,3,Email,Non-Eco-Friendly,5,0.54,1,1,0.48,Eco_Conscious
+957,6,7,8,5,9,4,2,1,Organic Search,Non-Eco-Friendly,4,0.6,1,1,0.63,Eco_Conscious
+958,10,9,4,4,2,4,1,3,Email,Non-Eco-Friendly,5,0.58,1,1,0.65,Eco_Conscious
+960,4,8,10,6,5,12,5,1,Ads,Non-Eco-Friendly,2,0.64,1,1,0.58,Eco_Conscious
+961,10,6,2,4,3,15,5,3,Social Media,Eco-Friendly,4,0.56,1,0,0.48,Low_Interest
+962,4,2,9,5,9,12,7,0,Social Media,Eco-Friendly,1,0.53,1,0,0.48,Low_Interest
+964,1,5,10,5,1,1,4,3,Email,Eco-Friendly,4,0.44,0,0,0.51,Low_Interest
+965,9,9,10,7,5,9,6,4,Social Media,Eco-Friendly,1,0.79,1,1,0.75,Eco_Warrior
+967,7,4,4,10,4,20,7,3,Ads,Non-Eco-Friendly,2,0.6,1,1,0.5,Eco_Conscious
+968,3,5,4,7,8,13,3,0,Organic Search,Eco-Friendly,1,0.47,0,0,0.48,Low_Interest
+969,10,5,6,7,10,18,4,1,Social Media,Non-Eco-Friendly,1,0.71,1,1,0.69,Eco_Conscious
+970,3,6,5,4,5,13,2,1,Email,Eco-Friendly,5,0.45,0,0,0.46,Low_Interest
+972,8,5,7,8,9,11,2,2,Ads,Eco-Friendly,1,0.65,1,1,0.61,Eco_Conscious
+973,1,2,7,4,9,11,2,0,Social Media,Non-Eco-Friendly,1,0.4,0,0,0.47,Low_Interest
+974,10,10,9,1,1,5,5,2,Ads,Eco-Friendly,2,0.67,1,1,0.67,Eco_Conscious
+976,8,1,6,8,3,9,3,4,Ads,Non-Eco-Friendly,2,0.51,1,1,0.52,Eco_Conscious
+978,8,7,5,8,10,0,1,5,Ads,Eco-Friendly,1,0.64,1,1,0.65,Eco_Conscious
+979,8,2,1,8,9,16,1,2,Ads,Eco-Friendly,2,0.5,0,0,0.45,Low_Interest
+980,2,4,9,3,10,5,3,4,Ads,Non-Eco-Friendly,2,0.51,1,1,0.47,Eco_Conscious
+981,4,5,9,9,6,3,3,3,Ads,Eco-Friendly,4,0.57,1,0,0.58,Low_Interest
+982,6,7,9,3,1,16,3,5,Ads,Eco-Friendly,4,0.62,1,1,0.58,Eco_Conscious
+984,8,6,10,2,6,16,1,1,Ads,Non-Eco-Friendly,5,0.66,1,1,0.61,Eco_Conscious
+985,8,1,3,6,4,14,3,2,Ads,Eco-Friendly,3,0.45,0,0,0.45,Low_Interest
+986,7,7,1,10,4,20,3,2,Organic Search,Eco-Friendly,4,0.58,1,1,0.58,Eco_Conscious
+987,9,9,8,2,3,13,0,1,Ads,Eco-Friendly,4,0.64,1,1,0.67,Eco_Conscious
+989,3,5,5,1,3,12,1,6,Email,Non-Eco-Friendly,1,0.42,0,0,0.46,Low_Interest
+990,10,4,10,1,2,16,3,5,Ads,Non-Eco-Friendly,2,0.66,1,1,0.58,Eco_Conscious
+991,8,3,7,5,10,6,2,0,Email,Non-Eco-Friendly,1,0.55,1,1,0.61,Eco_Conscious
+992,6,9,10,10,8,7,1,2,Social Media,Eco-Friendly,1,0.74,1,1,0.63,Eco_Conscious
+993,10,5,4,9,4,8,3,0,Ads,Non-Eco-Friendly,3,0.57,1,1,0.57,Eco_Conscious
+994,9,8,9,8,8,0,3,3,Organic Search,Non-Eco-Friendly,5,0.72,1,1,0.8,Eco_Warrior
+995,10,9,10,3,1,11,4,1,Email,Eco-Friendly,2,0.7,1,1,0.67,Eco_Conscious
+996,4,5,2,3,5,1,1,4,Social Media,Eco-Friendly,3,0.35,0,0,0.46,Low_Interest
+998,10,9,9,3,1,14,7,3,Email,Eco-Friendly,5,0.74,1,1,0.75,Eco_Warrior
+999,3,2,5,1,4,8,1,0,Social Media,Eco-Friendly,2,0.29,0,0,0.3,Low_Interest
+1000,3,9,1,8,6,18,5,2,Organic Search,Eco-Friendly,1,0.54,1,0,0.48,Low_Interest
+1001,8,4,7,1,10,3,0,2,Ads,Non-Eco-Friendly,5,0.52,1,1,0.61,Eco_Conscious
+1002,5,6,10,5,8,16,7,1,Organic Search,Eco-Friendly,3,0.67,1,1,0.63,Eco_Conscious
+1004,10,6,4,7,5,1,1,1,Organic Search,Non-Eco-Friendly,4,0.54,1,1,0.57,Eco_Conscious
+1005,1,2,9,4,7,24,4,1,Email,Non-Eco-Friendly,3,0.5,0,0,0.47,Low_Interest
+1007,9,6,3,9,7,6,2,3,Ads,Non-Eco-Friendly,1,0.59,1,1,0.57,Eco_Conscious
+1008,5,1,6,2,8,3,1,2,Email,Non-Eco-Friendly,3,0.38,0,0,0.48,Low_Interest
+1009,10,2,10,10,8,9,2,0,Organic Search,Eco-Friendly,5,0.67,1,1,0.69,Eco_Conscious
+1010,2,7,6,10,9,9,6,6,Ads,Eco-Friendly,4,0.63,1,1,0.51,Eco_Conscious
+1011,7,1,5,6,6,11,1,2,Organic Search,Non-Eco-Friendly,3,0.46,0,0,0.45,Low_Interest
+1012,2,1,2,4,6,9,4,1,Ads,Non-Eco-Friendly,1,0.27,0,0,0.3,Low_Interest
+1013,4,1,10,8,2,13,4,1,Email,Non-Eco-Friendly,5,0.5,0,0,0.56,Low_Interest
+1014,7,8,10,7,3,8,2,4,Social Media,Non-Eco-Friendly,5,0.69,1,1,0.75,Eco_Warrior
+1016,7,4,7,10,4,9,0,2,Ads,Non-Eco-Friendly,3,0.57,1,1,0.58,Eco_Conscious
+1017,7,2,2,9,8,0,2,5,Ads,Non-Eco-Friendly,2,0.45,0,0,0.5,Low_Interest
+1018,1,1,6,5,1,12,4,1,Ads,Eco-Friendly,3,0.31,0,0,0.4,Low_Interest
+1019,6,10,5,6,10,5,4,0,Email,Eco-Friendly,4,0.63,1,1,0.55,Eco_Conscious
+1021,2,7,7,6,4,17,5,7,Social Media,Non-Eco-Friendly,3,0.6,1,0,0.51,Low_Interest
+1022,3,4,8,2,1,5,5,3,Email,Non-Eco-Friendly,4,0.41,0,0,0.4,Low_Interest
+1023,10,6,4,6,3,15,2,2,Organic Search,Eco-Friendly,2,0.6,1,1,0.57,Eco_Conscious
+1024,5,2,1,9,5,8,2,1,Email,Non-Eco-Friendly,2,0.36,0,0,0.45,Low_Interest
+1025,9,7,1,8,6,19,4,2,Ads,Non-Eco-Friendly,5,0.61,1,1,0.58,Eco_Conscious
+1026,4,2,1,9,9,8,1,1,Organic Search,Eco-Friendly,4,0.38,0,0,0.45,Low_Interest
+1027,1,10,1,10,9,6,4,1,Email,Eco-Friendly,3,0.49,0,1,0.48,Eco_Conscious
+1028,4,8,5,8,9,13,5,3,Organic Search,Eco-Friendly,5,0.63,1,1,0.48,Eco_Conscious
+1029,6,8,4,3,1,8,3,3,Organic Search,Non-Eco-Friendly,2,0.48,0,1,0.46,Eco_Conscious
+1031,1,8,3,6,8,8,4,3,Organic Search,Non-Eco-Friendly,1,0.47,0,0,0.48,Low_Interest
+1032,4,2,7,6,2,10,1,1,Ads,Non-Eco-Friendly,4,0.4,0,0,0.48,Low_Interest
+1033,6,6,8,6,1,17,3,4,Ads,Non-Eco-Friendly,3,0.61,1,1,0.58,Eco_Conscious
+1034,10,1,6,3,1,0,4,3,Email,Eco-Friendly,2,0.43,0,0,0.52,Low_Interest
+1035,10,5,10,10,6,10,3,2,Email,Eco-Friendly,5,0.75,1,1,0.69,Eco_Conscious
+1036,4,7,1,1,9,13,1,7,Ads,Eco-Friendly,3,0.48,0,0,0.48,Low_Interest
+1037,9,10,8,4,7,11,4,1,Email,Non-Eco-Friendly,4,0.73,1,1,0.72,Eco_Warrior
+1038,5,1,10,10,5,17,2,0,Ads,Eco-Friendly,3,0.56,1,1,0.56,Eco_Conscious
+1039,8,2,3,6,2,10,4,1,Organic Search,Eco-Friendly,4,0.42,0,0,0.45,Low_Interest
+1040,9,7,8,10,1,9,1,2,Email,Non-Eco-Friendly,4,0.66,1,1,0.67,Eco_Conscious
+1041,10,6,4,2,2,13,4,5,Social Media,Non-Eco-Friendly,4,0.57,1,1,0.57,Eco_Conscious
+1043,6,10,1,7,3,8,4,2,Ads,Eco-Friendly,4,0.52,1,0,0.46,Low_Interest
+1044,1,2,3,4,6,13,2,1,Organic Search,Non-Eco-Friendly,3,0.3,0,0,0.37,Low_Interest
+1045,7,10,6,4,8,7,7,2,Social Media,Non-Eco-Friendly,1,0.67,1,1,0.65,Eco_Conscious
+1046,4,4,9,1,3,7,3,1,Social Media,Non-Eco-Friendly,3,0.44,0,0,0.48,Low_Interest
+1048,5,7,1,9,9,17,2,1,Ads,Eco-Friendly,4,0.54,1,0,0.55,Low_Interest
+1049,3,8,10,10,10,0,3,4,Ads,Non-Eco-Friendly,1,0.68,1,1,0.63,Eco_Conscious
+1050,6,2,3,8,5,12,2,0,Social Media,Eco-Friendly,5,0.42,0,0,0.45,Low_Interest
+1051,8,10,4,8,7,10,0,2,Email,Eco-Friendly,2,0.66,1,1,0.65,Eco_Conscious
+1053,3,8,3,7,3,12,4,1,Organic Search,Non-Eco-Friendly,2,0.47,0,0,0.46,Low_Interest
+1055,2,6,2,10,2,13,2,3,Social Media,Non-Eco-Friendly,3,0.42,0,0,0.4,Low_Interest
+1057,9,1,7,6,1,17,3,3,Email,Non-Eco-Friendly,1,0.54,1,1,0.52,Eco_Conscious
+1058,4,4,9,3,2,6,9,5,Social Media,Non-Eco-Friendly,1,0.52,1,0,0.48,Low_Interest
+1059,1,1,10,6,9,13,3,1,Social Media,Eco-Friendly,2,0.48,0,0,0.47,Low_Interest
+1060,8,4,2,3,7,14,5,2,Ads,Eco-Friendly,3,0.49,0,0,0.45,Low_Interest
+1061,7,2,7,8,6,6,7,2,Social Media,Non-Eco-Friendly,1,0.54,1,1,0.61,Eco_Conscious
+1062,5,5,7,4,9,13,4,2,Organic Search,Non-Eco-Friendly,3,0.58,1,1,0.63,Eco_Conscious
+1063,10,10,7,10,7,8,4,3,Ads,Eco-Friendly,4,0.8,1,1,0.8,Eco_Warrior
+1064,5,9,3,6,5,0,1,2,Email,Non-Eco-Friendly,1,0.48,0,0,0.46,Low_Interest
+1065,7,10,7,9,9,16,2,2,Ads,Non-Eco-Friendly,1,0.77,1,1,0.8,Eco_Warrior
+1066,5,3,1,2,6,6,3,5,Email,Eco-Friendly,1,0.36,0,0,0.37,Low_Interest
+1067,8,8,10,2,6,6,4,2,Email,Eco-Friendly,4,0.67,1,1,0.67,Eco_Conscious
+1069,5,6,5,2,1,11,2,3,Social Media,Eco-Friendly,2,0.45,0,1,0.46,Eco_Conscious
+1070,9,4,2,2,5,10,0,1,Organic Search,Non-Eco-Friendly,5,0.43,0,0,0.45,Low_Interest
+1071,2,8,9,4,9,13,2,3,Ads,Eco-Friendly,3,0.61,1,1,0.51,Eco_Conscious
+1073,8,8,4,8,8,6,2,2,Ads,Eco-Friendly,1,0.62,1,1,0.65,Eco_Conscious
+1074,3,1,4,2,5,9,4,2,Email,Eco-Friendly,1,0.32,0,0,0.3,Low_Interest
+1076,10,1,5,4,3,9,4,2,Email,Non-Eco-Friendly,5,0.48,0,0,0.45,Low_Interest
+1079,10,7,8,7,9,8,3,0,Social Media,Eco-Friendly,2,0.71,1,1,0.72,Eco_Warrior
+1080,9,3,3,6,6,9,6,1,Organic Search,Eco-Friendly,5,0.5,1,1,0.45,Eco_Conscious
+1081,7,6,6,10,2,9,4,1,Social Media,Non-Eco-Friendly,3,0.58,1,1,0.58,Eco_Conscious
+1082,10,9,4,5,8,13,2,0,Ads,Non-Eco-Friendly,2,0.67,1,1,0.65,Eco_Conscious
+1083,5,7,9,1,9,17,6,2,Ads,Non-Eco-Friendly,5,0.65,1,1,0.63,Eco_Conscious
+1085,2,6,9,8,2,16,2,3,Email,Eco-Friendly,4,0.56,1,0,0.51,Low_Interest
+1086,7,4,10,1,2,5,5,0,Ads,Non-Eco-Friendly,4,0.5,1,1,0.58,Eco_Conscious
+1087,4,3,3,3,7,8,4,1,Organic Search,Non-Eco-Friendly,2,0.37,0,0,0.37,Low_Interest
+1088,9,9,1,2,4,6,2,3,Social Media,Eco-Friendly,4,0.51,1,1,0.54,Eco_Conscious
+1090,7,2,3,4,8,8,2,2,Organic Search,Non-Eco-Friendly,2,0.43,0,0,0.45,Low_Interest
+1091,6,1,6,7,2,14,1,1,Social Media,Non-Eco-Friendly,1,0.43,0,0,0.48,Low_Interest
+1092,8,2,8,5,3,5,3,1,Email,Eco-Friendly,1,0.49,0,1,0.52,Eco_Conscious
+1093,5,7,4,8,5,10,2,0,Organic Search,Eco-Friendly,2,0.51,1,1,0.46,Eco_Conscious
+1094,1,10,5,4,3,13,3,3,Organic Search,Eco-Friendly,4,0.5,1,0,0.4,Low_Interest
+1095,1,1,5,6,7,0,5,2,Ads,Eco-Friendly,4,0.32,0,0,0.3,Low_Interest
+1096,9,6,4,4,7,21,3,2,Social Media,Non-Eco-Friendly,1,0.63,1,1,0.57,Eco_Conscious
+1098,6,9,4,1,7,0,0,1,Email,Eco-Friendly,4,0.47,0,1,0.55,Eco_Conscious
+1100,5,6,4,8,10,10,2,3,Social Media,Eco-Friendly,4,0.57,1,1,0.55,Eco_Conscious
+1101,1,3,5,4,9,10,5,3,Social Media,Non-Eco-Friendly,2,0.41,0,0,0.37,Low_Interest
+1102,6,8,2,5,9,15,1,3,Social Media,Non-Eco-Friendly,5,0.57,1,0,0.55,Low_Interest
+1103,6,7,2,8,2,14,1,1,Ads,Eco-Friendly,1,0.48,0,0,0.46,Low_Interest
+1105,8,9,2,8,5,12,2,3,Social Media,Eco-Friendly,4,0.61,1,1,0.65,Eco_Conscious
+1108,6,2,5,10,7,3,2,3,Email,Eco-Friendly,5,0.48,0,0,0.45,Low_Interest
+1109,10,1,4,2,6,11,1,2,Organic Search,Eco-Friendly,4,0.46,0,0,0.45,Low_Interest
+1111,6,5,7,1,1,14,4,1,Social Media,Non-Eco-Friendly,4,0.48,0,1,0.58,Eco_Conscious
+1112,1,6,6,1,9,6,2,3,Email,Eco-Friendly,5,0.43,0,0,0.51,Low_Interest
+1113,6,5,10,3,4,1,3,3,Ads,Non-Eco-Friendly,2,0.54,1,1,0.58,Eco_Conscious
+1115,8,3,1,5,8,11,4,1,Email,Non-Eco-Friendly,3,0.46,0,0,0.45,Low_Interest
+1116,6,1,3,1,2,17,6,1,Organic Search,Eco-Friendly,5,0.36,0,0,0.37,Low_Interest
+1117,1,5,9,10,5,4,3,1,Organic Search,Eco-Friendly,5,0.49,0,0,0.51,Low_Interest
+1118,5,5,1,6,6,16,4,3,Social Media,Non-Eco-Friendly,4,0.47,0,0,0.55,Low_Interest
+1119,8,6,5,7,8,22,1,2,Ads,Eco-Friendly,3,0.66,1,1,0.57,Eco_Conscious
+1120,3,8,2,10,1,8,4,2,Social Media,Non-Eco-Friendly,3,0.45,0,0,0.46,Low_Interest
+1121,6,10,4,3,1,4,5,0,Ads,Non-Eco-Friendly,1,0.48,0,1,0.46,Eco_Conscious
+1122,5,1,1,4,4,8,0,1,Ads,Non-Eco-Friendly,4,0.27,0,0,0.37,Low_Interest
+1123,6,4,3,10,5,10,1,5,Organic Search,Eco-Friendly,2,0.52,1,0,0.45,Low_Interest
+1124,10,10,10,10,9,13,5,0,Email,Non-Eco-Friendly,1,0.88,1,1,0.8,Eco_Warrior
+1125,1,1,7,10,7,7,5,2,Email,Eco-Friendly,3,0.43,0,0,0.47,Low_Interest
+1126,7,9,10,10,7,18,5,5,Organic Search,Non-Eco-Friendly,2,0.85,1,1,0.8,Eco_Warrior
+1127,9,7,3,10,8,4,3,1,Social Media,Eco-Friendly,5,0.61,1,1,0.65,Eco_Conscious
+1130,5,7,3,8,1,0,4,1,Email,Eco-Friendly,5,0.42,0,0,0.46,Low_Interest
+1131,10,2,9,10,9,9,2,0,Social Media,Eco-Friendly,3,0.66,1,1,0.69,Eco_Conscious
+1132,4,4,3,10,6,26,1,3,Ads,Eco-Friendly,2,0.54,1,0,0.45,Low_Interest
+1133,6,7,5,2,9,10,3,0,Ads,Eco-Friendly,1,0.53,1,1,0.55,Eco_Conscious
+1134,6,3,2,1,3,4,3,1,Email,Eco-Friendly,2,0.31,0,0,0.37,Low_Interest
+1135,2,2,4,8,5,10,5,2,Social Media,Eco-Friendly,4,0.38,0,0,0.37,Low_Interest
+1136,2,10,7,7,2,10,5,2,Social Media,Eco-Friendly,4,0.56,1,0,0.59,Low_Interest
+1137,4,2,7,7,10,11,4,0,Ads,Eco-Friendly,3,0.5,1,1,0.48,Eco_Conscious
+1138,1,1,3,4,5,13,2,3,Social Media,Eco-Friendly,2,0.3,0,0,0.37,Low_Interest
+1139,9,5,5,9,8,5,1,2,Organic Search,Non-Eco-Friendly,1,0.6,1,1,0.57,Eco_Conscious
+1140,7,6,1,6,2,18,4,0,Social Media,Non-Eco-Friendly,4,0.47,0,0,0.48,Low_Interest
+1141,7,6,10,2,8,11,2,3,Ads,Non-Eco-Friendly,1,0.66,1,1,0.61,Eco_Conscious
+1142,3,9,10,1,4,14,2,3,Organic Search,Non-Eco-Friendly,5,0.6,1,1,0.58,Eco_Conscious
+1143,3,4,10,1,10,7,3,2,Organic Search,Eco-Friendly,3,0.52,1,1,0.47,Eco_Conscious
+1144,1,1,1,9,10,16,1,4,Social Media,Non-Eco-Friendly,1,0.38,0,0,0.37,Low_Interest
+1145,3,6,5,4,1,9,3,1,Ads,Non-Eco-Friendly,3,0.4,0,0,0.46,Low_Interest
+1146,3,5,10,5,5,11,3,2,Ads,Non-Eco-Friendly,5,0.55,1,0,0.58,Low_Interest
+1147,4,10,9,3,1,5,10,3,Ads,Eco-Friendly,1,0.61,1,1,0.58,Eco_Conscious
+1148,4,6,1,4,7,5,2,2,Organic Search,Eco-Friendly,1,0.39,0,0,0.48,Low_Interest
+1149,3,3,1,8,8,13,2,4,Ads,Non-Eco-Friendly,5,0.42,0,0,0.37,Low_Interest
+1150,10,2,4,4,3,8,3,1,Organic Search,Non-Eco-Friendly,2,0.45,0,0,0.45,Low_Interest
+1151,8,6,4,9,3,6,9,1,Organic Search,Non-Eco-Friendly,1,0.56,1,1,0.57,Eco_Conscious
+1152,8,1,2,9,7,7,3,5,Email,Eco-Friendly,1,0.48,0,0,0.5,Low_Interest
+1153,1,7,9,6,4,13,2,3,Social Media,Non-Eco-Friendly,4,0.55,1,1,0.51,Eco_Conscious
+1155,2,10,2,10,8,9,2,5,Organic Search,Eco-Friendly,1,0.57,1,1,0.48,Eco_Conscious
+1156,1,7,9,7,3,10,2,4,Social Media,Non-Eco-Friendly,5,0.54,1,1,0.51,Eco_Conscious
+1157,3,10,6,9,7,0,2,4,Organic Search,Non-Eco-Friendly,3,0.59,1,1,0.63,Eco_Conscious
+1158,4,1,8,6,2,3,4,5,Social Media,Non-Eco-Friendly,5,0.42,0,0,0.48,Low_Interest
+1159,6,4,10,3,1,12,1,3,Organic Search,Non-Eco-Friendly,2,0.53,1,1,0.48,Eco_Conscious
+1160,10,7,4,7,6,6,0,3,Ads,Non-Eco-Friendly,4,0.61,1,1,0.65,Eco_Conscious
+1161,5,9,2,5,8,15,2,1,Email,Non-Eco-Friendly,4,0.55,1,1,0.55,Eco_Conscious
+1162,4,5,2,1,1,15,7,5,Email,Non-Eco-Friendly,4,0.4,0,0,0.46,Low_Interest
+1163,8,2,9,3,10,14,2,8,Email,Non-Eco-Friendly,5,0.67,1,1,0.61,Eco_Conscious
+1164,4,7,1,5,9,19,2,0,Organic Search,Eco-Friendly,3,0.49,0,0,0.48,Low_Interest
+1165,10,10,7,7,3,10,3,2,Social Media,Non-Eco-Friendly,3,0.72,1,1,0.67,Eco_Conscious
+1166,2,1,3,3,3,13,3,0,Ads,Non-Eco-Friendly,1,0.26,0,0,0.37,Low_Interest
+1167,3,7,3,6,4,7,2,0,Ads,Non-Eco-Friendly,3,0.41,0,0,0.46,Low_Interest
+1168,6,6,2,5,1,22,4,2,Organic Search,Eco-Friendly,3,0.49,0,0,0.46,Low_Interest
+1169,8,7,10,1,9,20,5,0,Email,Non-Eco-Friendly,1,0.72,1,1,0.72,Eco_Warrior
+1170,8,10,6,10,3,10,4,2,Organic Search,Eco-Friendly,5,0.7,1,1,0.65,Eco_Conscious
+1171,9,3,10,6,10,12,2,2,Social Media,Non-Eco-Friendly,5,0.69,1,1,0.61,Eco_Conscious
+1172,7,3,2,8,4,17,5,3,Email,Eco-Friendly,2,0.5,0,0,0.5,Low_Interest
+1173,2,7,10,1,1,9,2,1,Organic Search,Eco-Friendly,5,0.47,0,1,0.51,Eco_Conscious
+1174,8,2,4,2,4,7,2,1,Social Media,Eco-Friendly,4,0.39,0,0,0.45,Low_Interest
+1175,7,1,10,4,1,14,4,0,Email,Non-Eco-Friendly,4,0.5,1,1,0.52,Eco_Conscious
+1176,8,9,9,2,5,10,4,4,Ads,Non-Eco-Friendly,2,0.7,1,1,0.75,Eco_Warrior
+1177,3,9,9,9,5,11,2,1,Social Media,Eco-Friendly,3,0.63,1,1,0.58,Eco_Conscious
+1178,7,7,6,10,7,6,6,1,Ads,Non-Eco-Friendly,2,0.64,1,1,0.65,Eco_Conscious
+1179,10,7,4,8,8,1,3,2,Social Media,Eco-Friendly,1,0.62,1,1,0.65,Eco_Conscious
+1180,9,3,7,8,4,11,7,0,Email,Non-Eco-Friendly,2,0.59,1,1,0.58,Eco_Conscious
+1181,3,10,1,4,7,15,1,2,Organic Search,Non-Eco-Friendly,2,0.49,0,0,0.48,Low_Interest
+1182,10,2,4,5,4,9,1,2,Organic Search,Eco-Friendly,4,0.48,0,0,0.45,Low_Interest
+1183,6,7,5,4,3,17,2,2,Organic Search,Eco-Friendly,1,0.55,1,1,0.46,Eco_Conscious
+1184,2,9,8,9,6,6,0,0,Organic Search,Non-Eco-Friendly,1,0.56,1,1,0.59,Eco_Conscious
+1185,2,1,2,2,4,5,4,4,Social Media,Eco-Friendly,2,0.24,0,0,0.3,Low_Interest
+1186,5,4,5,8,3,10,5,5,Organic Search,Eco-Friendly,1,0.51,1,1,0.45,Eco_Conscious
+1187,5,6,6,2,9,10,2,2,Organic Search,Non-Eco-Friendly,1,0.53,1,1,0.63,Eco_Conscious
+1188,7,7,5,1,5,14,1,1,Social Media,Eco-Friendly,5,0.52,1,1,0.54,Eco_Conscious
+1189,2,10,9,10,7,6,2,1,Social Media,Non-Eco-Friendly,1,0.64,1,1,0.59,Eco_Conscious
+1190,7,7,10,3,6,17,9,2,Email,Non-Eco-Friendly,3,0.72,1,1,0.67,Eco_Conscious
+1191,5,10,1,9,10,20,3,1,Social Media,Eco-Friendly,1,0.63,1,1,0.55,Eco_Conscious
+1192,6,2,3,3,5,10,2,2,Ads,Eco-Friendly,4,0.38,0,0,0.37,Low_Interest
+1193,8,4,2,9,7,16,6,3,Email,Eco-Friendly,5,0.58,1,0,0.5,Low_Interest
+1199,2,10,2,9,3,0,1,3,Social Media,Non-Eco-Friendly,1,0.43,0,0,0.4,Low_Interest
+1200,8,3,3,3,1,7,1,0,Social Media,Eco-Friendly,3,0.36,0,0,0.45,Low_Interest

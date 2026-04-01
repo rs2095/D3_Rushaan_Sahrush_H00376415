@@ -17,6 +17,8 @@ train_green = df_sust[df_sust['Customer_ID'].isin(train_main['Customer_ID'])]
 
 test_final = test_main.merge(df_sust, on='Customer_ID', how='left')
 
+test_final.to_csv("../TrainTest/test_customer_info_eval.csv", index=False)
+
 #drops columns in test set
 cols_to_drop = ['Churn', 'Customer_Live_Time_Value', 'Green_Consumption_Score', 'Green_Purchase_Made']
 test_final= test_final.drop(columns=cols_to_drop, errors='ignore')

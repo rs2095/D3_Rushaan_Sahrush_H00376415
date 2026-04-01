@@ -1,8 +1,5 @@
 import pandas as pd
 
-OUTPUT_PATH = "../Datasets/4_customer_green_purchases_cleaned.csv"
-
-
 df = pd.read_csv("../../Raw/4_Green Consumption Behavior Dataset/Green_Consumption_Behavior_2024.csv")
 
 print("Initial shape:", df.shape)
