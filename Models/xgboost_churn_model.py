@@ -107,6 +107,12 @@ search = RandomizedSearchCV(
 )
 
 search.fit(X_train, y_train)
+
+cv_results = search.cv_results_
+best_idx = search.best_index_
+mean_score = cv_results['mean_test_score'][best_idx]
+std_score = cv_results['std_test_score'][best_idx]
+print(f"CV F1 Score: {mean_score:.4f} ± {std_score:.4f}")
 best_pipeline = search.best_estimator_
 
 #evaluates tuned model on test set

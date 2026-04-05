@@ -32,6 +32,21 @@ X_transformed[:, 0] *= 1.0
 X_transformed[:, 1] *= 1.5
 X_transformed[:, 2] *= 3.0
 
+# evaluates optimal k using silhouette score and davies-bouldin index
+k_range = range(2, 9)
+sil_scores = []
+db_scores = []
+
+for k in k_range:
+    km_temp = KMeans(n_clusters=k, init='k-means++', n_init='auto', random_state=42)
+    temp_labels = km_temp.fit_predict(X_transformed)
+    sil_scores.append(silhouette_score(X_transformed, temp_labels))
+    db_scores.append(davies_bouldin_score(X_transformed, temp_labels))
+
+print("K | Silhouette | Davies-Bouldin")
+for k, s, d in zip(k_range, sil_scores, db_scores):
+    print(f"{k} | {s:.3f}      | {d:.3f}")
+
 #trains kmeans clustering and measures training time
 start_train = time.time()
 kmeans = KMeans(n_clusters=4, init='k-means++', n_init='auto', random_state=42)

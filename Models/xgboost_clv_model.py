@@ -100,6 +100,12 @@ print(f"Mean Absolute Error: ${base_mae_orig:.2f}")
 #trains model with hyperparameter tuning and measures training and prediction time
 start_tune = time.time()
 search.fit(X_train, y_train)
+
+cv_results = search.cv_results_
+best_idx = search.best_index_
+mean_score = cv_results['mean_test_score'][best_idx]
+std_score = cv_results['std_test_score'][best_idx]
+print(f"CV MAE: {abs(mean_score):.4f} ± {std_score:.4f}")
 end_tune = time.time()
 best_model = search.best_estimator_
 

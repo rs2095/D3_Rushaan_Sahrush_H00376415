@@ -36,7 +36,6 @@ numeric_cols = [
 plt.figure(figsize=(12, 8))
 for i, col in enumerate(numeric_cols, 1):
     plt.subplot(2, 2, i)
-    # Adding a KDE plot to see the density clearly
     sns.histplot(df[col], kde=True, color="teal")
     plt.title(f"{col} Distribution")
 plt.tight_layout()
