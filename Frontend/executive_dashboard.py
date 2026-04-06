@@ -541,7 +541,7 @@ def show():
                 cltv_col1, cltv_col2 = st.columns([1, 1], gap="large")
 
                 with cltv_col1:
-                    st.markdown("### Predicted CLTV Distribution")
+                    st.markdown("### Predicted CLV Distribution")
 
                     fig_cltv = px.histogram(
                         df,
@@ -571,7 +571,7 @@ def show():
 
                 #displays cltv shap analysis
                 with cltv_col2:
-                    st.markdown('<div style="margin-top: -75px;"><h2>Top CLTV Drivers (SHAP)</h2></div>',
+                    st.markdown('<div style="margin-top: -75px;"><h2>Top CLV Drivers (SHAP)</h2></div>',
                                 unsafe_allow_html=True)
 
                     try:
@@ -642,7 +642,10 @@ def show():
             if 'Predicted_CLTV' in df.columns:
                 df_final['Predicted_CLTV'] = df['Predicted_CLTV']
 
-            st.dataframe(df_final, use_container_width=True, height=400)
+            eco_cols_to_hide = ['Pred_Green_Class', 'Pred_Green_Score', 'Green_Score_%', 'Eco_Segment']
+            df_display = df_final.drop(columns=[c for c in eco_cols_to_hide if c in df_final.columns])
+
+            st.dataframe(df_display, use_container_width=True, height=400)
 
         #user comments and annotations section
         st.markdown("<br>", unsafe_allow_html=True)

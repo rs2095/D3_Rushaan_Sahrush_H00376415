@@ -25,12 +25,12 @@ def show():
     st.markdown("---")
     st.subheader("Technologies Used")
     st.markdown("""
-    - **Python and Streamlit** – Interactive dashboard and web app  
-    - **K-Means Clustering** – Customer segmentation  
-    - **XGBoost (Classifier & Regressor)** – Churn prediction & CLV estimation  
-    - **Decision Tree Classifier** – Rule-based insights  
-    - **FP-Growth Algorithm** – Frequent pattern analysis  
-    - **Predictive Simulation Models** – Scenario analysis and business outcome simulations  
+    - **Python and Streamlit**: Interactive dashboard and web app  
+    - **K-Means Clustering**: Customer segmentation  
+    - **XGBoost (Classifier & Regressor)**: Churn prediction & CLV estimation  
+    - **Decision Tree Classifier**: Rule-based insights  
+    - **FP-Growth Algorithm**: Frequent pattern analysis  
+    - **Predictive Simulation Models**: Scenario analysis and business outcome simulations  
     - **Firebase** – Authentication, role management, and feedback logging  
     """)
 

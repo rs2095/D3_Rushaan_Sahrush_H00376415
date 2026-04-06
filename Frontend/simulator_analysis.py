@@ -405,10 +405,10 @@ def show():
             "Total_Subscriptions"
         ],
         "Correlated Features": [
-            "Satisfaction_Score, Loyalty_Engagement_Score",
-            "Days_Since_Last_Order",
-            "Satisfaction_Score",
-            "Loyalty_Engagement_Score"
+            "Satisfaction_Score, Loyalty_Engagement_Score, Days_Since_Last_Order",
+            "Days_Since_Last_Order, Satisfaction_Score, Loyalty_Engagement_Score",
+            "Satisfaction_Score, Loyalty_Engagement_Score, Days_Since_Last_Order",
+            "Loyalty_Engagement_Score, Satisfaction_Score"
         ]
     }), use_container_width=True, hide_index=True)
 
@@ -437,16 +437,16 @@ def show():
     actions_df = pd.DataFrame([
         {"Action": "Increase Cashback Opportunities", "Slider Value": cashback_val,
          "Primary Feature": "Average_Cash_Back",
-         "Correlated Features": "Satisfaction_Score, Loyalty_Engagement_Score"},
+         "Correlated Features": "Satisfaction_Score, Loyalty_Engagement_Score, Days_Since_Last_Order"},
         {"Action": "More Marketing & Customer Incentives", "Slider Value": marketing_val,
          "Primary Feature": "Total_Amount_Spent",
-         "Correlated Features": "Days_Since_Last_Order, Order_Amount_Hike_From_Last_Year"},
+         "Correlated Features": "Days_Since_Last_Order, Order_Amount_Hike_From_Last_Year, Satisfaction_Score, Loyalty_Engagement_Score"},
         {"Action": "Boost Customer Support Quality", "Slider Value": support_val,
          "Primary Feature": "Complain_Count_In_Last_Month",
-         "Correlated Features": "Satisfaction_Score"},
+         "Correlated Features": "Satisfaction_Score, Loyalty_Engagement_Score, Days_Since_Last_Order"},
         {"Action": "Subscription Push", "Slider Value": subscription_val,
          "Primary Feature": "Total_Subscriptions",
-         "Correlated Features": "Loyalty_Engagement_Score"},
+         "Correlated Features": "Loyalty_Engagement_Score, Satisfaction_Score"},
     ])
 
     st.download_button(

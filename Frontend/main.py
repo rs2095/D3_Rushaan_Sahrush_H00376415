@@ -110,6 +110,7 @@ if "user" not in st.session_state:
                     st.success(f"Admin account created! Your organization code is:")
                     st.code(org_code)
                     st.info("Share this code with your team members so they can join your organization as Analysts.")
+                    st.info("You can now log in.")
 
             elif role == "Analyst":
                 if not org_code_input or not org_code_input.strip():
