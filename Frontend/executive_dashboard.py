@@ -9,6 +9,9 @@ import hashlib
 from styles import inject_styles
 from audit_logger import log_event
 
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MODEL_DIR = os.path.join(BASE_DIR, "Models", "Outputs")
 
 #calculates eco strength percentage per segment
 def calculate_eco_strength(df):
@@ -116,11 +119,11 @@ def show():
         #loads core models once
         if 'models_loaded' not in st.session_state:
             try:
-                st.session_state.kmeans = joblib.load("../Models/Outputs/kmeans_model.pkl")
-                st.session_state.pt = joblib.load("../Models/Outputs/power_transformer.pkl")
-                st.session_state.medians = joblib.load("../Models/Outputs/segmentation_medians.pkl")
-                st.session_state.churn_model = joblib.load("../Models/Outputs/churn_model.pkl")
-                st.session_state.cltv_model = joblib.load("../Models/Outputs/cltv_model.pkl")
+                st.session_state.kmeans = joblib.load(os.path.join(MODEL_DIR, "kmeans_model.pkl"))
+                st.session_state.pt = joblib.load(os.path.join(MODEL_DIR, "power_transformer.pkl"))
+                st.session_state.medians = joblib.load(os.path.join(MODEL_DIR, "segmentation_medians.pkl"))
+                st.session_state.churn_model = joblib.load(os.path.join(MODEL_DIR, "churn_model.pkl"))
+                st.session_state.cltv_model = joblib.load(os.path.join(MODEL_DIR, "cltv_model.pkl"))
                 st.session_state.models_loaded = True
             except FileNotFoundError as e:
                 st.error(f"One or more model files could not be found. Please check the Models/Outputs directory.\n\nMissing: {e}")
@@ -132,8 +135,8 @@ def show():
         #loads eco models once
         if 'eco_models_loaded' not in st.session_state:
             try:
-                st.session_state.eco_clf = joblib.load("../Models/Outputs/eco_classification_pipe.pkl")
-                st.session_state.eco_reg = joblib.load("../Models/Outputs/eco_regression_pipe.pkl")
+                st.session_state.eco_clf = joblib.load(os.path.join(MODEL_DIR, "eco_classification_pipe.pkl"))
+                st.session_state.eco_reg = joblib.load(os.path.join(MODEL_DIR, "eco_regression_pipe.pkl"))
                 st.session_state.eco_models_loaded = True
             except FileNotFoundError:
                 st.warning("Eco models not found — eco segmentation will be skipped.")
