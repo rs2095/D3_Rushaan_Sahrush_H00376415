@@ -173,8 +173,10 @@ shap_values = explainer.shap_values(X_test_transformed)
 
 #shap summary plot
 plt.figure(figsize=(10, 6))
+plt.title("SHAP Beeswarm: Feature Impact on Customer Churn")
 shap.summary_plot(shap_values, X_test_transformed, feature_names=all_feature_names)
 
 #shap bar plot
 plt.figure(figsize=(10, 6))
-shap.summary_plot(shap_values, X_test_transformed, feature_names=all_feature_names, plot_type="bar")
+plt.title("Top Drivers of Customer Churn")
+shap.summary_plot(shap_values, X_test_transformed, feature_names=all_feature_names, plot_type="bar", color='#8A2BE2')

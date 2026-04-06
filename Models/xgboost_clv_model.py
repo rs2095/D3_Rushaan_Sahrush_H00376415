@@ -167,7 +167,7 @@ shap.summary_plot(
     plot_type="dot",
     show=False
 )
-plt.title("SHAP Summary: Drivers of Customer Lifetime Value (Log-Scale)")
+plt.title("SHAP Beeswarm: Feature Impact on Customer Lifetime Value (Log-Scale)")
 plt.tight_layout()
 plt.show()
 
@@ -178,7 +178,8 @@ shap.summary_plot(
     X_test_transformed,
     feature_names=all_feature_names,
     plot_type="bar",
-    show=False
+    show=False,
+    color='#8A2BE2'
 )
-plt.title("Global Feature Importance (Mean Absolute SHAP)")
+plt.title("Top Drivers of Customer Lifetime Value")
 plt.show()
