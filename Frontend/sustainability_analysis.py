@@ -7,7 +7,10 @@ import joblib
 import shap
 from styles import inject_styles
 from audit_logger import log_event
+import os
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MODEL_DIR = os.path.join(BASE_DIR, "Models", "Outputs")
 
 def show():
     st.set_page_config(page_title="Sustainability Intelligence", layout="wide")
@@ -52,8 +55,8 @@ def show():
 
     #loads eco models once
     if 'eco_models_loaded' not in st.session_state:
-        st.session_state.eco_clf = joblib.load("eco_classification_pipe.pkl")
-        st.session_state.eco_reg = joblib.load("eco_regression_pipe.pkl")
+        st.session_state.eco_clf = joblib.load(os.path.join(MODEL_DIR, "eco_classification_pipe.pkl"))
+        st.session_state.eco_reg = joblib.load(os.path.join(MODEL_DIR, "eco_regression_pipe.pkl"))
         st.session_state.eco_models_loaded = True
 
     eco_clf = st.session_state.eco_clf
