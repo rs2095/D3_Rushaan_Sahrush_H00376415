@@ -13,9 +13,11 @@ import simulator_analysis
 import data_analysis
 import audit_history
 
-load_dotenv()
-API_KEY = os.getenv("FIREBASE_API_KEY")
-
+try:
+    API_KEY = st.secrets["FIREBASE_API_KEY"]
+except:
+    load_dotenv()
+    API_KEY = os.getenv("FIREBASE_API_KEY")
 
 #generates a unique organization code for admin accounts
 def generate_org_code():

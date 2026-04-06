@@ -4,15 +4,22 @@ import firebase_admin
 from firebase_admin import credentials, firestore
 import os
 from dotenv import load_dotenv
+import json
 
-cred = credentials.Certificate("firebase_key.json")
 if not firebase_admin._apps:
+    try:
+        firebase_creds = json.loads(st.secrets["FIREBASE_CREDENTIALS"])
+        cred = credentials.Certificate(firebase_creds)
+    except:
+        cred = credentials.Certificate("firebase_key.json")
     firebase_admin.initialize_app(cred)
 db = firestore.client()
 
-
-load_dotenv()
-API_KEY = os.getenv("FIREBASE_API_KEY")
+try:
+    API_KEY = st.secrets["FIREBASE_API_KEY"]
+except:
+    load_dotenv()
+    API_KEY = os.getenv("FIREBASE_API_KEY")
 
 st.title("Firebase Auth Test")
 menu = ["Login", "Sign Up"]

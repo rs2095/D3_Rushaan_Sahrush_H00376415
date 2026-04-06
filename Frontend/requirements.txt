@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+mlxtend
+firebase-admin
+plotly
+networkx
+python-dotenv
