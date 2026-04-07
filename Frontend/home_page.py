@@ -31,7 +31,7 @@ def show():
     - **Decision Tree Classifier**: Rule-based insights  
     - **FP-Growth Algorithm**: Frequent pattern analysis  
     - **Predictive Simulation Models**: Scenario analysis and business outcome simulations  
-    - **Firebase** – Authentication, role management, and feedback logging  
+    - **Firebase**: Authentication, role management, and feedback logging  
     """)
 
     st.markdown("---")
